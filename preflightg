@@ -1,0 +1,18 @@
+#!/bin/sh
+# Extract UFOs from .glyphs file, then do normal preflight.
+
+# Create UFO from Glyphs file
+
+echo ""
+echo "Converting .glyphs to UFO3..."
+if psfglyphs2ufo source/masters/Ruwudu-master.glyphs source/masters
+then
+  # Fix up the advance width of damma-ar.ss0
+  psfremovegliflibkeys source/masters/Ruwudu-Regular.ufo com.schriftgestaltung.Glyphs.originalWidth
+  ./preflight
+else
+  # Something went wrong... abort
+  echo ""
+  echo "psfglyphs2ufo failed ... aborting preflightg"
+  echo ""
+fi
