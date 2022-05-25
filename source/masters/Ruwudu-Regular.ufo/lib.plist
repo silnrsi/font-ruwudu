@@ -477,12 +477,8 @@
     <string>jeemTwodotsabove-ar.medi.stack</string>
     <string>dal-ar</string>
     <string>dal-ar.fina</string>
-    <string>dal-ar.alt</string>
-    <string>dal-ar.fina.alt</string>
     <string>thal-ar</string>
     <string>thal-ar.fina</string>
-    <string>thal-ar.alt</string>
-    <string>thal-ar.fina.alt</string>
     <string>reh-ar</string>
     <string>reh-ar.fina</string>
     <string>zain-ar</string>
@@ -493,20 +489,12 @@
     <string>seen-ar.fina</string>
     <string>seen-ar.medi</string>
     <string>seen-ar.init</string>
-    <string>seen-ar.shrtail</string>
-    <string>seen-ar.longtail</string>
-    <string>seen-ar.fina.shrtail</string>
-    <string>seen-ar.fina.longtail</string>
     <string>seen-ar.medi.flat</string>
     <string>seen-ar.fina.low</string>
     <string>sheen-ar</string>
     <string>sheen-ar.fina</string>
     <string>sheen-ar.medi</string>
     <string>sheen-ar.init</string>
-    <string>sheen-ar.shrtail</string>
-    <string>sheen-ar.longtail</string>
-    <string>sheen-ar.fina.shrtail</string>
-    <string>sheen-ar.fina.longtail</string>
     <string>sheen-ar.medi.flat</string>
     <string>sheen-ar.fina.low</string>
     <string>sad-ar</string>
@@ -693,37 +681,21 @@
     <string>noon-ar.fina</string>
     <string>noon-ar.medi</string>
     <string>noon-ar.init</string>
-    <string>noon-ar.shrtail</string>
-    <string>noon-ar.fina.shrtail</string>
-    <string>noon-ar.longtail</string>
-    <string>noon-ar.fina.longtail</string>
     <string>noon-ar.medi.flat</string>
     <string>noonghunna-ar</string>
     <string>noonghunna-ar.fina</string>
     <string>noonghunna-ar.medi</string>
     <string>noonghunna-ar.init</string>
-    <string>noonghunna-ar.shrtail</string>
-    <string>noonghunna-ar.fina.shrtail</string>
-    <string>noonghunna-ar.longtail</string>
-    <string>noonghunna-ar.fina.longtail</string>
     <string>noonghunna-ar.medi.flat</string>
     <string>noonTwodotsbelow-ar</string>
     <string>noonTwodotsbelow-ar.fina</string>
     <string>noonTwodotsbelow-ar.medi</string>
     <string>noonTwodotsbelow-ar.init</string>
-    <string>noonTwodotsbelow-ar.shrtail</string>
-    <string>noonTwodotsbelow-ar.fina.shrtail</string>
-    <string>noonTwodotsbelow-ar.longtail</string>
-    <string>noonTwodotsbelow-ar.fina.longtail</string>
     <string>noonTwodotsbelow-ar.medi.flat</string>
     <string>noonAfrican-ar</string>
     <string>noonAfrican-ar.fina</string>
     <string>noonAfrican-ar.medi</string>
     <string>noonAfrican-ar.init</string>
-    <string>noonAfrican-ar.shrtail</string>
-    <string>noonAfrican-ar.fina.shrtail</string>
-    <string>noonAfrican-ar.longtail</string>
-    <string>noonAfrican-ar.fina.longtail</string>
     <string>noonAfrican-ar.medi.flat</string>
     <string>heh-ar</string>
     <string>heh-ar.fina</string>
@@ -733,122 +705,72 @@
     <string>tehMarbuta-ar.fina</string>
     <string>waw-ar</string>
     <string>waw-ar.fina</string>
-    <string>waw-ar.alt</string>
-    <string>waw-ar.fina.alt</string>
     <string>wawHamzaabove-ar</string>
     <string>wawHamzaabove-ar.fina</string>
-    <string>wawHamzaabove-ar.alt</string>
-    <string>wawHamzaabove-ar.fina.alt</string>
     <string>oe-ar</string>
     <string>oe-ar.fina</string>
-    <string>oe-ar.alt</string>
-    <string>oe-ar.fina.alt</string>
     <string>yu-ar</string>
     <string>yu-ar.fina</string>
-    <string>yu-ar.alt</string>
-    <string>yu-ar.fina.alt</string>
     <string>kirghizyu-ar</string>
     <string>kirghizyu-ar.fina</string>
-    <string>kirghizyu-ar.alt</string>
-    <string>kirghizyu-ar.fina.alt</string>
     <string>alefMaksura-ar</string>
     <string>alefMaksura-ar.fina</string>
     <string>alefMaksura-ar.medi</string>
     <string>alefMaksura-ar.init</string>
-    <string>alefMaksura-ar.shrtail</string>
-    <string>alefMaksura-ar.fina.shrtail</string>
-    <string>alefMaksura-ar.longtail</string>
-    <string>alefMaksura-ar.fina.longtail</string>
     <string>alefMaksura-ar.medi.flat</string>
     <string>alefMaksura-ar.fina.low</string>
     <string>yeh-ar</string>
     <string>yeh-ar.fina</string>
     <string>yeh-ar.medi</string>
     <string>yeh-ar.init</string>
-    <string>yeh-ar.shrtail</string>
-    <string>yeh-ar.fina.shrtail</string>
-    <string>yeh-ar.longtail</string>
-    <string>yeh-ar.fina.longtail</string>
     <string>yeh-ar.medi.flat</string>
     <string>yeh-ar.fina.low</string>
     <string>yehHamzaabove-ar</string>
     <string>yehHamzaabove-ar.fina</string>
     <string>yehHamzaabove-ar.medi</string>
     <string>yehHamzaabove-ar.init</string>
-    <string>yehHamzaabove-ar.shrtail</string>
-    <string>yehHamzaabove-ar.fina.shrtail</string>
-    <string>yehHamzaabove-ar.longtail</string>
-    <string>yehHamzaabove-ar.fina.longtail</string>
     <string>yehHamzaabove-ar.medi.flat</string>
     <string>yehHamzaabove-ar.fina.low</string>
     <string>yehTwodotsbelowHamzaabove-ar</string>
     <string>yehTwodotsbelowHamzaabove-ar.fina</string>
     <string>yehTwodotsbelowHamzaabove-ar.medi</string>
     <string>yehTwodotsbelowHamzaabove-ar.init</string>
-    <string>yehTwodotsbelowHamzaabove-ar.shrtail</string>
-    <string>yehTwodotsbelowHamzaabove-ar.fina.shrtail</string>
-    <string>yehTwodotsbelowHamzaabove-ar.longtail</string>
-    <string>yehTwodotsbelowHamzaabove-ar.fina.longtail</string>
     <string>yehTwodotsbelowHamzaabove-ar.medi.flat</string>
     <string>yehTwodotsbelowHamzaabove-ar.fina.low</string>
     <string>yehTwodotsbelowDotabove-ar</string>
     <string>yehTwodotsbelowDotabove-ar.fina</string>
     <string>yehTwodotsbelowDotabove-ar.medi</string>
     <string>yehTwodotsbelowDotabove-ar.init</string>
-    <string>yehTwodotsbelowDotabove-ar.shrtail</string>
-    <string>yehTwodotsbelowDotabove-ar.fina.shrtail</string>
-    <string>yehTwodotsbelowDotabove-ar.longtail</string>
-    <string>yehTwodotsbelowDotabove-ar.fina.longtail</string>
     <string>yehTwodotsbelowDotabove-ar.medi.flat</string>
     <string>yehTwodotsbelowDotabove-ar.fina.low</string>
     <string>yeh-farsi</string>
     <string>yeh-farsi.fina</string>
     <string>yeh-farsi.medi</string>
     <string>yeh-farsi.init</string>
-    <string>yeh-farsi.shrtail</string>
-    <string>yeh-farsi.fina.shrtail</string>
-    <string>yeh-farsi.longtail</string>
-    <string>yeh-farsi.fina.longtail</string>
     <string>yeh-farsi.medi.flat</string>
     <string>yeh-farsi.fina.low</string>
     <string>yehThreedotsabove-farsi</string>
     <string>yehThreedotsabove-farsi.fina</string>
     <string>yehThreedotsabove-farsi.medi</string>
     <string>yehThreedotsabove-farsi.init</string>
-    <string>yehThreedotsabove-farsi.shrtail</string>
-    <string>yehThreedotsabove-farsi.fina.shrtail</string>
-    <string>yehThreedotsabove-farsi.longtail</string>
-    <string>yehThreedotsabove-farsi.fina.longtail</string>
     <string>yehThreedotsabove-farsi.medi.flat</string>
     <string>yehThreedotsabove-farsi.fina.low</string>
     <string>yehThreedotsabove-farsi.ss09</string>
     <string>yehThreedotsabove-farsi.fina.ss09</string>
     <string>yehThreedotsabove-farsi.medi.ss09</string>
     <string>yehThreedotsabove-farsi.init.ss09</string>
-    <string>yehThreedotsabove-farsi.shrtail.ss09</string>
-    <string>yehThreedotsabove-farsi.fina.shrtail.ss09</string>
-    <string>yehThreedotsabove-farsi.longtail.ss09</string>
-    <string>yehThreedotsabove-farsi.fina.longtail.ss09</string>
     <string>yehThreedotsabove-farsi.medi.flat.ss09</string>
     <string>yehThreedotsabove-farsi.fina.low.ss09</string>
     <string>e-ar</string>
     <string>e-ar.fina</string>
     <string>e-ar.medi</string>
     <string>e-ar.init</string>
-    <string>e-ar.shrtail</string>
-    <string>e-ar.fina.shrtail</string>
-    <string>e-ar.longtail</string>
-    <string>e-ar.fina.longtail</string>
     <string>e-ar.medi.flat</string>
     <string>e-ar.fina.low</string>
     <string>yehThreedotsbelow-ar</string>
     <string>yehThreedotsbelow-ar.fina</string>
     <string>yehThreedotsbelow-ar.medi</string>
     <string>yehThreedotsbelow-ar.init</string>
-    <string>yehThreedotsbelow-ar.shrtail</string>
-    <string>yehThreedotsbelow-ar.fina.shrtail</string>
-    <string>yehThreedotsbelow-ar.longtail</string>
-    <string>yehThreedotsbelow-ar.fina.longtail</string>
     <string>yehThreedotsbelow-ar.medi.flat</string>
     <string>yehThreedotsbelow-ar.fina.low</string>
     <string>yehbarree-ar</string>
@@ -1501,12 +1423,8 @@
     <string>jeemTwodotsabove-ar.medi.stack</string>
     <string>dal-ar</string>
     <string>dal-ar.fina</string>
-    <string>dal-ar.alt</string>
-    <string>dal-ar.fina.alt</string>
     <string>thal-ar</string>
     <string>thal-ar.fina</string>
-    <string>thal-ar.alt</string>
-    <string>thal-ar.fina.alt</string>
     <string>reh-ar</string>
     <string>reh-ar.fina</string>
     <string>zain-ar</string>
@@ -1517,20 +1435,12 @@
     <string>seen-ar.fina</string>
     <string>seen-ar.medi</string>
     <string>seen-ar.init</string>
-    <string>seen-ar.shrtail</string>
-    <string>seen-ar.longtail</string>
-    <string>seen-ar.fina.shrtail</string>
-    <string>seen-ar.fina.longtail</string>
     <string>seen-ar.medi.flat</string>
     <string>seen-ar.fina.low</string>
     <string>sheen-ar</string>
     <string>sheen-ar.fina</string>
     <string>sheen-ar.medi</string>
     <string>sheen-ar.init</string>
-    <string>sheen-ar.shrtail</string>
-    <string>sheen-ar.longtail</string>
-    <string>sheen-ar.fina.shrtail</string>
-    <string>sheen-ar.fina.longtail</string>
     <string>sheen-ar.medi.flat</string>
     <string>sheen-ar.fina.low</string>
     <string>sad-ar</string>
@@ -1717,37 +1627,21 @@
     <string>noon-ar.fina</string>
     <string>noon-ar.medi</string>
     <string>noon-ar.init</string>
-    <string>noon-ar.shrtail</string>
-    <string>noon-ar.fina.shrtail</string>
-    <string>noon-ar.longtail</string>
-    <string>noon-ar.fina.longtail</string>
     <string>noon-ar.medi.flat</string>
     <string>noonghunna-ar</string>
     <string>noonghunna-ar.fina</string>
     <string>noonghunna-ar.medi</string>
     <string>noonghunna-ar.init</string>
-    <string>noonghunna-ar.shrtail</string>
-    <string>noonghunna-ar.fina.shrtail</string>
-    <string>noonghunna-ar.longtail</string>
-    <string>noonghunna-ar.fina.longtail</string>
     <string>noonghunna-ar.medi.flat</string>
     <string>noonTwodotsbelow-ar</string>
     <string>noonTwodotsbelow-ar.fina</string>
     <string>noonTwodotsbelow-ar.medi</string>
     <string>noonTwodotsbelow-ar.init</string>
-    <string>noonTwodotsbelow-ar.shrtail</string>
-    <string>noonTwodotsbelow-ar.fina.shrtail</string>
-    <string>noonTwodotsbelow-ar.longtail</string>
-    <string>noonTwodotsbelow-ar.fina.longtail</string>
     <string>noonTwodotsbelow-ar.medi.flat</string>
     <string>noonAfrican-ar</string>
     <string>noonAfrican-ar.fina</string>
     <string>noonAfrican-ar.medi</string>
     <string>noonAfrican-ar.init</string>
-    <string>noonAfrican-ar.shrtail</string>
-    <string>noonAfrican-ar.fina.shrtail</string>
-    <string>noonAfrican-ar.longtail</string>
-    <string>noonAfrican-ar.fina.longtail</string>
     <string>noonAfrican-ar.medi.flat</string>
     <string>heh-ar</string>
     <string>heh-ar.fina</string>
@@ -1757,122 +1651,72 @@
     <string>tehMarbuta-ar.fina</string>
     <string>waw-ar</string>
     <string>waw-ar.fina</string>
-    <string>waw-ar.alt</string>
-    <string>waw-ar.fina.alt</string>
     <string>wawHamzaabove-ar</string>
     <string>wawHamzaabove-ar.fina</string>
-    <string>wawHamzaabove-ar.alt</string>
-    <string>wawHamzaabove-ar.fina.alt</string>
     <string>oe-ar</string>
     <string>oe-ar.fina</string>
-    <string>oe-ar.alt</string>
-    <string>oe-ar.fina.alt</string>
     <string>yu-ar</string>
     <string>yu-ar.fina</string>
-    <string>yu-ar.alt</string>
-    <string>yu-ar.fina.alt</string>
     <string>kirghizyu-ar</string>
     <string>kirghizyu-ar.fina</string>
-    <string>kirghizyu-ar.alt</string>
-    <string>kirghizyu-ar.fina.alt</string>
     <string>alefMaksura-ar</string>
     <string>alefMaksura-ar.fina</string>
     <string>alefMaksura-ar.medi</string>
     <string>alefMaksura-ar.init</string>
-    <string>alefMaksura-ar.shrtail</string>
-    <string>alefMaksura-ar.fina.shrtail</string>
-    <string>alefMaksura-ar.longtail</string>
-    <string>alefMaksura-ar.fina.longtail</string>
     <string>alefMaksura-ar.medi.flat</string>
     <string>alefMaksura-ar.fina.low</string>
     <string>yeh-ar</string>
     <string>yeh-ar.fina</string>
     <string>yeh-ar.medi</string>
     <string>yeh-ar.init</string>
-    <string>yeh-ar.shrtail</string>
-    <string>yeh-ar.fina.shrtail</string>
-    <string>yeh-ar.longtail</string>
-    <string>yeh-ar.fina.longtail</string>
     <string>yeh-ar.medi.flat</string>
     <string>yeh-ar.fina.low</string>
     <string>yehHamzaabove-ar</string>
     <string>yehHamzaabove-ar.fina</string>
     <string>yehHamzaabove-ar.medi</string>
     <string>yehHamzaabove-ar.init</string>
-    <string>yehHamzaabove-ar.shrtail</string>
-    <string>yehHamzaabove-ar.fina.shrtail</string>
-    <string>yehHamzaabove-ar.longtail</string>
-    <string>yehHamzaabove-ar.fina.longtail</string>
     <string>yehHamzaabove-ar.medi.flat</string>
     <string>yehHamzaabove-ar.fina.low</string>
     <string>yehTwodotsbelowHamzaabove-ar</string>
     <string>yehTwodotsbelowHamzaabove-ar.fina</string>
     <string>yehTwodotsbelowHamzaabove-ar.medi</string>
     <string>yehTwodotsbelowHamzaabove-ar.init</string>
-    <string>yehTwodotsbelowHamzaabove-ar.shrtail</string>
-    <string>yehTwodotsbelowHamzaabove-ar.fina.shrtail</string>
-    <string>yehTwodotsbelowHamzaabove-ar.longtail</string>
-    <string>yehTwodotsbelowHamzaabove-ar.fina.longtail</string>
     <string>yehTwodotsbelowHamzaabove-ar.medi.flat</string>
     <string>yehTwodotsbelowHamzaabove-ar.fina.low</string>
     <string>yehTwodotsbelowDotabove-ar</string>
     <string>yehTwodotsbelowDotabove-ar.fina</string>
     <string>yehTwodotsbelowDotabove-ar.medi</string>
     <string>yehTwodotsbelowDotabove-ar.init</string>
-    <string>yehTwodotsbelowDotabove-ar.shrtail</string>
-    <string>yehTwodotsbelowDotabove-ar.fina.shrtail</string>
-    <string>yehTwodotsbelowDotabove-ar.longtail</string>
-    <string>yehTwodotsbelowDotabove-ar.fina.longtail</string>
     <string>yehTwodotsbelowDotabove-ar.medi.flat</string>
     <string>yehTwodotsbelowDotabove-ar.fina.low</string>
     <string>yeh-farsi</string>
     <string>yeh-farsi.fina</string>
     <string>yeh-farsi.medi</string>
     <string>yeh-farsi.init</string>
-    <string>yeh-farsi.shrtail</string>
-    <string>yeh-farsi.fina.shrtail</string>
-    <string>yeh-farsi.longtail</string>
-    <string>yeh-farsi.fina.longtail</string>
     <string>yeh-farsi.medi.flat</string>
     <string>yeh-farsi.fina.low</string>
     <string>yehThreedotsabove-farsi</string>
     <string>yehThreedotsabove-farsi.fina</string>
     <string>yehThreedotsabove-farsi.medi</string>
     <string>yehThreedotsabove-farsi.init</string>
-    <string>yehThreedotsabove-farsi.shrtail</string>
-    <string>yehThreedotsabove-farsi.fina.shrtail</string>
-    <string>yehThreedotsabove-farsi.longtail</string>
-    <string>yehThreedotsabove-farsi.fina.longtail</string>
     <string>yehThreedotsabove-farsi.medi.flat</string>
     <string>yehThreedotsabove-farsi.fina.low</string>
     <string>yehThreedotsabove-farsi.ss09</string>
     <string>yehThreedotsabove-farsi.fina.ss09</string>
     <string>yehThreedotsabove-farsi.medi.ss09</string>
     <string>yehThreedotsabove-farsi.init.ss09</string>
-    <string>yehThreedotsabove-farsi.shrtail.ss09</string>
-    <string>yehThreedotsabove-farsi.fina.shrtail.ss09</string>
-    <string>yehThreedotsabove-farsi.longtail.ss09</string>
-    <string>yehThreedotsabove-farsi.fina.longtail.ss09</string>
     <string>yehThreedotsabove-farsi.medi.flat.ss09</string>
     <string>yehThreedotsabove-farsi.fina.low.ss09</string>
     <string>e-ar</string>
     <string>e-ar.fina</string>
     <string>e-ar.medi</string>
     <string>e-ar.init</string>
-    <string>e-ar.shrtail</string>
-    <string>e-ar.fina.shrtail</string>
-    <string>e-ar.longtail</string>
-    <string>e-ar.fina.longtail</string>
     <string>e-ar.medi.flat</string>
     <string>e-ar.fina.low</string>
     <string>yehThreedotsbelow-ar</string>
     <string>yehThreedotsbelow-ar.fina</string>
     <string>yehThreedotsbelow-ar.medi</string>
     <string>yehThreedotsbelow-ar.init</string>
-    <string>yehThreedotsbelow-ar.shrtail</string>
-    <string>yehThreedotsbelow-ar.fina.shrtail</string>
-    <string>yehThreedotsbelow-ar.longtail</string>
-    <string>yehThreedotsbelow-ar.fina.longtail</string>
     <string>yehThreedotsbelow-ar.medi.flat</string>
     <string>yehThreedotsbelow-ar.fina.low</string>
     <string>yehbarree-ar</string>
@@ -2247,22 +2091,14 @@
     <string>uni0649</string>
     <key>alefMaksura-ar.fina</key>
     <string>uni0649.fina</string>
-    <key>alefMaksura-ar.fina.longtail</key>
-    <string>uni0649.fina.longtail</string>
     <key>alefMaksura-ar.fina.low</key>
     <string>uni0649.fina.low</string>
-    <key>alefMaksura-ar.fina.shrtail</key>
-    <string>uni0649.fina.shrtail</string>
     <key>alefMaksura-ar.init</key>
     <string>uni0649.init</string>
-    <key>alefMaksura-ar.longtail</key>
-    <string>uni0649.longtail</string>
     <key>alefMaksura-ar.medi</key>
     <string>uni0649.medi</string>
     <key>alefMaksura-ar.medi.flat</key>
     <string>uni0649.medi.flat</string>
-    <key>alefMaksura-ar.shrtail</key>
-    <string>uni0649.shrtail</string>
     <key>alefRightmiddlestroke-ar</key>
     <string>uni0872</string>
     <key>alefRightmiddlestroke-ar.fina</key>
@@ -2419,12 +2255,8 @@
     <string>uni0636.medi.flat</string>
     <key>dal-ar</key>
     <string>uni062F</string>
-    <key>dal-ar.alt</key>
-    <string>uni062F.alt</string>
     <key>dal-ar.fina</key>
     <string>uni062F.fina</string>
-    <key>dal-ar.fina.alt</key>
-    <string>uni062F.fina.alt</string>
     <key>damma-ar</key>
     <string>uni064F</string>
     <key>damma-ar.ss08</key>
@@ -2481,22 +2313,14 @@
     <string>uni06D0</string>
     <key>e-ar.fina</key>
     <string>uni06D0.fina</string>
-    <key>e-ar.fina.longtail</key>
-    <string>uni06D0.fina.longtail</string>
     <key>e-ar.fina.low</key>
     <string>uni06D0.fina.low</string>
-    <key>e-ar.fina.shrtail</key>
-    <string>uni06D0.fina.shrtail</string>
     <key>e-ar.init</key>
     <string>uni06D0.init</string>
-    <key>e-ar.longtail</key>
-    <string>uni06D0.longtail</string>
     <key>e-ar.medi</key>
     <string>uni06D0.medi</string>
     <key>e-ar.medi.flat</key>
     <string>uni06D0.medi.flat</string>
-    <key>e-ar.shrtail</key>
-    <string>uni06D0.shrtail</string>
     <key>eight-ar</key>
     <string>uni0668</string>
     <key>eight-ar.small</key>
@@ -2845,12 +2669,8 @@
     <string>uni062E.medi.stack</string>
     <key>kirghizyu-ar</key>
     <string>uni06C9</string>
-    <key>kirghizyu-ar.alt</key>
-    <string>uni06C9.alt</string>
     <key>kirghizyu-ar.fina</key>
     <string>uni06C9.fina</string>
-    <key>kirghizyu-ar.fina.alt</key>
-    <string>uni06C9.fina.alt</string>
     <key>lam-ar</key>
     <string>uni0644</string>
     <key>lam-ar.fina</key>
@@ -2945,74 +2765,42 @@
     <string>uni0646</string>
     <key>noon-ar.fina</key>
     <string>uni0646.fina</string>
-    <key>noon-ar.fina.longtail</key>
-    <string>uni0646.fina.longtail</string>
-    <key>noon-ar.fina.shrtail</key>
-    <string>uni0646.fina.shrtail</string>
     <key>noon-ar.init</key>
     <string>uni0646.init</string>
-    <key>noon-ar.longtail</key>
-    <string>uni0646.longtail</string>
     <key>noon-ar.medi</key>
     <string>uni0646.medi</string>
     <key>noon-ar.medi.flat</key>
     <string>uni0646.medi.flat</string>
-    <key>noon-ar.shrtail</key>
-    <string>uni0646.shrtail</string>
     <key>noonAfrican-ar</key>
     <string>uni08BD</string>
     <key>noonAfrican-ar.fina</key>
     <string>uni08BD.fina</string>
-    <key>noonAfrican-ar.fina.longtail</key>
-    <string>uni08BD.fina.longtail</string>
-    <key>noonAfrican-ar.fina.shrtail</key>
-    <string>uni08BD.fina.shrtail</string>
     <key>noonAfrican-ar.init</key>
     <string>uni08BD.init</string>
-    <key>noonAfrican-ar.longtail</key>
-    <string>uni08BD.longtail</string>
     <key>noonAfrican-ar.medi</key>
     <string>uni08BD.medi</string>
     <key>noonAfrican-ar.medi.flat</key>
     <string>uni08BD.medi.flat</string>
-    <key>noonAfrican-ar.shrtail</key>
-    <string>uni08BD.shrtail</string>
     <key>noonTwodotsbelow-ar</key>
     <string>uni0767</string>
     <key>noonTwodotsbelow-ar.fina</key>
     <string>uni0767.fina</string>
-    <key>noonTwodotsbelow-ar.fina.longtail</key>
-    <string>uni0767.fina.longtail</string>
-    <key>noonTwodotsbelow-ar.fina.shrtail</key>
-    <string>uni0767.fina.shrtail</string>
     <key>noonTwodotsbelow-ar.init</key>
     <string>uni0767.init</string>
-    <key>noonTwodotsbelow-ar.longtail</key>
-    <string>uni0767.longtail</string>
     <key>noonTwodotsbelow-ar.medi</key>
     <string>uni0767.medi</string>
     <key>noonTwodotsbelow-ar.medi.flat</key>
     <string>uni0767.flat</string>
-    <key>noonTwodotsbelow-ar.shrtail</key>
-    <string>uni0767.shrtail</string>
     <key>noonghunna-ar</key>
     <string>uni06BA</string>
     <key>noonghunna-ar.fina</key>
     <string>uni06BA.fina</string>
-    <key>noonghunna-ar.fina.longtail</key>
-    <string>uni06BA.fina.longtail</string>
-    <key>noonghunna-ar.fina.shrtail</key>
-    <string>uni06BA.fina.shrtail</string>
     <key>noonghunna-ar.init</key>
     <string>uni06BA.init</string>
-    <key>noonghunna-ar.longtail</key>
-    <string>uni06BA.longtail</string>
     <key>noonghunna-ar.medi</key>
     <string>uni06BA.medi</string>
     <key>noonghunna-ar.medi.flat</key>
     <string>uni06BA.medi.flat</string>
-    <key>noonghunna-ar.shrtail</key>
-    <string>uni06BA.shrtail</string>
     <key>noonghunnaabove-ar</key>
     <string>uni0658</string>
     <key>number-ar</key>
@@ -3043,12 +2831,8 @@
     <string>uniFFFC</string>
     <key>oe-ar</key>
     <string>uni06C6</string>
-    <key>oe-ar.alt</key>
-    <string>uni06C6.alt</string>
     <key>oe-ar.fina</key>
     <string>uni06C6.fina</string>
-    <key>oe-ar.fina.alt</key>
-    <string>uni06C6.fina.alt</string>
     <key>one-ar</key>
     <string>uni0661</string>
     <key>one-ar.small</key>
@@ -3179,22 +2963,14 @@
     <string>uni0633</string>
     <key>seen-ar.fina</key>
     <string>uni0633.fina</string>
-    <key>seen-ar.fina.longtail</key>
-    <string>uni0633.fina.longtail</string>
     <key>seen-ar.fina.low</key>
     <string>uni0633.fina.low</string>
-    <key>seen-ar.fina.shrtail</key>
-    <string>uni0633.fina.shrtail</string>
     <key>seen-ar.init</key>
     <string>uni0633.init</string>
-    <key>seen-ar.longtail</key>
-    <string>uni0633.longtail</string>
     <key>seen-ar.medi</key>
     <string>uni0633.medi</string>
     <key>seen-ar.medi.flat</key>
     <string>uni0633.medi.flat</string>
-    <key>seen-ar.shrtail</key>
-    <string>uni0633.shrtail</string>
     <key>semicolon-ar</key>
     <string>uni061B</string>
     <key>seven-ar</key>
@@ -3217,22 +2993,14 @@
     <string>uni0634</string>
     <key>sheen-ar.fina</key>
     <string>uni0634.fina</string>
-    <key>sheen-ar.fina.longtail</key>
-    <string>uni0634.fina.longtail</string>
     <key>sheen-ar.fina.low</key>
     <string>uni0634.fina.low</string>
-    <key>sheen-ar.fina.shrtail</key>
-    <string>uni0634.fina.shrtail</string>
     <key>sheen-ar.init</key>
     <string>uni0634.init</string>
-    <key>sheen-ar.longtail</key>
-    <string>uni0634.longtail</string>
     <key>sheen-ar.medi</key>
     <string>uni0634.medi</string>
     <key>sheen-ar.medi.flat</key>
     <string>uni0634.medi.flat</string>
-    <key>sheen-ar.shrtail</key>
-    <string>uni0634.shrtail</string>
     <key>six-ar</key>
     <string>uni0666</string>
     <key>six-ar.small</key>
@@ -3303,12 +3071,8 @@
     <string>uni067D.medi.flat</string>
     <key>thal-ar</key>
     <string>uni0630</string>
-    <key>thal-ar.alt</key>
-    <string>uni0630.alt</string>
     <key>thal-ar.fina</key>
     <string>uni0630.fina</string>
-    <key>thal-ar.fina.alt</key>
-    <string>uni0630.fina.alt</string>
     <key>theh-ar</key>
     <string>uni062B</string>
     <key>theh-ar.fina</key>
@@ -3369,20 +3133,12 @@
     <string>uni065B</string>
     <key>waw-ar</key>
     <string>uni0648</string>
-    <key>waw-ar.alt</key>
-    <string>uni0648.alt</string>
     <key>waw-ar.fina</key>
     <string>uni0648.fina</string>
-    <key>waw-ar.fina.alt</key>
-    <string>uni0648.fina.alt</string>
     <key>wawHamzaabove-ar</key>
     <string>uni0624</string>
-    <key>wawHamzaabove-ar.alt</key>
-    <string>uni0624.alt</string>
     <key>wawHamzaabove-ar.fina</key>
     <string>uni0624.fina</string>
-    <key>wawHamzaabove-ar.fina.alt</key>
-    <string>uni0624.fina.alt</string>
     <key>wawSmall-ar</key>
     <string>uni06E5</string>
     <key>wordjoiner</key>
@@ -3391,88 +3147,52 @@
     <string>uni064A</string>
     <key>yeh-ar.fina</key>
     <string>uni064A.fina</string>
-    <key>yeh-ar.fina.longtail</key>
-    <string>uni064A.fina.longtail</string>
     <key>yeh-ar.fina.low</key>
     <string>uni064A.fina.low</string>
-    <key>yeh-ar.fina.shrtail</key>
-    <string>uni064A.fina.shrtail</string>
     <key>yeh-ar.init</key>
     <string>uni064A.init</string>
-    <key>yeh-ar.longtail</key>
-    <string>uni064A.longtail</string>
     <key>yeh-ar.medi</key>
     <string>uni064A.medi</string>
     <key>yeh-ar.medi.flat</key>
     <string>uni064A.medi.flat</string>
-    <key>yeh-ar.shrtail</key>
-    <string>uni064A.shrtail</string>
     <key>yeh-farsi</key>
     <string>uni06CC</string>
     <key>yeh-farsi.fina</key>
     <string>uni06CC.fina</string>
-    <key>yeh-farsi.fina.longtail</key>
-    <string>uni06CC.fina.longtail</string>
     <key>yeh-farsi.fina.low</key>
     <string>uni06CC.fina.low</string>
-    <key>yeh-farsi.fina.shrtail</key>
-    <string>uni06CC.fina.shrtail</string>
     <key>yeh-farsi.init</key>
     <string>uni06CC.init</string>
-    <key>yeh-farsi.longtail</key>
-    <string>uni06CC.longtail</string>
     <key>yeh-farsi.medi</key>
     <string>uni06CC.medi</string>
     <key>yeh-farsi.medi.flat</key>
     <string>uni06CC.medi.flat</string>
-    <key>yeh-farsi.shrtail</key>
-    <string>uni06CC.shrtail</string>
     <key>yehHamzaabove-ar</key>
     <string>uni0626</string>
     <key>yehHamzaabove-ar.fina</key>
     <string>uni0626.fina</string>
-    <key>yehHamzaabove-ar.fina.longtail</key>
-    <string>uni0626.fina.longtail</string>
     <key>yehHamzaabove-ar.fina.low</key>
     <string>uni0626.fina.low</string>
-    <key>yehHamzaabove-ar.fina.shrtail</key>
-    <string>uni0626.fina.shrtail</string>
     <key>yehHamzaabove-ar.init</key>
     <string>uni0626.init</string>
-    <key>yehHamzaabove-ar.longtail</key>
-    <string>uni0626.longtail</string>
     <key>yehHamzaabove-ar.medi</key>
     <string>uni0626.medi</string>
     <key>yehHamzaabove-ar.medi.flat</key>
     <string>uni0626.medi.flat</string>
-    <key>yehHamzaabove-ar.shrtail</key>
-    <string>uni0626.shrtail</string>
     <key>yehThreedotsabove-farsi</key>
     <string>uni063F</string>
     <key>yehThreedotsabove-farsi.fina</key>
     <string>uni063F.fina</string>
-    <key>yehThreedotsabove-farsi.fina.longtail</key>
-    <string>uni063F.fina.longtail</string>
-    <key>yehThreedotsabove-farsi.fina.longtail.ss09</key>
-    <string>uni063F.fina.longtail.ss09</string>
     <key>yehThreedotsabove-farsi.fina.low</key>
     <string>uni063F.fina.low</string>
     <key>yehThreedotsabove-farsi.fina.low.ss09</key>
     <string>uni063F.fina.low.ss09</string>
-    <key>yehThreedotsabove-farsi.fina.shrtail</key>
-    <string>uni063F.fina.shrtail</string>
-    <key>yehThreedotsabove-farsi.fina.shrtail.ss09</key>
-    <string>uni063F.fina.shrtail.ss09</string>
     <key>yehThreedotsabove-farsi.fina.ss09</key>
     <string>uni063F.fina.ss09</string>
     <key>yehThreedotsabove-farsi.init</key>
     <string>uni063F.init</string>
     <key>yehThreedotsabove-farsi.init.ss09</key>
     <string>uni063F.init.ss09</string>
-    <key>yehThreedotsabove-farsi.longtail</key>
-    <string>uni063F.longtail</string>
-    <key>yehThreedotsabove-farsi.longtail.ss09</key>
-    <string>uni063F.longtail.ss09</string>
     <key>yehThreedotsabove-farsi.medi</key>
     <string>uni063F.medi</string>
     <key>yehThreedotsabove-farsi.medi.flat</key>
@@ -3481,72 +3201,44 @@
     <string>uni063F.medi.flat.ss09</string>
     <key>yehThreedotsabove-farsi.medi.ss09</key>
     <string>uni063F.medi.ss09</string>
-    <key>yehThreedotsabove-farsi.shrtail</key>
-    <string>uni063F.shrtail</string>
-    <key>yehThreedotsabove-farsi.shrtail.ss09</key>
-    <string>uni063F.shrtail.ss09</string>
     <key>yehThreedotsabove-farsi.ss09</key>
     <string>uni063F.ss09</string>
     <key>yehThreedotsbelow-ar</key>
     <string>uni06D1</string>
     <key>yehThreedotsbelow-ar.fina</key>
     <string>uni06D1.fina</string>
-    <key>yehThreedotsbelow-ar.fina.longtail</key>
-    <string>uni06D1.fina.longtail</string>
     <key>yehThreedotsbelow-ar.fina.low</key>
     <string>uni06D1.fina.low</string>
-    <key>yehThreedotsbelow-ar.fina.shrtail</key>
-    <string>uni06D1.fina.shrtail</string>
     <key>yehThreedotsbelow-ar.init</key>
     <string>uni06D1.init</string>
-    <key>yehThreedotsbelow-ar.longtail</key>
-    <string>uni06D1.longtail</string>
     <key>yehThreedotsbelow-ar.medi</key>
     <string>uni06D1.medi</string>
     <key>yehThreedotsbelow-ar.medi.flat</key>
     <string>uni06D1.medi.flat</string>
-    <key>yehThreedotsbelow-ar.shrtail</key>
-    <string>uni06D1.shrtail</string>
     <key>yehTwodotsbelowDotabove-ar</key>
     <string>uni08A9</string>
     <key>yehTwodotsbelowDotabove-ar.fina</key>
     <string>uni08A9.fina</string>
-    <key>yehTwodotsbelowDotabove-ar.fina.longtail</key>
-    <string>uni08A9.fina.longtail</string>
     <key>yehTwodotsbelowDotabove-ar.fina.low</key>
     <string>uni08A9.fina.low</string>
-    <key>yehTwodotsbelowDotabove-ar.fina.shrtail</key>
-    <string>uni08A9.fina.shrtail</string>
     <key>yehTwodotsbelowDotabove-ar.init</key>
     <string>uni08A9.init</string>
-    <key>yehTwodotsbelowDotabove-ar.longtail</key>
-    <string>uni08A9.longtail</string>
     <key>yehTwodotsbelowDotabove-ar.medi</key>
     <string>uni08A9.medi</string>
     <key>yehTwodotsbelowDotabove-ar.medi.flat</key>
     <string>uni08A9.medi.flat</string>
-    <key>yehTwodotsbelowDotabove-ar.shrtail</key>
-    <string>uni08A9.shrtail</string>
     <key>yehTwodotsbelowHamzaabove-ar</key>
     <string>uni08A8</string>
     <key>yehTwodotsbelowHamzaabove-ar.fina</key>
     <string>uni08A8.fina</string>
-    <key>yehTwodotsbelowHamzaabove-ar.fina.longtail</key>
-    <string>uni08A8.fina.longtail</string>
     <key>yehTwodotsbelowHamzaabove-ar.fina.low</key>
     <string>uni08A8.fina.low</string>
-    <key>yehTwodotsbelowHamzaabove-ar.fina.shrtail</key>
-    <string>uni08A8.fina.shrtail</string>
     <key>yehTwodotsbelowHamzaabove-ar.init</key>
     <string>uni08A8.init</string>
-    <key>yehTwodotsbelowHamzaabove-ar.longtail</key>
-    <string>uni08A8.longtail</string>
     <key>yehTwodotsbelowHamzaabove-ar.medi</key>
     <string>uni08A8.medi</string>
     <key>yehTwodotsbelowHamzaabove-ar.medi.flat</key>
     <string>uni08A8.medi.flat</string>
-    <key>yehTwodotsbelowHamzaabove-ar.shrtail</key>
-    <string>uni08A8.shrtail</string>
     <key>yehabove-ar</key>
     <string>uni06E7</string>
     <key>yehbarree-ar</key>
@@ -3561,12 +3253,8 @@
     <string>uni06D3.fina</string>
     <key>yu-ar</key>
     <string>uni06C8</string>
-    <key>yu-ar.alt</key>
-    <string>uni06C8.alt</string>
     <key>yu-ar.fina</key>
     <string>uni06C8.fina</string>
-    <key>yu-ar.fina.alt</key>
-    <string>uni06C8.fina.alt</string>
     <key>zah-ar</key>
     <string>uni0638</string>
     <key>zah-ar.fina</key>

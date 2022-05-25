@@ -945,19 +945,9 @@ languagesystem latn dflt;
 #    <!-- Note that we don't need to include alef-hamza or alef-madda because they are decomposed. -->
 @AlefNoAllahIsol = [alef-ar alefMadda-ar alefHamzaabove-ar alef-ar.wide];
 @AlefAllahIsol = [alef-ar.allah alefMadda-ar.allah alefHamzaabove-ar.allah alef-ar.allah];
-# THESE ARE USED FOR COLLISION AVOIDANCE - Required for Regular only
-# Just used for context
-@rehIsol = [reh-ar zain-ar];
-@seenInit = [seen-ar.init sheen-ar.init];
-@ainIsol = [ain-ar ghain-ar ainThreedots-ar ainTwodotshorizontalabove-ar ghainThreedotsabove-ar];
-@noonInit = [noon-ar.init noonghunna-ar.init noonTwodotsbelow-ar.init noonAfrican-ar.init];
+# THESE ARE USED FOR COLLISION AVOIDANCE 
 # Slightly shorter tail for yeh-barree before beh/yeh/noon forms:
 @pre_yb_need_alt = [yeh-ar.medi yeh-ar.init yehHamzaabove-ar.medi yehHamzaabove-ar.init yehTwodotsbelowHamzaabove-ar.medi yehTwodotsbelowHamzaabove-ar.init yehTwodotsbelowDotabove-ar.medi yehTwodotsbelowDotabove-ar.init yeh-farsi.medi yeh-farsi.init yehThreedotsabove-farsi.medi yehThreedotsabove-farsi.init yehThreedotsbelow-ar.medi yehThreedotsbelow-ar.init lam-ar.medi lam-ar.init beh-ar.medi beh-ar.init teh-ar.medi teh-ar.init tehThreedotsdown-ar.medi tehThreedotsdown-ar.init theh-ar.medi theh-ar.init noon-ar.medi noon-ar.init noonghunna-ar.medi noonghunna-ar.init noonTwodotsbelow-ar.medi noonTwodotsbelow-ar.init noonAfrican-ar.medi noonAfrican-ar.init behDotless-ar.medi behDotless-ar.init alefMaksura-ar.medi alefMaksura-ar.init];
-# Next classes are used for substitutions, so they must match
-# *NEXT 2 CLASSES MUST MATCH*
-# *NEXT 2 CLASSES MUST MATCH*								
-@behIsol = [beh-ar beeh-ar behThreedotsupabove-ar peh-ar behThreedotsupbelow-ar behhamzaabove-ar behVinvertedbelow-ar behVbelow-ar];
-@behInit = [beh-ar.init beeh-ar.init behThreedotsupabove-ar.init peh-ar.init behThreedotsupbelow-ar.init behhamzaabove-ar.init behVinvertedbelow-ar.init behVbelow-ar.init];
 # Used in ccmp for marks
 @hamzas = [hamzaabove-ar hamzabelow-ar];
 @takes_hamzaAbove = [damma-ar dammatan-ar fatha-ar fathatan-ar sukun-ar];

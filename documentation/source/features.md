@@ -100,26 +100,11 @@ Proportional Figures     | <span dir="rtl" class='Ruwudu-R normal' style='font-f
 
 Ruwudu has a few contextual rules applying subtle differences in the shape and position of certain of the characters depending on context (sometimes shortening, sometimes lengthening or lowering a “tail”). InDesign is able to utilize some of these cross word contextual alternates; however, most applications are not advanced enough to use this behavior in the font. Unfortunately, at this point in the development of the font, combining marks above or below may break these contextual alternates.
 
-#### Substitutions to avoid collisions in strings with noon-like characters
+#### Substitutions to avoid collisions in strings with _yeh barree_ character
 
-&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span dir="rtl" class='Ruwudu-R normal'>&#x0646;&#x0020;&#x062a;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x0646;&#x0020;&#x0628;</span>
+<span dir="rtl" class='Ruwudu-R normal'>&#x064A;&#x0650;&#x06D2;&#x0650;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x0633;&#x0650;&#x06D2;&#x0650;</span>
 
-#### Substitutions to avoid collisions in strings with yeh-like characters
-
-&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span dir="rtl" class='Ruwudu-R normal'>&#x0628;&#x064a;&#x0020;&#x0644;&#x0631;&#x0020;&#x0628;&#x064a;</span>
-
-#### Substitutions to avoid collisions in strings with seen-like characters
-
-&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span dir="rtl" class='Ruwudu-R normal'>&#x0633;&#x0020;&#x0633;&#x0648;&#x0020;&#x0633;</span>
-
-#### Substitutions for shortening dal-like characters (shorter tail on dal)
-
-&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span dir="rtl" class='Ruwudu-R normal'>&#x0633;&#x0020;&#x062f;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x062f;</span>
-
-#### Substitutions for shortening waw-like characters
-
-&#x00A0;&#x00A0;&#x00A0;&#x00A0;<span dir="rtl" class='Ruwudu-R normal'>&#x0628;&#x0646;&#x0020;&#x0648;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x0648;</span>
-
+<span dir="rtl" class='Ruwudu-R normal'>&#x0628;&#x063F;&#x0650;&#x06D2;&#x0650;&#x00a0;&#x00a0;&#x00a0;&#x00a0;&#x0628;&#x0633;&#x0650;&#x06D2;&#x0650;</span>
 
 
 <!-- PRODUCT SITE ONLY
