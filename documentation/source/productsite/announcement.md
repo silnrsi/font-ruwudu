@@ -1,7 +1,3 @@
----
-title: Ruwudu - Announcement
-fontversion: 1.301
----
 
 #### Changes
 
@@ -10,8 +6,7 @@ fontversion: 1.301
 - Split Alkalami Light font v 1.300 into a new typeface called Ruwudu. Version history is available in the Alkalami font package.
 - Removed non Unicode compliant solutions
 - Removed unnecessary swash glyphs
-- Updated behavior for initial forms of sad, dad and meem followed by hah-like characters to be "flat" instead of stacked
-  
+
 Both desktop and web fonts are provided in a single, all-platforms package on the [Download Page](https://software.sil.org/ruwudu#download).
 
 #### Known issues
