@@ -135,7 +135,7 @@ languagesystem latn dflt;
                        ainTwodotshorizontalabove-ar.medi behThreedotsupbelow-ar.medi behThreedotsupabove-ar.medi 
                        behThreedotsupabove-ar.medi.ss09 yehHamzaabove-ar.medi yehTwodotsbelowHamzaabove-ar.medi 
                        yehTwodotsbelowDotabove-ar.medi yehThreedotsabove-farsi.medi yehThreedotsbelow-ar.medi
-                       sad-ar.init.flat dad-ar.init.flat meem-ar.init.flat];
+                       sad-ar.init dad-ar.init meem-ar.init];
 
 # This creates an alternate form that does NOT get shifted up to the same level as the medial hah.
 # The forms that are NOT in this class are medial tah/zah, feh/qaf, and kaf/gaf and most initials.
@@ -855,7 +855,7 @@ feature rlig {
 
 feature salt {
 	lookup salt_lkp {
-		# I think the .flat rules can be deleted.
+		# It seems that InDesign requires these to be in salt in order to select the alternates.
 		sub behDotless-ar.medi by behDotless-ar.medi.flat;
 		sub beh-ar.medi by beh-ar.medi.flat;
 		sub peh-ar.medi by peh-ar.medi.flat;
@@ -899,14 +899,10 @@ feature salt {
 		sub dyeh-ar.fina by dyeh-ar.fina.alt;
 		sub jeemTwodotsabove-ar.fina by jeemTwodotsabove-ar.fina.alt;
 
-		# taller initial stroke - not used
+		# taller initial stroke
 		sub beh-ar.init by beh-ar.init.alt;
 
 		# shorter tails - handled by calt
-		sub sad-ar by sad-ar.alt;             # currently not used
-		sub sad-ar.fina by sad-ar.fina.alt;   # currently not used
-		sub dad-ar by dad-ar.alt;             # currently not used
-		sub dad-ar.fina by dad-ar.fina.alt;   # currently not used
 		sub yehbarree-ar.fina by yehbarree-ar.fina.alt;
 
 		# small latin and arabic digits for end of ayah - handled by calt
@@ -925,10 +921,6 @@ feature calt {
 		sub @pre_yb_need_alt  yehbarree-ar.fina'  by  yehbarree-ar.fina.alt;
 	} calt_lkp1;
 	
-	# Can these be moved down with the other jeem/hah lookups?
-	lookup prehah_alt;
-	lookup hahfinal_alt;
-
 	lookup calt_lkp2 {
 		lookupflag IgnoreMarks;
 
@@ -971,6 +963,9 @@ feature calt {
 	lookup shift_post_hah;
 	lookup flatten_pre_hah;
 	lookup flatten_hah;
+	# Can these be moved down with the other jeem/hah lookups?
+	lookup prehah_alt;
+	lookup hahfinal_alt;
 
 } calt;
 

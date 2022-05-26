@@ -501,16 +501,12 @@
     <string>sad-ar.fina</string>
     <string>sad-ar.medi</string>
     <string>sad-ar.init</string>
-    <string>sad-ar.alt</string>
-    <string>sad-ar.fina.alt</string>
     <string>sad-ar.medi.flat</string>
     <string>sad-ar.init.flat</string>
     <string>dad-ar</string>
     <string>dad-ar.fina</string>
     <string>dad-ar.medi</string>
     <string>dad-ar.init</string>
-    <string>dad-ar.alt</string>
-    <string>dad-ar.fina.alt</string>
     <string>dad-ar.medi.flat</string>
     <string>dad-ar.init.flat</string>
     <string>tah-ar</string>
@@ -1447,16 +1443,12 @@
     <string>sad-ar.fina</string>
     <string>sad-ar.medi</string>
     <string>sad-ar.init</string>
-    <string>sad-ar.alt</string>
-    <string>sad-ar.fina.alt</string>
     <string>sad-ar.medi.flat</string>
     <string>sad-ar.init.flat</string>
     <string>dad-ar</string>
     <string>dad-ar.fina</string>
     <string>dad-ar.medi</string>
     <string>dad-ar.init</string>
-    <string>dad-ar.alt</string>
-    <string>dad-ar.fina.alt</string>
     <string>dad-ar.medi.flat</string>
     <string>dad-ar.init.flat</string>
     <string>tah-ar</string>
@@ -2239,12 +2231,8 @@
     <string>uni0326</string>
     <key>dad-ar</key>
     <string>uni0636</string>
-    <key>dad-ar.alt</key>
-    <string>uni0636.alt</string>
     <key>dad-ar.fina</key>
     <string>uni0636.fina</string>
-    <key>dad-ar.fina.alt</key>
-    <string>uni0636.fina.alt</string>
     <key>dad-ar.init</key>
     <string>uni0636.init</string>
     <key>dad-ar.init.flat</key>
@@ -2945,12 +2933,8 @@
     <string>uni030A</string>
     <key>sad-ar</key>
     <string>uni0635</string>
-    <key>sad-ar.alt</key>
-    <string>uni0635.alt</string>
     <key>sad-ar.fina</key>
     <string>uni0635.fina</string>
-    <key>sad-ar.fina.alt</key>
-    <string>uni0635.fina.alt</string>
     <key>sad-ar.init</key>
     <string>uni0635.init</string>
     <key>sad-ar.init.flat</key>

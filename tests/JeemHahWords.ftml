@@ -14,6 +14,7 @@
       <style feats="'ss04' 1" name="ss04_1"/>
       <style feats="'ss07' 1" name="ss07_1"/>
       <style feats="'ss09' 1" name="ss09_1"/>
+      <style feats="'ss04' 1, 'ss08' 1" name="lang"/>
 		</styles>
 		<title>Jeem/Hah Words</title>
 	</head>
@@ -23,6 +24,10 @@
 		</test>
 	</testgroup>
 	<testgroup label="Jeem/Hah Test Words">
+		<test label="simple test">
+			<comment/>
+			<string>ببجب صجب مجب مج صج مج سج سجب مج سج بسجب</string>
+		</test>
 		<test label="1" stylename="lang">
 			<comment/>
 			<string>ڠُوجٜىٰنْسُ</string>

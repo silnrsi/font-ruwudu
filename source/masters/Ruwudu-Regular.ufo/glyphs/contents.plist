@@ -492,12 +492,8 @@
   <string>d.glif</string>
   <key>dad-ar</key>
   <string>dad-ar.glif</string>
-  <key>dad-ar.alt</key>
-  <string>dad-ar.alt.glif</string>
   <key>dad-ar.fina</key>
   <string>dad-ar.fina.glif</string>
-  <key>dad-ar.fina.alt</key>
-  <string>dad-ar.fina.alt.glif</string>
   <key>dad-ar.init</key>
   <string>dad-ar.init.glif</string>
   <key>dad-ar.init.flat</key>
@@ -1442,12 +1438,8 @@
   <string>s.glif</string>
   <key>sad-ar</key>
   <string>sad-ar.glif</string>
-  <key>sad-ar.alt</key>
-  <string>sad-ar.alt.glif</string>
   <key>sad-ar.fina</key>
   <string>sad-ar.fina.glif</string>
-  <key>sad-ar.fina.alt</key>
-  <string>sad-ar.fina.alt.glif</string>
   <key>sad-ar.init</key>
   <string>sad-ar.init.glif</string>
   <key>sad-ar.init.flat</key>

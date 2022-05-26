@@ -34,6 +34,8 @@ ChangeLog
   Version history is available in the Alkalami font package.
 - Removed non Unicode compliant solutions
 - Removed unnecessary swash glyphs
+- Updated behavior for initial forms of sad, dad and meem followed by 
+  hah-like characters to be "flat" instead of stacked
 
 Information for Contributors
 ----------------------------
