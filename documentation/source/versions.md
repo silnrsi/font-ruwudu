@@ -1,6 +1,6 @@
 ---
 title: Ruwudu - Versions and Changes
-fontversion: 1.301
+fontversion: 2.000
 ---
 
 ## Announcement list

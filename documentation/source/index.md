@@ -1,6 +1,6 @@
 ---
 title: Ruwudu - Documentation
-fontversion: 1.301
+fontversion: 2.000
 ---
 
 Thank you for your interest in the Ruwudu font. Ruwudu supports the characters known to be used by languages written with the Kano style of Arabic script, but may not have the characters needed for other languages.

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="noonghunnaabove-ar" format="2">
   <unicode hex="0658"/>
-  <anchor x="119" y="563" name="bottom"/>
+  <anchor x="119" y="563" name="_top"/>
   <anchor x="120" y="774" name="top"/>
   <anchor x="-4" y="719" name="top_alef"/>
   <outline>

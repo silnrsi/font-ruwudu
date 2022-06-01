@@ -1,6 +1,6 @@
 ---
 title: Ruwudu - Developer information
-fontversion: 1.301
+fontversion: 2.000
 ---
 
 This font has been split off from the Alkalami font. In a previous version it was called Alkalami Light. We plan to develop a bold version of Ruwudu in the future.

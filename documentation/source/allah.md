@@ -1,6 +1,6 @@
 ---
 title: Ruwudu - Rendering the Allah ligature
-fontversion: 1.301
+fontversion: 2.000
 ---
 
 

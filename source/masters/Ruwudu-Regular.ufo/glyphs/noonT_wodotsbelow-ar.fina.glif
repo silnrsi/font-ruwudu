@@ -3,9 +3,9 @@
   <advance width="792"/>
   <anchor x="332" y="-457" name="bottom"/>
   <anchor x="792" y="0" name="entry"/>
-  <anchor x="377" y="297" name="top"/>
+  <anchor x="371" y="413" name="top"/>
   <outline>
-    <component base="noonghunna-ar.fina"/>
+    <component base="noon-ar.fina"/>
     <component base="twodotshorizontalbelow-ar" xOffset="149" yOffset="-269"/>
   </outline>
 </glyph>

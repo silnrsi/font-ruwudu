@@ -4,7 +4,7 @@ Ruwudu is the Manga word for "writing". This style of writing is used by the Man
 
 ## Project status [![Build Status](http://build.palaso.org/app/rest/builds/buildType:Ruwudu/statusIcon)](http://build.palaso.org/viewType.html?buildTypeId=Fonts_Ruwudu&guest=1)
 
-Ruwudu v2.000 is in development.
+Ruwudu v2.000 has been released.
 
 We plan to develop a bold version of Ruwudu in the future.
 

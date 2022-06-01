@@ -1,6 +1,6 @@
 ---
 title: Ruwudu - About
-fontversion: 1.301
+fontversion: 2.000
 ---
 
 ## About this project

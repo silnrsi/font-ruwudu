@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Ruwudu</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/05/26 13:43:47</string>
+  <string>2022/06/01 13:03:57</string>
   <key>openTypeHheaAscender</key>
   <integer>1035</integer>
   <key>openTypeHheaDescender</key>
@@ -135,7 +135,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Ruwudu Regular: 2022</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.301</string>
+  <string>Version 2.000</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -224,9 +224,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>unitsPerEm</key>
   <integer>1000</integer>
   <key>versionMajor</key>
-  <integer>1</integer>
+  <integer>2</integer>
   <key>versionMinor</key>
-  <integer>301</integer>
+  <integer>0</integer>
   <key>woffMetadataCredits</key>
   <dict>
     <key>credits</key>
