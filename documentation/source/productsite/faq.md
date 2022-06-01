@@ -20,6 +20,13 @@ A generic FAQ for all of our Arabic scripts fonts can be found here: [Arabic Fon
 
 Ruwudu is the Manga word for "writing". This style of writing is used by the Manga people in Niger, West Africa. 
 
+#### *I used **Alkalami Light** which included a hacked encoding. What are the codepoints I should convert from and to?*
+
+If you used **Alkalami Light**, we made some decisions which were unfortunately not Unicode compliant. Since the initial release of that font, many of these non Unicode compliant characters have been added to Unicode. You will need to re-encode some characters to be fully Unicode compliant. A chart which includes the list of characters is found at the bottom of the [Font Features](features) page.
+
+These non Unicode compliant solutions were removed in v2.000 of **Ruwudu**.
+
+
 #### *What characters are included with this release?*
 
 See [Character Set Support](charset) for the full listing.

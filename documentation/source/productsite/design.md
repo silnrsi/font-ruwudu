@@ -1,5 +1,5 @@
 
-Ruwudu is a font for Arabic-based writing systems in the Kano region of Nigeria and in Niger. This style of writing African ajami has sometimes been called Sudani Kufi or Rubutun Kano. It is vastly different from script traditions of the Middle East. The bulk of the design of Ruwudu was based on what are known as ‘market edition manuscripts’.
+Ruwudu is the Manga word for "writing". This style of writing is used by the Manga people in Niger, West Africa. 
 
 One font from this typeface family are included in the *Ruwudu* release:
 
@@ -13,7 +13,7 @@ Type samples showing some of the inventory of glyphs can be found here:
 
 An example of some text is shown below. 
 
-<img class='fullsize' alt='Ruwudu Sample - Genesis 11' src='https://software.sil.org/ruwudu/wp-content/uploads/sites/xxx/RuwuduGen11-Regular.png' />
+![Ruwudu Sample - Genesis 11](assets/images/RuwuduGen11-Regular.png){.fullsize}
 [caption]<em>Ruwudu Sample - Genesis 11</em>[/caption]
 
 
