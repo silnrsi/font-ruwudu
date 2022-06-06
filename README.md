@@ -1,6 +1,6 @@
 # Ruwudu
 
-Ruwudu is the Manga word for "writing". This style of writing is used by the Manga people in Niger, West Africa. This font was initially designed as a light version of Alkalami. The font has been split into a new typeface, but it pairs well with Alkalami.
+Ruwudu is the Manga word for "writing". This style of writing is used by the Manga people in Niger, West Africa. This font was initially designed as a lighter or companion version of Alkalami Regular. The design is still very much influenced by the Rubutun Kano style, but was based on samples of footnotes from the market edition manuscripts. These were made with a monoline tool, likely a ball point pen or something similar. The extreme swashes and tails of Alkalami are replaced by more classic and reserved shapes. 
 
 ## Project status [![Build Status](http://build.palaso.org/app/rest/builds/buildType:Ruwudu/statusIcon)](http://build.palaso.org/viewType.html?buildTypeId=Fonts_Ruwudu&guest=1)
 

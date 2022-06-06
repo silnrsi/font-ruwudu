@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>1035</integer>
+  <integer>867</integer>
   <key>capHeight</key>
   <integer>660</integer>
   <key>copyright</key>
   <string>Copyright (c) SIL International, 2015-2022</string>
   <key>descender</key>
-  <integer>-857</integer>
+  <integer>-741</integer>
   <key>familyName</key>
   <string>Ruwudu</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/06/01 13:03:57</string>
+  <string>2022/06/06 10:33:57</string>
   <key>openTypeHheaAscender</key>
-  <integer>1035</integer>
+  <integer>867</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-857</integer>
+  <integer>-741</integer>
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNameDescription</key>
@@ -149,9 +149,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeOS2Type</key>
   <array/>
   <key>openTypeOS2TypoAscender</key>
-  <integer>1035</integer>
+  <integer>867</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-857</integer>
+  <integer>-741</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>0</integer>
   <key>openTypeOS2UnicodeRanges</key>
@@ -185,9 +185,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>1243</integer>
+  <integer>1500</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>857</integer>
+  <integer>1200</integer>
   <key>postscriptBlueValues</key>
   <array>
     <integer>-10</integer>
@@ -269,8 +269,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <array>
       <dict>
         <key>text</key>
-        <string>Ruwudu is the Manga word for "writing". This style of writing is used 
-by the Manga people in Niger, West Africa. </string>
+        <string>Ruwudu is the Manga word for "writing". This style of writing is used by the Manga people in Niger, West Africa. This font was initially designed as a lighter or companion version of Alkalami Regular. The design is still very much influenced by the Rubutun Kano style, but was based on samples of footnotes from the market edition manuscripts. These were made with a monoline tool, likely a ball point pen or something similar. The extreme swashes and tails of Alkalami are replaced by more classic and reserved shapes. </string>
       </dict>
     </array>
     <key>url</key>

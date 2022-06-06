@@ -9,4 +9,4 @@ fontversion: 2.000
 - Removed non Unicode compliant solutions
 - Removed unnecessary swash glyphs
 - Added above nukta to isolate and final U+0767
-
+- Reduced line spacing

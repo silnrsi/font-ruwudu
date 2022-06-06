@@ -9,10 +9,13 @@ and any derivative works.
 Basic Font Information
 ----------------------
 
-Ruwudu is the Manga word for "writing". This style of writing is used 
-by the Manga people in Niger, West Africa. This font was initially 
-designed as a light version of Alkalami. The font has been split into 
-a new typeface, but it pairs well with Alkalami (https://software.sil.org/alkalami/).
+Ruwudu is the Manga word for "writing". This style of writing is used by the Manga 
+people in Niger, West Africa. This font was initially designed as a lighter or 
+companion version of Alkalami Regular (https://software.sil.org/alkalami/). The 
+design is still very much influenced by the Rubutun Kano style, but was based on 
+samples of footnotes from the market edition manuscripts. These were made with a 
+monoline tool, likely a ball point pen or something similar. The extreme swashes 
+and tails of Alkalami are replaced by more classic and reserved shapes. 
 
 This font supports the characters known to be used by languages written in this
 style of Arabic script, but may not have the characters needed for other
@@ -35,6 +38,7 @@ ChangeLog
 - Removed non Unicode compliant solutions
 - Removed unnecessary swash glyphs
 - Added above nukta to isolate and final U+0767
+- Reduced line spacing
 
 Information for Contributors
 ----------------------------
