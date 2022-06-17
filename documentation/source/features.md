@@ -21,7 +21,7 @@ Currently, this font only supports the **Number Sign** (U+0600) and **End of Aya
 
 ## Customizing with TypeTuner
 
-For applications that do not make use of the OpenType Stylistic Sets, you can now download fonts customized with the variant glyphs you choose. Read this document, visit [TypeTuner Web](http://scripts.sil.org/ttw/fonts2go.cgi), then choose the variants and download your font.
+For applications that do not make use of the OpenType Stylistic Sets, you can now download fonts customized with the variant glyphs you choose. Read below about Stylistic Sets, visit [TypeTuner Web](http://scripts.sil.org/ttw/fonts2go.cgi), choose your preferred variants, and then download your customized font.
 
 ### Stylistic Sets
 

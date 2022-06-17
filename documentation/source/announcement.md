@@ -13,7 +13,7 @@ fontversion: 2.000
 - Added above nukta to isolate and final U+0767
 - Reduced line spacing
   
-Both desktop and web fonts are provided in a single, all-platforms package on the [Download Page](https://software.sil.org/ruwudu#download).
+Both desktop and web fonts are provided in a single, all-platforms package on the [Download Page](https://software.sil.org/ruwudu/download).
 
 #### Known issues
 

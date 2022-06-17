@@ -20,7 +20,7 @@ The highest priorities for future additions and enhancements are mainly driven b
 - Needs of the linguistic and academic community
 - New additions to [The Unicode Standard](https://unicode.org/)
 
-Please send us your requests using the [form on the font website](https://software.sil.org/ruwudu/#contact/). If you are interested in helping us make the font better see the [Developer](developer.md) page.
+Please send us your requests using the [form on the font website](https://software.sil.org/ruwudu/contact/). If you are interested in helping us make the font better see the [Developer](developer.md) page.
 
 ## Announcement list
 
