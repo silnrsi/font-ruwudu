@@ -26,16 +26,30 @@
                 <dimension name="custom" xvalue="0" />
             </location>
         </source>
+        <source familyname="Ruwudu" filename="masters/Ruwudu-ExtraBold.ufo" name="Ruwudu-ExtraBold" stylename="ExtraBold">
+            <location>
+                <dimension name="weight" xvalue="800" />
+                <dimension name="width" xvalue="100" />
+                <dimension name="custom" xvalue="0" />
+            </location>
+        </source>
     </sources>
     <instances>
-        <instance familyname="Ruwudu" stylename="Regular" filename="instances/Ruwudu-Regular.ufo" name="Ruwudu-Regular" postscriptfontname="Ruwudu-Regular" stylemapfamilyname="Ruwudu" stylemapstylename="regular">
+        <!-- Ruwudu Regular -->
+        <instance       familyname="Ruwudu"
+                          filename="instances/Ruwudu-Regular.ufo"
+                              name="Ruwudu-Regular"
+                stylemapfamilyname="Ruwudu"
+                 stylemapstylename="regular"
+                         stylename="Regular"
+                postscriptfontname="Ruwudu-Regular">
             <location>
                 <dimension name="weight" xvalue="400" />
                 <dimension name="width" xvalue="100" />
                 <dimension name="custom" xvalue="0" />
             </location>
-            <info />
-            <kerning />
+            <info/>
+            <kerning/>
         </instance>
-    </instances>
+     </instances>
 </designspace>
