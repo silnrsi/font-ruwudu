@@ -26,7 +26,7 @@
                 <dimension name="custom" xvalue="0" />
             </location>
         </source>
-        <source familyname="Ruwudu" filename="masters/Ruwudu-ExtraBold.ufo" name="Ruwudu-ExtraBold" stylename="ExtraBold">
+        <source familyname="Ruwudu" filename="masters/Ruwudu-ExtraBold.ufo" name="Ruwudu ExtraBold" stylename="ExtraBold">
             <location>
                 <dimension name="weight" xvalue="800" />
                 <dimension name="width" xvalue="100" />
@@ -45,6 +45,22 @@
                 postscriptfontname="Ruwudu-Regular">
             <location>
                 <dimension name="weight" xvalue="400" />
+                <dimension name="width" xvalue="100" />
+                <dimension name="custom" xvalue="0" />
+            </location>
+            <info/>
+            <kerning/>
+        </instance>
+        <!-- Ruwudu ExtraBold -->
+        <instance       familyname="Ruwudu"
+                          filename="instances/Ruwudu-ExtraBold.ufo"
+                              name="Ruwudu-ExtraBold"
+                stylemapfamilyname="Ruwudu"
+                 stylemapstylename="regular"
+                         stylename="ExtraBold"
+                postscriptfontname="Ruwudu-ExtraBold">
+            <location>
+                <dimension name="weight" xvalue="800" />
                 <dimension name="width" xvalue="100" />
                 <dimension name="custom" xvalue="0" />
             </location>
