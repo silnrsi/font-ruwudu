@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotabove-ar" format="2">
-  <anchor x="109" y="319" name="_top"/>
+  <anchor x="109" y="289" name="_top"/>
   <outline>
     <contour>
-      <point x="51" y="344" type="curve"/>
-      <point x="71" y="337"/>
-      <point x="119" y="337"/>
-      <point x="164" y="347" type="curve"/>
-      <point x="174" y="402"/>
-      <point x="174" y="440"/>
-      <point x="164" y="468" type="curve"/>
-      <point x="141" y="477"/>
-      <point x="98" y="476"/>
-      <point x="51" y="465" type="curve"/>
-      <point x="40" y="409"/>
-      <point x="41" y="373"/>
+      <point x="34" y="325" type="curve"/>
+      <point x="60" y="316"/>
+      <point x="123" y="316"/>
+      <point x="181" y="329" type="curve"/>
+      <point x="194" y="401"/>
+      <point x="194" y="450"/>
+      <point x="181" y="487" type="curve"/>
+      <point x="151" y="498"/>
+      <point x="95" y="497"/>
+      <point x="34" y="483" type="curve"/>
+      <point x="20" y="410"/>
+      <point x="21" y="363"/>
     </contour>
   </outline>
 </glyph>

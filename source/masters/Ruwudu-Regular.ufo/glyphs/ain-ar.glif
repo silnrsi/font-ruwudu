@@ -13,13 +13,9 @@
       <point x="37" y="-278"/>
       <point x="101" y="-391"/>
       <point x="251" y="-481" type="curve"/>
-      <point x="252" y="-480"/>
-      <point x="252" y="-480"/>
-      <point x="253" y="-480" type="curve" smooth="yes"/>
-      <point x="257" y="-478"/>
-      <point x="262" y="-474"/>
-      <point x="262" y="-467" type="curve" smooth="yes"/>
-      <point x="262" y="-463" type="line"/>
+      <point x="255" y="-479"/>
+      <point x="262" y="-476"/>
+      <point x="262" y="-463" type="curve"/>
       <point x="160" y="-379"/>
       <point x="114" y="-279"/>
       <point x="114" y="-191" type="curve" smooth="yes"/>

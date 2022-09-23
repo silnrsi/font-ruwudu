@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kaf-ar" format="2">
-  <advance width="668"/>
+  <advance width="734"/>
   <unicode hex="0643"/>
-  <anchor x="322" y="-40" name="bottom"/>
-  <anchor x="309" y="444" name="top"/>
+  <anchor x="366" y="-40" name="bottom"/>
+  <anchor x="349" y="524" name="top"/>
   <outline>
-    <component base="hamza-ar" xOffset="250" yOffset="193"/>
+    <component base="hamza-ar" xOffset="251" yOffset="223"/>
     <contour>
-      <point x="612" y="153" type="curve" smooth="yes"/>
-      <point x="612" y="300"/>
-      <point x="605" y="505"/>
-      <point x="601" y="652" type="curve"/>
-      <point x="596" y="659"/>
-      <point x="592" y="663"/>
-      <point x="589" y="663" type="curve" smooth="yes"/>
-      <point x="573" y="663"/>
-      <point x="533" y="644"/>
-      <point x="504" y="626" type="curve"/>
-      <point x="532" y="459"/>
-      <point x="558" y="250"/>
-      <point x="558" y="149" type="curve" smooth="yes"/>
-      <point x="558" y="111"/>
-      <point x="555" y="90"/>
-      <point x="518" y="90" type="curve" smooth="yes"/>
-      <point x="75" y="90" type="line" smooth="yes"/>
-      <point x="61" y="90"/>
-      <point x="60" y="86"/>
-      <point x="60" y="76" type="curve" smooth="yes"/>
-      <point x="60" y="56"/>
-      <point x="66" y="30"/>
-      <point x="80" y="0" type="curve"/>
-      <point x="534" y="0" type="line" smooth="yes"/>
-      <point x="593" y="0"/>
-      <point x="612" y="82"/>
+      <point x="667" y="153" type="curve" smooth="yes"/>
+      <point x="668" y="300"/>
+      <point x="665" y="535"/>
+      <point x="661" y="652" type="curve"/>
+      <point x="656" y="659"/>
+      <point x="652" y="663"/>
+      <point x="649" y="663" type="curve" smooth="yes"/>
+      <point x="633" y="663"/>
+      <point x="564" y="645"/>
+      <point x="530" y="619" type="curve"/>
+      <point x="558" y="452"/>
+      <point x="590" y="260"/>
+      <point x="590" y="179" type="curve" smooth="yes"/>
+      <point x="590" y="161"/>
+      <point x="587" y="140"/>
+      <point x="553" y="140" type="curve" smooth="yes"/>
+      <point x="79" y="140" type="line" smooth="yes"/>
+      <point x="65" y="140"/>
+      <point x="60" y="132"/>
+      <point x="60" y="112" type="curve" smooth="yes"/>
+      <point x="60" y="80"/>
+      <point x="73" y="31"/>
+      <point x="93" y="0" type="curve"/>
+      <point x="588" y="0" type="line" smooth="yes"/>
+      <point x="647" y="0"/>
+      <point x="667" y="82"/>
     </contour>
   </outline>
 </glyph>

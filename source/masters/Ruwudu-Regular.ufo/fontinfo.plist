@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Ruwudu</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/07/05 15:06:25</string>
+  <string>2022/09/23 14:49:44</string>
   <key>openTypeHheaAscender</key>
   <integer>867</integer>
   <key>openTypeHheaDescender</key>
@@ -144,8 +144,8 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   </array>
   <key>openTypeOS2Selection</key>
   <array>
-    <integer>8</integer>
     <integer>7</integer>
+    <integer>8</integer>
   </array>
   <key>openTypeOS2Type</key>
   <array/>

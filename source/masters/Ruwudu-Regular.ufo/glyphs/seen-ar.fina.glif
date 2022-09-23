@@ -16,11 +16,8 @@
       <point x="48" y="56"/>
       <point x="57" y="95"/>
       <point x="75" y="139" type="curve"/>
-      <point x="73" y="147"/>
-      <point x="64" y="150"/>
-      <point x="56" y="150" type="curve" smooth="yes"/>
-      <point x="55" y="150"/>
-      <point x="55" y="150"/>
+      <point x="73" y="146"/>
+      <point x="63" y="150"/>
       <point x="54" y="150" type="curve"/>
       <point x="13" y="84"/>
       <point x="-9" y="35"/>
@@ -33,7 +30,7 @@
       <point x="724" y="-9" type="curve" smooth="yes"/>
       <point x="731" y="-2"/>
       <point x="732" y="0"/>
-      <point x="741" y="0" type="curve"/>
+      <point x="741" y="0" type="curve" smooth="yes"/>
       <point x="1098" y="0" type="line"/>
       <point x="1098" y="90" type="line"/>
       <point x="1068" y="90" type="line" smooth="yes"/>
@@ -42,7 +39,7 @@
       <point x="1036" y="138" type="curve" smooth="yes"/>
       <point x="1028" y="182"/>
       <point x="1024" y="230"/>
-      <point x="1011" y="271" type="curve"/>
+      <point x="1011" y="271" type="curve" smooth="yes"/>
       <point x="1009" y="279"/>
       <point x="1006" y="285"/>
       <point x="994" y="285" type="curve"/>
@@ -61,7 +58,7 @@
       <point x="881" y="138" type="curve" smooth="yes"/>
       <point x="875" y="182"/>
       <point x="869" y="230"/>
-      <point x="856" y="271" type="curve"/>
+      <point x="856" y="271" type="curve" smooth="yes"/>
       <point x="854" y="279"/>
       <point x="851" y="285"/>
       <point x="839" y="285" type="curve"/>
@@ -75,8 +72,11 @@
       <point x="815" y="90"/>
       <point x="802" y="90" type="curve" smooth="yes"/>
       <point x="744" y="90" type="line" smooth="yes"/>
-      <point x="721" y="90"/>
-      <point x="733" y="159"/>
+      <point x="733" y="90"/>
+      <point x="730" y="106"/>
+      <point x="726" y="134" type="curve" smooth="yes"/>
+      <point x="721" y="164"/>
+      <point x="716" y="207"/>
       <point x="697" y="259" type="curve" smooth="yes"/>
       <point x="689" y="280"/>
       <point x="687" y="285"/>

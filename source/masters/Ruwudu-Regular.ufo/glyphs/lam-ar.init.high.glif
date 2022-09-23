@@ -6,15 +6,6 @@
   <anchor x="50" y="680" name="top"/>
   <outline>
     <contour>
-      <point x="-25" y="297" type="curve"/>
-      <point x="-25" y="207" type="line"/>
-      <point x="-20" y="207" type="line"/>
-      <point x="85" y="207" type="line" smooth="yes"/>
-      <point x="114" y="207"/>
-      <point x="127" y="244"/>
-      <point x="127" y="367" type="curve" smooth="yes"/>
-      <point x="127" y="477"/>
-      <point x="124" y="514"/>
       <point x="118" y="659" type="curve"/>
       <point x="113" y="666"/>
       <point x="109" y="670"/>
@@ -28,8 +19,14 @@
       <point x="69" y="301"/>
       <point x="52" y="297"/>
       <point x="17" y="297" type="curve" smooth="yes"/>
-      <point x="1" y="297"/>
-      <point x="-10" y="297"/>
+      <point x="-20" y="297" type="line"/>
+      <point x="-20" y="207" type="line"/>
+      <point x="55" y="207" type="line" smooth="yes"/>
+      <point x="114" y="207"/>
+      <point x="127" y="244"/>
+      <point x="127" y="367" type="curve" smooth="yes"/>
+      <point x="127" y="477"/>
+      <point x="124" y="514"/>
     </contour>
   </outline>
 </glyph>

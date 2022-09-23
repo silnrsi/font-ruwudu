@@ -19,25 +19,20 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3124</string>
+  <string>3137</string>
+  <key>com.schriftgestaltung.customName</key>
+  <string>Extra</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/beh-ar/teh-ar/tehThreedotsdown-ar/tehThreedotsdown-ar.fina/space/tehThreedotsdown-ar.medi/space/tehThreedotsdown-ar.medi.flat/space/tehThreedotsdown-ar.init/space/dyeh-ar/dyeh-ar.fina/space/dyeh-ar.medi/space/dyeh-ar.init/dyeh-ar.fina.alt/dyeh-ar.fina.ss07/space/dyeh-ar.medi.ss07/dyeh-ar.medi.low/space/dyeh-ar.medi.stack/space/jeemTwodotsabove-ar/jeemTwodotsabove-ar.fina/space/jeemTwodotsabove-ar.medi/space/jeemTwodotsabove-ar.init/jeemTwodotsabove-ar.fina.alt/jeemTwodotsabove-ar.fina.ss07/space/jeemTwodotsabove-ar.medi.ss07/space/jeemTwodotsabove-ar.medi.low/space/jeemTwodotsabove-ar.medi.stack</string>
-    <string>/tahTwodotsabove-ar/tahTwodotsabove-ar.fina/space/tahTwodotsabove-ar.medi/space/tahTwodotsabove-ar.init/space/fehThreedotsbelow-ar/fehThreedotsbelow-ar.fina/space/fehThreedotsbelow-ar.medi/space/fehThreedotsbelow-ar.init/space 
-/fehThreedotsupbelow-ar/fehThreedotsupbelow-ar.fina/space/fehThreedotsupbelow-ar.medi/space/fehThreedotsupbelow-ar.init</string>
-    <string>/noon-ar.medi.flat/noonghunna-ar.medi.flat/behDotless-ar.medi.flat/noonghunnaabove-ar</string>
-    <string>/alefFathaattached-ar/space/alefFathaattached-ar.fina/space/alefRightmiddlestroke-ar/space/alefRightmiddlestroke-ar.fina/space/alefKasraattached-ar/space/alefKasraattached-ar.fina/space/space 
-</string>
-    <string>/noonghunnaabove-ar/leftarrowheadabove-ar/space/dammainverted-ar/damma-ar/space/space/dammareversed-ar/space/space/waw-ar.fina/lam-ar.medi/meem-ar.init/wawSmall-ar/space/yehabove-ar/yehbarree-ar/waw-ar 
-/number-ar/fathaRing-ar 
-/space/space/fatha-ar/space/space/fathaDotabove-ar/space/kasra-ar/space/space/kasraDotbelow-ar/space/kasratan-ar/space/damma-ar/space/space/dammatan-ar/space/space/leftarrowheadabove-ar/space/space/rightarrowheadabove-ar/space/space/leftarrowheadbelow-ar/space/shadda-ar/space/rightarrowheadbelow-ar/space/doublerightarrowheadabove-ar/space/space/dotabove-ar/space/space/doublerightarrowheadDotabove-ar/space/space/space/rightarrowheadDotabove-ar</string>
-    <string>/e-ar/space/e-ar.fina/e-ar.medi/e-ar.init/space/space/e-ar.shrtail/space/space/e-ar.fina.shrtail/space/space/space/e-ar.longtail/space/space/space/e-ar.fina.longtail/space/e-ar.medi.flat/space/space/space/space/e-ar.fina.low 
-/lam-ar.medi/lam-ar.init/leftarrowheadbelow-ar/space/space/lam-ar.init.high/space/highhamza-ar/hamzaaboveFatha-ar/space/space/figurespace 0/space/sheen-ar/sheen-ar.longtail/space/space/sheen-ar.fina/space/sheen-ar.fina.longtail</string>
-    <string>/behVabove-ar/behVabove-ar.fina/behVabove-ar.medi/behVabove-ar.init/behVabove-ar.medi.flat</string>
-    <string>/yehThreedotsbelow-ar/space/yehThreedotsbelow-ar.fina/yehThreedotsbelow-ar.medi/yehThreedotsbelow-ar.init/space/space/space/yehThreedotsbelow-ar.shrtail/space/space/space/yehThreedotsbelow-ar.fina.shrtail/space/space/space/yehThreedotsbelow-ar.longtail/space/space/space/yehThreedotsbelow-ar.fina.longtail/space/space/space/yehThreedotsbelow-ar.medi.flat/space/space/space/space/yehThreedotsbelow-ar.fina.low</string>
-    <string>/waw-ar.alt/waw-ar.fina.alt/space/wawHamzaabove-ar/wawHamzaabove-ar.fina/space/wawHamzaabove-ar.alt/wawHamzaabove-ar.fina.alt/space/oe-ar.alt/oe-ar.fina.alt/space/yu-ar.alt/yu-ar.fina.alt/space/kirghizyu-ar.alt/kirghizyu-ar.fina.alt</string>
-    <string>/allah-ar/lam-ar.medi/lam-ar.init/alefHamzaabove-ar/alefHamzaabove-ar.allah/alefHamzaabove-ar.fina/alefHamzaabove-ar.fina.allah/alefMadda-ar/alefMadda-ar.allah/alef-ar.allah/alef-ar/alefMadda-ar.fina/alefMadda-ar.fina.allah/alef-ar.fina/alef-ar.fina.allah/heh-ar.fina.allah/lam-ar.medi.allah1/lam-ar.medi.allah2/lam-ar.init.allah1/alef-ar.allah</string>
-    <string>/bismillah-ar/space/space/space</string>
+    <string>/dotabove-ar/alef-ar/behDotless-ar/space/behDotless-ar.fina/space/behDotless-ar.medi/space/behDotless-ar.init/space/beh-ar.fina/space/behDotless-ar.medi.flat/hah-ar.medi/space/beh-ar.medi.flat/space/teh-ar.medi/space/space/twodotshorizontalabove-ar/space/space/threedotsupabove-ar/behThreedotsupabove-ar.init/space 
+/hah-ar/space/hah-ar.fina/space/hah-ar.medi/dal-ar.fina/space/hah-ar.init/dal-ar.fina/space/dal-ar/space/dal-ar.fina/space/reh-ar/reh-ar/space/reh-ar.fina 
+/space/behDotless-ar.fina/seen-ar/space/seen-ar.fina/space/seen-ar.medi/space/seen-ar.init/space/sad-ar/space/sad-ar.fina/space/sad-ar.medi/space/sad-ar.init/space/tah-ar/space/tah-ar.fina/space/tah-ar.medi/space/tah-ar.init/space 
+/ain-ar/space/ain-ar.fina/space/ain-ar.medi/space/ain-ar.init/space/ain-ar.medi.flat/space 
+/fehDotless-ar/space/fehDotless-ar.fina/space/fehDotless-ar.medi/space/fehDotless-ar.init/space/hamza-ar/space/kaf-ar/space/kaf-ar.fina/space 
+/keheh-ar.init/space/keheh-ar/space/keheh-ar.fina/space/keheh-ar.medi/space/lam-ar/space/lam-ar.fina/space/lam-ar.medi/space/lam-ar.init/space/lam-ar.medi.flat/space/lam-ar.init.high 
+/space/meem-ar/space/meem-ar.fina/space/meem-ar.medi/space/meem-ar.init/space/meem-ar.medi.flat/space/meem-ar.init.flat/space/noonghunna-ar/space/noonghunna-ar.fina 
+/heh-ar.init/space/heh-ar.medi/space/heh-ar.001/space/heh-ar.fina/space/waw-ar/space/waw-ar.fina/space/qafDotless-ar/space/qafDotless-ar.fina/space 
+/alefMaksura-ar/space/alefMaksura-ar.fina/space/alefMaksura-ar.medi/space/alefMaksura-ar.init/space/yehbarree-ar/space/yehbarree-ar.fina/space/yehbarree-ar.fina.alt</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -58,7 +53,7 @@
   <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
   <string/>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
-  <integer>400</integer>
+  <integer>800</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
   <integer>100</integer>
   <key>com.schriftgestaltung.fontMasterOrder</key>

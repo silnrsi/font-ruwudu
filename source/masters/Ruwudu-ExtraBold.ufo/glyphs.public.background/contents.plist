@@ -4,12 +4,10 @@
 <dict>
   <key>Delta</key>
   <string>D_elta.glif</string>
-  <key>ain-ar</key>
-  <string>ain-ar.glif</string>
-  <key>ain-ar.fina</key>
-  <string>ain-ar.fina.glif</string>
   <key>ain-ar.fina.low</key>
   <string>ain-ar.fina.low.glif</string>
+  <key>ain-ar.medi.flat</key>
+  <string>ain-ar.medi.flat.glif</string>
   <key>alef-ar.fina</key>
   <string>alef-ar.fina.glif</string>
   <key>alef-ar.fina.allah</key>
@@ -38,16 +36,18 @@
   <string>asterisk.glif</string>
   <key>beh-ar.init.alt</key>
   <string>beh-ar.init.alt.glif</string>
+  <key>behDotless-ar</key>
+  <string>behD_otless-ar.glif</string>
   <key>behDotless-ar.fina</key>
   <string>behD_otless-ar.fina.glif</string>
   <key>behDotless-ar.init</key>
   <string>behD_otless-ar.init.glif</string>
   <key>behDotless-ar.medi</key>
   <string>behD_otless-ar.medi.glif</string>
+  <key>behDotless-ar.medi.flat</key>
+  <string>behD_otless-ar.medi.flat.glif</string>
   <key>bismillah-ar</key>
   <string>bismillah-ar.glif</string>
-  <key>dal-ar</key>
-  <string>dal-ar.glif</string>
   <key>dal-ar.fina</key>
   <string>dal-ar.fina.glif</string>
   <key>damma-ar</key>
@@ -90,12 +90,12 @@
   <string>hah-ar.medi.ss07.glif</string>
   <key>hah-ar.medi.stack</key>
   <string>hah-ar.medi.stack.glif</string>
-  <key>hamza-ar</key>
-  <string>hamza-ar.glif</string>
   <key>hamzaabove-ar</key>
   <string>hamzaabove-ar.glif</string>
   <key>heh-ar</key>
   <string>heh-ar.glif</string>
+  <key>heh-ar.001</key>
+  <string>heh-ar.001.glif</string>
   <key>heh-ar.fina</key>
   <string>heh-ar.fina.glif</string>
   <key>heh-ar.init</key>
@@ -106,6 +106,8 @@
   <string>integral.glif</string>
   <key>integral.rtl</key>
   <string>integral.rtl.glif</string>
+  <key>kaf-ar</key>
+  <string>kaf-ar.glif</string>
   <key>kaf-ar.fina</key>
   <string>kaf-ar.fina.glif</string>
   <key>kaf-ar.medi</key>
@@ -114,8 +116,12 @@
   <string>lam-ar.glif</string>
   <key>lam-ar.fina</key>
   <string>lam-ar.fina.glif</string>
+  <key>lam-ar.medi</key>
+  <string>lam-ar.medi.glif</string>
   <key>lam-ar.medi.allah2</key>
   <string>lam-ar.medi.allah2.glif</string>
+  <key>lam-ar.medi.flat</key>
+  <string>lam-ar.medi.flat.glif</string>
   <key>lam_alef-ar</key>
   <string>lam_alef-ar.glif</string>
   <key>lam_alef-ar.fina</key>
@@ -128,6 +134,8 @@
   <string>lessequal.glif</string>
   <key>madda-ar</key>
   <string>madda-ar.glif</string>
+  <key>meem-ar</key>
+  <string>meem-ar.glif</string>
   <key>meem-ar.init</key>
   <string>meem-ar.init.glif</string>
   <key>meem-ar.medi</key>
@@ -160,24 +168,14 @@
   <string>reh-ar.glif</string>
   <key>reh-ar.fina</key>
   <string>reh-ar.fina.glif</string>
-  <key>sad-ar</key>
-  <string>sad-ar.glif</string>
   <key>sad-ar.fina</key>
   <string>sad-ar.fina.glif</string>
-  <key>sad-ar.init</key>
-  <string>sad-ar.init.glif</string>
   <key>sad-ar.init.flat</key>
   <string>sad-ar.init.flat.glif</string>
-  <key>sad-ar.medi</key>
-  <string>sad-ar.medi.glif</string>
-  <key>seen-ar</key>
-  <string>seen-ar.glif</string>
   <key>seen-ar.fina</key>
   <string>seen-ar.fina.glif</string>
   <key>seen-ar.fina.low</key>
   <string>seen-ar.fina.low.glif</string>
-  <key>seen-ar.init</key>
-  <string>seen-ar.init.glif</string>
   <key>seen-ar.medi.flat</key>
   <string>seen-ar.medi.flat.glif</string>
   <key>seven-ar</key>
@@ -194,6 +192,8 @@
   <string>summation.glif</string>
   <key>summation.rtl</key>
   <string>summation.rtl.glif</string>
+  <key>tah-ar</key>
+  <string>tah-ar.glif</string>
   <key>tah-ar.init</key>
   <string>tah-ar.init.glif</string>
   <key>three.small</key>
