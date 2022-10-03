@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behVinvertedbelow-ar.fina" format="2">
-  <advance width="425"/>
-  <anchor x="242" y="-196" name="bottom"/>
-  <anchor x="425" y="0" name="entry"/>
-  <anchor x="255" y="310" name="top"/>
+  <advance width="471"/>
+  <anchor x="262" y="-196" name="bottom"/>
+  <anchor x="471" y="0" name="entry"/>
+  <anchor x="275" y="360" name="top"/>
   <outline>
     <component base="behDotless-ar.fina"/>
-    <component base="vinvertedabove-ar" xOffset="118" yOffset="-686"/>
+    <component base="vinvertedabove-ar" xOffset="138" yOffset="-686"/>
   </outline>
 </glyph>

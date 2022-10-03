@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behThreedotsupbelow-ar" format="2">
-  <advance width="542"/>
+  <advance width="592"/>
   <unicode hex="0752"/>
-  <anchor x="267" y="-355" name="bottom"/>
-  <anchor x="271" y="283" name="top"/>
+  <anchor x="287" y="-425" name="bottom"/>
+  <anchor x="295" y="320" name="top"/>
   <outline>
-    <component base="behDotless-ar"/>
-    <component base="threedotsupbelow-ar" xOffset="108" yOffset="-20"/>
+    <component base="behDotless-ar" xOffset="40"/>
+    <component base="threedotsupbelow-ar" xOffset="148" yOffset="-70"/>
   </outline>
 </glyph>

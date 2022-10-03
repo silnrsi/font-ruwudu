@@ -2,7 +2,7 @@
 <glyph name="alef-ar.wide" format="2">
   <advance width="253"/>
   <anchor x="99" y="-56" name="bottom"/>
-  <anchor x="182" y="395" name="top"/>
+  <anchor x="202" y="415" name="top"/>
   <outline>
     <component base="alef-ar"/>
   </outline>

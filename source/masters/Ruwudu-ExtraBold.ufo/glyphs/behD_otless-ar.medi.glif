@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behDotless-ar.medi" format="2">
   <advance width="319"/>
-  <anchor x="153" y="-30" name="bottom"/>
+  <anchor x="133" y="-30" name="bottom"/>
   <anchor x="319" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="119" y="360" name="top"/>
+  <anchor x="109" y="360" name="top"/>
   <outline>
     <contour>
       <point x="281" y="140" type="line" smooth="yes"/>

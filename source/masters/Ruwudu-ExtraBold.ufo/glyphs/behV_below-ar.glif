@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behVbelow-ar" format="2">
-  <advance width="542"/>
+  <advance width="592"/>
   <unicode hex="08A0"/>
-  <anchor x="262" y="-226" name="bottom"/>
-  <anchor x="295" y="310" name="top"/>
+  <anchor x="292" y="-226" name="bottom"/>
+  <anchor x="295" y="350" name="top"/>
   <outline>
-    <component base="behDotless-ar"/>
-    <component base="vinvertedabove-ar" yScale="-1" xOffset="158" yOffset="474"/>
+    <component base="behDotless-ar" xOffset="40"/>
+    <component base="vinvertedabove-ar" yScale="-1" xOffset="178" yOffset="474"/>
   </outline>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behDotless-ar.fina" format="2">
   <advance width="471"/>
-  <anchor x="297" y="-30" name="bottom"/>
+  <anchor x="277" y="-30" name="bottom"/>
   <anchor x="471" y="0" name="entry"/>
   <anchor x="259" y="360" name="top"/>
   <outline>

@@ -2,14 +2,14 @@
 <glyph name="kaf-ar" format="2">
   <outline>
     <contour>
-      <point x="679" y="652" type="curve"/>
-      <point x="674" y="659"/>
-      <point x="670" y="663"/>
-      <point x="667" y="663" type="curve" smooth="yes"/>
-      <point x="651" y="663"/>
-      <point x="587" y="647"/>
-      <point x="548" y="619" type="curve"/>
-      <point x="563" y="489"/>
+      <point x="679" y="672" type="curve"/>
+      <point x="674" y="679"/>
+      <point x="670" y="683"/>
+      <point x="667" y="683" type="curve" smooth="yes"/>
+      <point x="651" y="683"/>
+      <point x="587" y="667"/>
+      <point x="548" y="639" type="curve"/>
+      <point x="563" y="509"/>
       <point x="591" y="293"/>
       <point x="600" y="46" type="curve"/>
       <point x="617" y="44"/>
@@ -19,7 +19,7 @@
       <point x="668" y="172"/>
       <point x="668" y="246" type="curve" smooth="yes"/>
       <point x="667" y="338"/>
-      <point x="680" y="548"/>
+      <point x="680" y="568"/>
     </contour>
   </outline>
 </glyph>

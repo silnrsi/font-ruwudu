@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behThreedotsupabove-ar.init" format="2">
-  <advance width="277"/>
+  <advance width="312"/>
   <anchor x="134" y="-267" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="91" y="736" name="top"/>
+  <anchor x="91" y="761" name="top"/>
   <outline>
     <component base="dotbelow-ar" xOffset="25" yOffset="-50"/>
     <component base="behDotless-ar.init"/>
-    <component base="threedotsupabove-ar" xOffset="-55" yOffset="85"/>
+    <component base="threedotsupabove-ar" xOffset="-41" yOffset="80"/>
   </outline>
 </glyph>

@@ -2,10 +2,10 @@
 <glyph name="beeh-ar" format="2">
   <advance width="542"/>
   <unicode hex="067B"/>
-  <anchor x="272" y="-376" name="bottom"/>
-  <anchor x="295" y="310" name="top"/>
+  <anchor x="259" y="-496" name="bottom"/>
+  <anchor x="255" y="350" name="top"/>
   <outline>
     <component base="behDotless-ar"/>
-    <component base="twodotsverticalbelow-ar" xOffset="195" yOffset="-30"/>
+    <component base="twodotsverticalbelow-ar" xOffset="172" yOffset="-30"/>
   </outline>
 </glyph>

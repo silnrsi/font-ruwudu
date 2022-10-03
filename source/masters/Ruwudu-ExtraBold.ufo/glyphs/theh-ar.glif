@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="theh-ar" format="2">
-  <advance width="542"/>
+  <advance width="592"/>
   <unicode hex="062B"/>
-  <anchor x="265" y="-40" name="bottom"/>
-  <anchor x="261" y="646" name="top"/>
+  <anchor x="305" y="-40" name="bottom"/>
+  <anchor x="278" y="735" name="top"/>
   <outline>
-    <component base="behDotless-ar"/>
-    <component base="threedotsupabove-ar" xOffset="108" yOffset="5"/>
+    <component base="behDotless-ar" xOffset="40"/>
+    <component base="threedotsupabove-ar" xOffset="125" yOffset="54"/>
   </outline>
 </glyph>

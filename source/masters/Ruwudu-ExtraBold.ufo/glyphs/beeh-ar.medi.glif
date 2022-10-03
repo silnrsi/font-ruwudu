@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="beeh-ar.medi" format="2">
-  <advance width="289"/>
-  <anchor x="112" y="-376" name="bottom"/>
-  <anchor x="289" y="0" name="entry"/>
+  <advance width="319"/>
+  <anchor x="143" y="-496" name="bottom"/>
+  <anchor x="319" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="105" y="310" name="top"/>
   <outline>
     <component base="behDotless-ar.medi"/>
-    <component base="twodotsverticalbelow-ar" xOffset="34" yOffset="-30"/>
+    <component base="twodotsverticalbelow-ar" xOffset="56" yOffset="-30"/>
   </outline>
 </glyph>

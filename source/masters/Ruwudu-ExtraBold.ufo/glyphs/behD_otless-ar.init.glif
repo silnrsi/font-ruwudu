@@ -3,7 +3,7 @@
   <advance width="317"/>
   <anchor x="112" y="-30" name="bottom"/>
   <anchor x="30" y="0" name="exit"/>
-  <anchor x="119" y="360" name="top"/>
+  <anchor x="114" y="360" name="top"/>
   <outline>
     <contour>
       <point x="164" y="0" type="line"/>

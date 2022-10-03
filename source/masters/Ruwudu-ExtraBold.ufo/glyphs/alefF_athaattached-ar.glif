@@ -2,11 +2,11 @@
 <glyph name="alefFathaattached-ar" format="2">
   <advance width="205"/>
   <unicode hex="0870"/>
-  <anchor x="99" y="-56" name="bottom"/>
-  <anchor x="99" y="628" name="top"/>
+  <anchor x="109" y="-56" name="bottom"/>
+  <anchor x="97" y="650" name="top"/>
   <outline>
     <component base="alef-ar"/>
-    <component base="fatha-ar" xOffset="-28" yOffset="7"/>
+    <component base="fatha-ar" xOffset="-28" yOffset="20"/>
   </outline>
   <lib>
     <dict>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefMadda-ar.fina" format="2">
-  <advance width="247"/>
-  <anchor x="127" y="-140" name="bottom"/>
-  <anchor x="247" y="0" name="entry"/>
-  <anchor x="114" y="731" name="top"/>
+  <advance width="296"/>
+  <anchor x="163" y="-160" name="bottom"/>
+  <anchor x="296" y="0" name="entry"/>
+  <anchor x="134" y="741" name="top"/>
   <outline>
     <component base="alef-ar.fina.short" xOffset="20"/>
-    <component base="madda-ar" xOffset="-49" yOffset="18"/>
+    <component base="madda-ar" xOffset="-29" yOffset="18"/>
   </outline>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tehThreedotsdown-ar" format="2">
-  <advance width="542"/>
+  <advance width="592"/>
   <unicode hex="067D"/>
-  <anchor x="284" y="-30" name="bottom"/>
-  <anchor x="262" y="612" name="top"/>
+  <anchor x="314" y="-30" name="bottom"/>
+  <anchor x="272" y="692" name="top"/>
   <outline>
-    <component base="behDotless-ar"/>
-    <component base="threedotsupabove-ar" xScale="-1" yScale="-1" xOffset="428" yOffset="910"/>
+    <component base="behDotless-ar" xOffset="40"/>
+    <component base="threedotsupabove-ar" xScale="-1" yScale="-1" xOffset="430" yOffset="969"/>
   </outline>
   <lib>
     <dict>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="teh-ar.medi" format="2">
-  <advance width="289"/>
-  <anchor x="145" y="-30" name="bottom"/>
-  <anchor x="289" y="0" name="entry"/>
+  <advance width="319"/>
+  <anchor x="155" y="-30" name="bottom"/>
+  <anchor x="319" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="117" y="524" name="top"/>
+  <anchor x="103" y="546" name="top"/>
   <outline>
     <component base="behDotless-ar.medi"/>
-    <component base="twodotshorizontalabove-ar" xOffset="-40" yOffset="55"/>
+    <component base="twodotshorizontalabove-ar" xOffset="-52" yOffset="65"/>
   </outline>
 </glyph>

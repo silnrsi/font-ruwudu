@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behVabove-ar" format="2">
-  <advance width="542"/>
+  <advance width="592"/>
   <unicode hex="0756"/>
-  <anchor x="271" y="-30" name="bottom"/>
-  <anchor x="270" y="496" name="top"/>
+  <anchor x="311" y="-30" name="bottom"/>
+  <anchor x="304" y="516" name="top"/>
   <outline>
-    <component base="behDotless-ar"/>
-    <component base="vabove-ar" xOffset="158" yOffset="-184"/>
+    <component base="behDotless-ar" xOffset="40"/>
+    <component base="vabove-ar" xOffset="188" yOffset="-164"/>
   </outline>
 </glyph>
