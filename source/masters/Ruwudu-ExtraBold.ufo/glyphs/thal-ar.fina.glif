@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thal-ar.fina" format="2">
-  <advance width="434"/>
-  <anchor x="306" y="-60" name="bottom"/>
-  <anchor x="434" y="0" name="entry"/>
-  <anchor x="259" y="484" name="top"/>
+  <advance width="521"/>
+  <anchor x="328" y="-60" name="bottom"/>
+  <anchor x="521" y="0" name="entry"/>
+  <anchor x="294" y="584" name="top"/>
   <outline>
     <component base="dal-ar.fina"/>
-    <component base="dotabove-ar" xOffset="160" yOffset="-19"/>
+    <component base="dotabove-ar" xOffset="195" yOffset="51"/>
   </outline>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="heh-ar" format="2">
   <advance width="537"/>
   <unicode hex="0647"/>
-  <anchor x="254" y="-30" name="bottom"/>
-  <anchor x="252" y="428" name="top"/>
+  <anchor x="294" y="-30" name="bottom"/>
+  <anchor x="282" y="488" name="top"/>
   <outline>
     <contour>
       <point x="402" y="216" type="curve" smooth="yes"/>

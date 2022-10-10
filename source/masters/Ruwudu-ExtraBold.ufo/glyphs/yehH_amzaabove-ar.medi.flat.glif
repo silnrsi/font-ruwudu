@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehHamzaabove-ar.medi.flat" format="2">
-  <advance width="207"/>
+  <advance width="257"/>
   <anchor x="89" y="-34" name="bottom"/>
-  <anchor x="207" y="0" name="entry"/>
+  <anchor x="257" y="0" name="entry"/>
   <anchor x="0" y="207" name="exit"/>
-  <anchor x="41" y="661" name="top"/>
+  <anchor x="71" y="767" name="top"/>
   <outline>
     <component base="behDotless-ar.medi.flat"/>
-    <component base="hamzaabove-ar" xOffset="-37" yOffset="-29"/>
+    <component base="hamzaabove-ar" xOffset="3" yOffset="41"/>
   </outline>
   <lib>
     <dict>

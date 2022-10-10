@@ -2,8 +2,8 @@
 <glyph name="kasra-ar" format="2">
   <unicode hex="0650"/>
   <anchor x="129" y="-50" name="_bottom"/>
-  <anchor x="131" y="-126" name="bottom"/>
+  <anchor x="131" y="-135" name="bottom"/>
   <outline>
-    <component base="fatha-ar" yOffset="-669"/>
+    <component base="fatha-ar" yOffset="-678"/>
   </outline>
 </glyph>

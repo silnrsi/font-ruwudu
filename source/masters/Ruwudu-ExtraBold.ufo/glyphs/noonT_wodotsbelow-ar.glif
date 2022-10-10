@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="noonTwodotsbelow-ar" format="2">
-  <advance width="812"/>
+  <advance width="866"/>
   <unicode hex="0767"/>
-  <anchor x="379" y="-457" name="bottom"/>
-  <anchor x="382" y="407" name="top"/>
+  <anchor x="399" y="-457" name="bottom"/>
+  <anchor x="404" y="471" name="top"/>
   <outline>
     <component base="noon-ar"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="195" yOffset="-259"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="215" yOffset="-259"/>
   </outline>
 </glyph>

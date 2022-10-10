@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="peh-ar.init" format="2">
   <advance width="315"/>
-  <anchor x="84" y="-467" name="bottom"/>
+  <anchor x="114" y="-467" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="144" y="360" name="top"/>
   <outline>
     <component base="behDotless-ar.init"/>
-    <component base="threedotsdownbelow-ar" xOffset="-76" yOffset="-35"/>
+    <component base="threedotsdownbelow-ar" xOffset="-46" yOffset="-35"/>
   </outline>
 </glyph>

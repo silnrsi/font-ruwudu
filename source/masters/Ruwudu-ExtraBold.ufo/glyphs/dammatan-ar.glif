@@ -2,7 +2,7 @@
 <glyph name="dammatan-ar" format="2">
   <unicode hex="064C"/>
   <anchor x="138" y="526" name="_top"/>
-  <anchor x="112" y="742" name="top"/>
+  <anchor x="97" y="762" name="top"/>
   <outline>
     <component base="damma-ar"/>
     <contour>

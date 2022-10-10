@@ -2,8 +2,8 @@
 <glyph name="waw-ar" format="2">
   <advance width="565"/>
   <unicode hex="0648"/>
-  <anchor x="376" y="-211" name="bottom"/>
-  <anchor x="211" y="370" name="top"/>
+  <anchor x="376" y="-251" name="bottom"/>
+  <anchor x="181" y="410" name="top"/>
   <outline>
     <contour>
       <point x="391" y="164" type="curve" smooth="yes"/>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jeemTwodotsabove-ar.fina.alt" format="2">
-  <advance width="537"/>
-  <anchor x="339" y="-238" name="bottom"/>
-  <anchor x="537" y="207" name="entry"/>
-  <anchor x="323" y="502" name="top"/>
+  <advance width="597"/>
+  <anchor x="359" y="-282" name="bottom"/>
+  <anchor x="597" y="207" name="entry"/>
+  <anchor x="356" y="565" name="top"/>
   <outline>
     <component base="hah-ar.fina.alt"/>
-    <component base="twodotshorizontalabove-ar" xOffset="162" yOffset="49"/>
-    <component base="dotabove-ar" xOffset="231" yOffset="-552"/>
+    <component base="twodotshorizontalabove-ar" xOffset="201" yOffset="104"/>
+    <component base="dotabove-ar" xOffset="252" yOffset="-570"/>
   </outline>
   <lib>
     <dict>

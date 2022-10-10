@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="noonghunna-ar.init" format="2">
-  <advance width="277"/>
-  <anchor x="82" y="-30" name="bottom"/>
+  <advance width="315"/>
+  <anchor x="102" y="-30" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="99" y="310" name="top"/>
+  <anchor x="129" y="360" name="top"/>
   <outline>
     <component base="behDotless-ar.init"/>
   </outline>

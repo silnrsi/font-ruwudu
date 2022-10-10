@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="noon-ar.fina" format="2">
-  <advance width="792"/>
+  <advance width="869"/>
   <anchor x="380" y="-260" name="bottom"/>
-  <anchor x="792" y="0" name="entry"/>
-  <anchor x="371" y="413" name="top"/>
+  <anchor x="869" y="0" name="entry"/>
+  <anchor x="406" y="481" name="top"/>
   <outline>
     <component base="noonghunna-ar.fina"/>
-    <component base="dotabove-ar" xOffset="267" yOffset="-118"/>
+    <component base="dotabove-ar" xOffset="293" yOffset="-70"/>
   </outline>
 </glyph>

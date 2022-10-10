@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tahThreedots-ar.medi" format="2">
-  <advance width="733"/>
-  <anchor x="398" y="-30" name="bottom"/>
-  <anchor x="733" y="0" name="entry"/>
+  <advance width="815"/>
+  <anchor x="401" y="-30" name="bottom"/>
+  <anchor x="815" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="378" y="745" name="top"/>
+  <anchor x="413" y="865" name="top"/>
   <outline>
     <component base="tah-ar.medi"/>
-    <component base="threedotsupabove-ar" xOffset="216" yOffset="110"/>
+    <component base="threedotsupabove-ar" xOffset="261" yOffset="170"/>
   </outline>
 </glyph>

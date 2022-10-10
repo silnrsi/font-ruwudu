@@ -3,6 +3,7 @@
   <advance width="793"/>
   <anchor x="633" y="-317" name="bottom"/>
   <anchor x="793" y="0" name="entry"/>
+  <anchor x="429" y="431" name="top"/>
   <outline>
     <component base="alefMaksura-ar.fina.low"/>
     <component base="dotabove-ar" xOffset="328" yOffset="-92"/>

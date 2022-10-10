@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehTwodotsbelowDotabove-ar.fina.low" format="2">
-  <advance width="793"/>
-  <anchor x="188" y="-688" name="bottom"/>
-  <anchor x="793" y="0" name="entry"/>
-  <anchor x="439" y="279" name="top"/>
+  <advance width="902"/>
+  <anchor x="167" y="-769" name="bottom"/>
+  <anchor x="902" y="0" name="entry"/>
+  <anchor x="459" y="381" name="top"/>
   <outline>
-    <component base="alefMaksura-ar.fina" yOffset="-207"/>
-    <component base="dotabove-ar" xOffset="331" yOffset="-229"/>
-    <component base="twodotshorizontalbelow-ar" yOffset="-509"/>
+    <component base="dotabove-ar" xOffset="351" yOffset="-149"/>
+    <component base="yeh-ar.fina.low"/>
   </outline>
   <lib>
     <dict>

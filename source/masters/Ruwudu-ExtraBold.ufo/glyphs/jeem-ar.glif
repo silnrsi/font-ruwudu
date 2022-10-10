@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jeem-ar" format="2">
-  <advance width="616"/>
+  <advance width="643"/>
   <unicode hex="062C"/>
-  <anchor x="368" y="-281" name="bottom"/>
-  <anchor x="293" y="427" name="top"/>
+  <anchor x="368" y="-301" name="bottom"/>
+  <anchor x="263" y="427" name="top"/>
   <outline>
-    <component base="hah-ar" xOffset="30"/>
-    <component base="dotcenter-ar" xOffset="259" yOffset="-547"/>
+    <component base="hah-ar"/>
+    <component base="dotcenter-ar" xOffset="259" yOffset="-567"/>
   </outline>
 </glyph>

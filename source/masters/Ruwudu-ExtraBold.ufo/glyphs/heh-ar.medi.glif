@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="heh-ar.medi" format="2">
   <advance width="678"/>
-  <anchor x="323" y="-30" name="bottom"/>
+  <anchor x="333" y="-30" name="bottom"/>
   <anchor x="678" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="331" y="478" name="top"/>
+  <anchor x="341" y="498" name="top"/>
   <outline>
     <contour>
       <point x="546" y="445" type="curve"/>

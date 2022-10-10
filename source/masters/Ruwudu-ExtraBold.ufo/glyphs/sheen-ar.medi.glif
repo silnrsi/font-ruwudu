@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sheen-ar.medi" format="2">
-  <advance width="575"/>
-  <anchor x="343" y="-30" name="bottom"/>
-  <anchor x="575" y="0" name="entry"/>
+  <advance width="695"/>
+  <anchor x="403" y="-30" name="bottom"/>
+  <anchor x="695" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="323" y="650" name="top"/>
+  <anchor x="370" y="790" name="top"/>
   <outline>
     <component base="seen-ar.medi"/>
-    <component base="threedotsupabove-ar" xOffset="152" yOffset="26"/>
+    <component base="threedotsupabove-ar" xOffset="208" yOffset="94"/>
   </outline>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dyeh-ar.fina.ss07" format="2">
-  <advance width="537"/>
-  <anchor x="342" y="-542" name="bottom"/>
-  <anchor x="537" y="0" name="entry"/>
+  <advance width="567"/>
+  <anchor x="329" y="-671" name="bottom"/>
+  <anchor x="567" y="0" name="entry"/>
   <anchor x="334" y="124" name="top"/>
   <outline>
     <component base="hah-ar.fina"/>
-    <component base="twodotsverticalbelow-ar" xOffset="248" yOffset="-232"/>
+    <component base="twodotsverticalbelow-ar" xOffset="257" yOffset="-230"/>
   </outline>
   <lib>
     <dict>

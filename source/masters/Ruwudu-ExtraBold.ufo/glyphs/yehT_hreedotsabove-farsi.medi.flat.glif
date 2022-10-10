@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehThreedotsabove-farsi.medi.flat" format="2">
-  <advance width="207"/>
-  <anchor x="84" y="-212" name="bottom"/>
-  <anchor x="24" y="834" name="top"/>
+  <advance width="257"/>
+  <anchor x="112" y="-262" name="bottom"/>
+  <anchor x="257" y="0" name="entry"/>
+  <anchor x="0" y="207" name="exit"/>
+  <anchor x="55" y="959" name="top"/>
   <outline>
-    <component base="behDotless-ar.medi.flat"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="-92" yOffset="-33"/>
-    <component base="threedotsupabove-ar" xOffset="-125" yOffset="191"/>
+    <component base="threedotsupabove-ar" xOffset="-91" yOffset="281"/>
+    <component base="yeh-ar.medi.flat"/>
   </outline>
 </glyph>

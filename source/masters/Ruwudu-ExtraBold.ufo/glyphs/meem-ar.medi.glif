@@ -2,9 +2,9 @@
 <glyph name="meem-ar.medi" format="2">
   <advance width="518"/>
   <anchor x="254" y="-30" name="bottom"/>
-  <anchor x="508" y="0" name="entry"/>
-  <anchor x="10" y="0" name="exit"/>
-  <anchor x="262" y="480" name="top"/>
+  <anchor x="518" y="0" name="entry"/>
+  <anchor x="0" y="0" name="exit"/>
+  <anchor x="262" y="490" name="top"/>
   <outline>
     <contour>
       <point x="-20" y="0" type="line"/>

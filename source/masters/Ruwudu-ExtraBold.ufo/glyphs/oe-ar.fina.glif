@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oe-ar.fina" format="2">
-  <advance width="506"/>
-  <anchor x="326" y="-211" name="bottom"/>
-  <anchor x="506" y="0" name="entry"/>
-  <anchor x="171" y="540" name="top"/>
+  <advance width="560"/>
+  <anchor x="329" y="-251" name="bottom"/>
+  <anchor x="560" y="0" name="entry"/>
+  <anchor x="191" y="589" name="top"/>
   <outline>
     <component base="waw-ar.fina"/>
-    <component base="vabove-ar" xOffset="56" yOffset="-114"/>
+    <component base="vabove-ar" xOffset="76" yOffset="-74"/>
   </outline>
 </glyph>

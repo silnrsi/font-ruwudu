@@ -2,7 +2,7 @@
 <glyph name="fatha-ar" format="2">
   <unicode hex="064E"/>
   <anchor x="126" y="533" name="_top"/>
-  <anchor x="125" y="604" name="top"/>
+  <anchor x="125" y="620" name="top"/>
   <anchor x="-20" y="550" name="top_alef"/>
   <outline>
     <contour>

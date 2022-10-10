@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jeh-ar.fina" format="2">
-  <advance width="328"/>
-  <anchor x="156" y="-191" name="bottom"/>
-  <anchor x="328" y="0" name="entry"/>
-  <anchor x="106" y="644" name="top"/>
+  <advance width="366"/>
+  <anchor x="216" y="-241" name="bottom"/>
+  <anchor x="366" y="0" name="entry"/>
+  <anchor x="118" y="782" name="top"/>
   <outline>
     <component base="reh-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="-20" yOffset="25"/>
+    <component base="threedotsupabove-ar" xOffset="-10" yOffset="85"/>
   </outline>
 </glyph>

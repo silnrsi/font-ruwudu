@@ -2,6 +2,7 @@
 <glyph name="zain-ar.fina" format="2">
   <advance width="328"/>
   <anchor x="156" y="-191" name="bottom"/>
+  <anchor x="328" y="0" name="entry"/>
   <anchor x="105" y="495" name="top"/>
   <outline>
     <component base="reh-ar.fina"/>

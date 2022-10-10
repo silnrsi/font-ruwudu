@@ -3,7 +3,7 @@
   <advance width="793"/>
   <anchor x="633" y="-317" name="bottom"/>
   <anchor x="793" y="0" name="entry"/>
-  <anchor x="472" y="249" name="top"/>
+  <anchor x="472" y="269" name="top"/>
   <outline>
     <component base="alefMaksura-ar.fina" yOffset="-207"/>
     <component base="hamzaabove-ar" xOffset="367" yOffset="-433"/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seen-ar.init" format="2">
   <advance width="666"/>
-  <anchor x="400" y="-30" name="bottom"/>
+  <anchor x="370" y="-30" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="383" y="389" name="top"/>
+  <anchor x="355" y="389" name="top"/>
   <outline>
     <contour>
       <point x="580" y="332" type="curve" smooth="yes"/>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tahThreedots-ar.fina.ss09" format="2">
-  <advance width="772"/>
+  <advance width="865"/>
   <anchor x="437" y="-30" name="bottom"/>
-  <anchor x="772" y="0" name="entry"/>
-  <anchor x="428" y="640" name="top"/>
+  <anchor x="865" y="0" name="entry"/>
+  <anchor x="448" y="740" name="top"/>
   <outline>
     <component base="tah-ar.fina"/>
-    <component base="threedots-ar.small" xOffset="309" yOffset="407"/>
+    <component base="threedots-ar.small" xOffset="332" yOffset="457"/>
   </outline>
 </glyph>

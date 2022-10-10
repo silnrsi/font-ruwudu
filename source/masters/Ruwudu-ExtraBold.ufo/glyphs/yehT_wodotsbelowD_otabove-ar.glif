@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehTwodotsbelowDotabove-ar" format="2">
-  <advance width="766"/>
+  <advance width="819"/>
   <unicode hex="08A9"/>
-  <anchor x="129" y="-507" name="bottom"/>
-  <anchor x="492" y="486" name="top"/>
+  <anchor x="140" y="-579" name="bottom"/>
+  <anchor x="471" y="604" name="top"/>
   <outline>
-    <component base="alefMaksura-ar"/>
-    <component base="dotabove-ar" xOffset="385" yOffset="-41"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="-42" yOffset="-327"/>
+    <component base="dotabove-ar" xOffset="363" yOffset="56"/>
+    <component base="yeh-ar"/>
   </outline>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="qafThreedotsaboveAfrican-ar.ss09" format="2">
-  <advance width="704"/>
-  <anchor x="469" y="-311" name="bottom"/>
-  <anchor x="363" y="557" name="top"/>
+  <advance width="770"/>
+  <anchor x="504" y="-311" name="bottom"/>
+  <anchor x="353" y="637" name="top"/>
   <outline>
     <component base="qafDotless-ar"/>
-    <component base="threedots-ar.small" xOffset="244" yOffset="306"/>
+    <component base="threedots-ar.small" xOffset="234" yOffset="366"/>
   </outline>
 </glyph>

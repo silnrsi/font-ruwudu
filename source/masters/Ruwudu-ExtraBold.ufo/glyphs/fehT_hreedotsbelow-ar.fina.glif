@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fehThreedotsbelow-ar.fina" format="2">
-  <advance width="504"/>
-  <anchor x="262" y="-359" name="bottom"/>
-  <anchor x="504" y="0" name="entry"/>
+  <advance width="597"/>
+  <anchor x="312" y="-445" name="bottom"/>
+  <anchor x="597" y="0" name="entry"/>
   <anchor x="154" y="500" name="top"/>
   <outline>
     <component base="fehDotless-ar.fina"/>
-    <component base="threedotsdownabove-ar" xOffset="104" yOffset="-630"/>
+    <component base="threedotsdownabove-ar" xOffset="144" yOffset="-646"/>
   </outline>
   <lib>
     <dict>

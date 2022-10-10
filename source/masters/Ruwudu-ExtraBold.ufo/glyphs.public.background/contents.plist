@@ -128,10 +128,6 @@
   <string>meem-ar.init.glif</string>
   <key>meem-ar.init.flat</key>
   <string>meem-ar.init.flat.glif</string>
-  <key>meem-ar.medi</key>
-  <string>meem-ar.medi.glif</string>
-  <key>noonAfrican-ar</key>
-  <string>noonA_frican-ar.glif</string>
   <key>noonghunna-ar.fina</key>
   <string>noonghunna-ar.fina.glif</string>
   <key>notequal</key>
@@ -160,10 +156,6 @@
   <string>sad-ar.fina.glif</string>
   <key>sad-ar.init.flat</key>
   <string>sad-ar.init.flat.glif</string>
-  <key>seen-ar.fina</key>
-  <string>seen-ar.fina.glif</string>
-  <key>seen-ar.fina.low</key>
-  <string>seen-ar.fina.low.glif</string>
   <key>seen-ar.medi.flat</key>
   <string>seen-ar.medi.flat.glif</string>
   <key>seven-ar</key>

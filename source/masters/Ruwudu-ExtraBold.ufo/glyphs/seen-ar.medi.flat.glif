@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seen-ar.medi.flat" format="2">
   <advance width="586"/>
-  <anchor x="251" y="-30" name="bottom"/>
+  <anchor x="291" y="-30" name="bottom"/>
   <anchor x="586" y="0" name="entry"/>
   <anchor x="0" y="205" name="exit"/>
-  <anchor x="241" y="453" name="top"/>
+  <anchor x="282" y="523" name="top"/>
   <outline>
     <contour>
       <point x="516" y="153"/>

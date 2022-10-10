@@ -2,8 +2,8 @@
 <glyph name="hah-ar.init" format="2">
   <advance width="701"/>
   <anchor x="381" y="-30" name="bottom"/>
-  <anchor x="360" y="178" name="center"/>
-  <anchor x="70" y="0" name="exit"/>
+  <anchor x="330" y="198" name="center"/>
+  <anchor x="0" y="0" name="exit"/>
   <anchor x="342" y="426" name="top"/>
   <outline>
     <contour>

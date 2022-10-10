@@ -5,8 +5,7 @@
   <anchor x="148" y="-512" name="bottom"/>
   <anchor x="472" y="456" name="top"/>
   <outline>
-    <component base="alefMaksura-ar"/>
     <component base="hamzaabove-ar" xOffset="398" yOffset="-254"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="-2" yOffset="-323"/>
+    <component base="yeh-ar"/>
   </outline>
 </glyph>

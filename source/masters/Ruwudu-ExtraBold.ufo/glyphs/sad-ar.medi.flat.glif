@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sad-ar.medi.flat" format="2">
   <advance width="749"/>
-  <anchor x="341" y="-30" name="bottom"/>
+  <anchor x="361" y="-30" name="bottom"/>
   <anchor x="749" y="0" name="entry"/>
   <anchor x="0" y="205" name="exit"/>
-  <anchor x="339" y="415" name="top"/>
+  <anchor x="349" y="425" name="top"/>
   <outline>
     <contour>
       <point x="664" y="236" type="curve" smooth="yes"/>
@@ -50,8 +50,8 @@
       <point x="149" y="175" type="curve" smooth="yes"/>
       <point x="149" y="232"/>
       <point x="178" y="260"/>
-      <point x="545" y="276" type="curve" smooth="yes"/>
-      <point x="567" y="277"/>
+      <point x="565" y="276" type="curve" smooth="yes"/>
+      <point x="587" y="277"/>
       <point x="592" y="254"/>
     </contour>
   </outline>

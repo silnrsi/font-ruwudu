@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seen-ar.medi" format="2">
   <advance width="695"/>
-  <anchor x="331" y="-30" name="bottom"/>
+  <anchor x="382" y="-30" name="bottom"/>
   <anchor x="695" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="317" y="321" name="top"/>
+  <anchor x="370" y="369" name="top"/>
   <outline>
     <contour>
       <point x="600" y="186" type="curve" smooth="yes"/>

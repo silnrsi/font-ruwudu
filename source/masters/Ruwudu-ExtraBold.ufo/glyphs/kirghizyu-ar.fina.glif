@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kirghizyu-ar.fina" format="2">
-  <advance width="506"/>
-  <anchor x="326" y="-211" name="bottom"/>
-  <anchor x="506" y="0" name="entry"/>
-  <anchor x="171" y="540" name="top"/>
+  <advance width="560"/>
+  <anchor x="329" y="-251" name="bottom"/>
+  <anchor x="560" y="0" name="entry"/>
+  <anchor x="171" y="607" name="top"/>
   <outline>
     <component base="waw-ar.fina"/>
-    <component base="vinvertedabove-ar" xOffset="53" yOffset="-129"/>
+    <component base="vinvertedabove-ar" xOffset="53" yOffset="-72"/>
   </outline>
 </glyph>

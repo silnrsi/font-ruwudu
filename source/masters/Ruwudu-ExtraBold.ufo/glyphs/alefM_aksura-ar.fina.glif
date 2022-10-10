@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefMaksura-ar.fina" format="2">
-  <advance width="793"/>
+  <advance width="833"/>
   <anchor x="633" y="-110" name="bottom"/>
-  <anchor x="793" y="0" name="entry"/>
-  <anchor x="444" y="289" name="top"/>
+  <anchor x="833" y="0" name="entry"/>
+  <anchor x="420" y="369" name="top"/>
   <outline>
     <contour>
       <point x="463" y="38" type="curve" smooth="yes"/>

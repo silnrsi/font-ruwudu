@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehThreedotsabove-farsi" format="2">
-  <advance width="766"/>
+  <advance width="819"/>
   <unicode hex="063F"/>
-  <anchor x="596" y="-164" name="bottom"/>
-  <anchor x="464" y="599" name="top"/>
+  <anchor x="705" y="-154" name="bottom"/>
+  <anchor x="439" y="769" name="top"/>
   <outline>
     <component base="alefMaksura-ar"/>
-    <component base="threedotsupabove-ar" xOffset="324" yOffset="-34"/>
+    <component base="threedotsupabove-ar" xOffset="304" yOffset="76"/>
   </outline>
 </glyph>

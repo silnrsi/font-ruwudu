@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jeemTwodotsabove-ar.medi.low" format="2">
-  <advance width="465"/>
-  <anchor x="269" y="-419" name="bottom"/>
-  <anchor x="465" y="0" name="entry"/>
+  <advance width="525"/>
+  <anchor x="307" y="-486" name="bottom"/>
+  <anchor x="525" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="262" y="282" name="top"/>
+  <anchor x="302" y="356" name="top"/>
   <outline>
     <component base="hah-ar.medi" yOffset="-207"/>
-    <component base="twodotshorizontalabove-ar" xOffset="107" yOffset="-164"/>
-    <component base="dotabove-ar" xOffset="162" yOffset="-737"/>
+    <component base="twodotshorizontalabove-ar" xOffset="147" yOffset="-105"/>
+    <component base="dotabove-ar" xOffset="192" yOffset="-757"/>
   </outline>
   <lib>
     <dict>

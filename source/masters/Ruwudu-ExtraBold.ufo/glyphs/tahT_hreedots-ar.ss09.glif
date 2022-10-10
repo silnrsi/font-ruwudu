@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tahThreedots-ar.ss09" format="2">
-  <advance width="769"/>
-  <anchor x="438" y="-30" name="bottom"/>
-  <anchor x="428" y="640" name="top"/>
+  <advance width="820"/>
+  <anchor x="482" y="-30" name="bottom"/>
+  <anchor x="448" y="740" name="top"/>
   <outline>
     <component base="tah-ar"/>
-    <component base="threedots-ar.small" xOffset="312" yOffset="407"/>
+    <component base="threedots-ar.small" xOffset="332" yOffset="457"/>
   </outline>
 </glyph>

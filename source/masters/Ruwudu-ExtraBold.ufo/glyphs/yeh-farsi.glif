@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yeh-farsi" format="2">
-  <advance width="766"/>
+  <advance width="819"/>
   <unicode hex="06CC"/>
-  <anchor x="596" y="-164" name="bottom"/>
-  <anchor x="475" y="261" name="top"/>
+  <anchor x="632" y="-164" name="bottom"/>
+  <anchor x="474" y="361" name="top"/>
   <outline>
     <component base="alefMaksura-ar"/>
   </outline>

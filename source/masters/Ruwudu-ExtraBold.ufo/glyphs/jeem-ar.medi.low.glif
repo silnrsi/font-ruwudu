@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jeem-ar.medi.low" format="2">
   <advance width="525"/>
-  <anchor x="246" y="-447" name="bottom"/>
+  <anchor x="278" y="-495" name="bottom"/>
   <anchor x="525" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="272" y="151" name="top"/>
   <outline>
     <component base="hah-ar.medi" yOffset="-207"/>
-    <component base="dotbelow-ar" xOffset="142" yOffset="-247"/>
+    <component base="dotbelow-ar" xOffset="164" yOffset="-268"/>
   </outline>
 </glyph>

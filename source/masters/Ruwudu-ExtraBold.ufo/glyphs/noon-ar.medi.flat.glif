@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="noon-ar.medi.flat" format="2">
-  <advance width="207"/>
-  <anchor x="95" y="-30" name="bottom"/>
-  <anchor x="207" y="0" name="entry"/>
+  <advance width="257"/>
+  <anchor x="125" y="-30" name="bottom"/>
+  <anchor x="257" y="0" name="entry"/>
   <anchor x="0" y="207" name="exit"/>
-  <anchor x="35" y="700" name="top"/>
+  <anchor x="64" y="802" name="top"/>
   <outline>
     <component base="behDotless-ar.medi.flat"/>
-    <component base="dotabove-ar" xOffset="-69" yOffset="167"/>
+    <component base="dotabove-ar" xOffset="-34" yOffset="247"/>
   </outline>
 </glyph>

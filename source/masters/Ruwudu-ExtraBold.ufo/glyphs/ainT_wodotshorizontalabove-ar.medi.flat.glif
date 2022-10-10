@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ainTwodotshorizontalabove-ar.medi.flat" format="2">
-  <advance width="368"/>
-  <anchor x="151" y="-30" name="bottom"/>
-  <anchor x="368" y="0" name="entry"/>
+  <advance width="433"/>
+  <anchor x="191" y="-30" name="bottom"/>
+  <anchor x="433" y="0" name="entry"/>
   <anchor x="0" y="207" name="exit"/>
-  <anchor x="156" y="923" name="top"/>
+  <anchor x="206" y="963" name="top"/>
   <outline>
     <component base="ain-ar.medi.flat"/>
-    <component base="twodotshorizontalabove-ar" xOffset="-4" yOffset="465"/>
+    <component base="twodotshorizontalabove-ar" xOffset="46" yOffset="505"/>
   </outline>
 </glyph>

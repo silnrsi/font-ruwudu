@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="meem-ar.init.flat" format="2">
   <advance width="410"/>
-  <anchor x="186" y="-40" name="bottom"/>
+  <anchor x="198" y="-40" name="bottom"/>
   <anchor x="0" y="205" name="exit"/>
-  <anchor x="203" y="470" name="top"/>
+  <anchor x="203" y="490" name="top"/>
   <outline>
     <contour>
       <point x="203" y="140" type="curve" smooth="yes"/>

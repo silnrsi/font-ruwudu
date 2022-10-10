@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tah-ar.fina" format="2">
   <advance width="865"/>
-  <anchor x="438" y="-30" name="bottom"/>
+  <anchor x="478" y="-30" name="bottom"/>
   <anchor x="865" y="0" name="entry"/>
-  <anchor x="418" y="405" name="top"/>
+  <anchor x="458" y="472" name="top"/>
   <outline>
     <contour>
       <point x="760" y="232" type="curve" smooth="yes"/>
