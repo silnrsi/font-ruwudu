@@ -3,9 +3,9 @@
   <advance width="762"/>
   <anchor x="362" y="-30" name="bottom"/>
   <anchor x="762" y="0" name="entry"/>
-  <anchor x="346" y="494" name="top"/>
+  <anchor x="326" y="494" name="top"/>
   <outline>
-    <component base="hamza-ar" xOffset="257" yOffset="223"/>
+    <component base="hamza-ar" xOffset="237" yOffset="223"/>
     <contour>
       <point x="667" y="203" type="curve" smooth="yes"/>
       <point x="667" y="350"/>

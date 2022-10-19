@@ -176,6 +176,8 @@
   <string>tah-ar.glif</string>
   <key>tah-ar.init</key>
   <string>tah-ar.init.glif</string>
+  <key>three-ar</key>
+  <string>three-ar.glif</string>
   <key>three.small</key>
   <string>three.small.glif</string>
   <key>threedots-ar</key>
@@ -184,6 +186,8 @@
   <string>threequarters.glif</string>
   <key>threesuperior</key>
   <string>threesuperior.glif</string>
+  <key>two-ar</key>
+  <string>two-ar.glif</string>
   <key>twodotsverticalabove-ar</key>
   <string>twodotsverticalabove-ar.glif</string>
   <key>waw-ar</key>

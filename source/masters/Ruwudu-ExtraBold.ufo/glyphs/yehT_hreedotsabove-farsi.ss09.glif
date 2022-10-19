@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehThreedotsabove-farsi.ss09" format="2">
   <advance width="819"/>
-  <anchor x="596" y="-164" name="bottom"/>
-  <anchor x="487" y="500" name="top"/>
+  <anchor x="705" y="-154" name="bottom"/>
+  <anchor x="471" y="634" name="top"/>
   <outline>
     <component base="alefMaksura-ar"/>
-    <component base="threedots-ar.small" xOffset="366" yOffset="263"/>
+    <component base="threedots-ar.small" xOffset="354" yOffset="351"/>
   </outline>
 </glyph>

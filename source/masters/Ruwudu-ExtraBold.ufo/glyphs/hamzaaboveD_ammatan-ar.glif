@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hamzaaboveDammatan-ar" format="2">
-  <anchor x="80" y="514" name="_top"/>
-  <anchor x="17" y="918" name="top"/>
+  <anchor x="83" y="515" name="_top"/>
+  <anchor x="-13" y="965" name="top"/>
   <outline>
-    <component base="hamzaabove-ar"/>
-    <component base="dammatan-ar" xOffset="-60" yOffset="164"/>
+    <component base="hamzaabove-ar" xOffset="3" yOffset="1"/>
+    <component base="dammatan-ar" xOffset="-60" yOffset="181"/>
   </outline>
   <lib>
     <dict>

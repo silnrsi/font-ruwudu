@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hamzabelowKasratan-ar" format="2">
   <anchor x="118" y="-18" name="_bottom"/>
-  <anchor x="78" y="-318" name="bottom"/>
+  <anchor x="68" y="-373" name="bottom"/>
   <outline>
-    <component base="hamzabelow-ar" xOffset="40"/>
-    <component base="kasratan-ar" xOffset="-44" yOffset="-120"/>
+    <component base="hamzabelow-ar" xOffset="40" yOffset="-40"/>
+    <component base="kasratan-ar" xOffset="-55" yOffset="-150"/>
   </outline>
   <lib>
     <dict>

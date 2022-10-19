@@ -2,11 +2,11 @@
 <glyph name="doublerightarrowheadDotabove-ar" format="2">
   <unicode hex="08FC"/>
   <anchor x="99" y="557" name="_top"/>
-  <anchor x="86" y="820" name="top"/>
-  <anchor x="-13" y="777" name="top_alef"/>
+  <anchor x="58" y="840" name="top"/>
+  <anchor x="-53" y="817" name="top_alef"/>
   <outline>
     <component base="doublerightarrowheadabove-ar" xOffset="16"/>
-    <component base="dotabove-ar" xScale="0.51334" yScale="0.51334" xOffset="-33" yOffset="520"/>
+    <component base="dotabove-ar" xScale="0.51334" yScale="0.51334" xOffset="-68" yOffset="545"/>
   </outline>
   <lib>
     <dict>

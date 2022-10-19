@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehThreedotsbelow-ar.fina.low" format="2">
-  <advance width="793"/>
-  <anchor x="144" y="-857" name="bottom"/>
-  <anchor x="793" y="0" name="entry"/>
-  <anchor x="455" y="84" name="top"/>
+  <advance width="833"/>
+  <anchor x="104" y="-937" name="bottom"/>
+  <anchor x="833" y="0" name="entry"/>
+  <anchor x="454" y="172" name="top"/>
   <outline>
     <component base="alefMaksura-ar.fina" yOffset="-207"/>
-    <component base="threedotsdownbelow-ar" xOffset="-28" yOffset="-505"/>
+    <component base="threedotsdownbelow-ar" xOffset="-63" yOffset="-545"/>
   </outline>
   <lib>
     <dict>

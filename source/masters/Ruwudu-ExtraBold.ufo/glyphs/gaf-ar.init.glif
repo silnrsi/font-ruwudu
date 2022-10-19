@@ -3,9 +3,9 @@
   <advance width="757"/>
   <anchor x="375" y="-40" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="205" y="535" name="top"/>
+  <anchor x="247" y="620" name="top"/>
   <outline>
     <component base="kaf-ar.init"/>
-    <component base="gafbar" xOffset="40" yOffset="-208"/>
+    <component base="gafbar" xOffset="99" yOffset="-147"/>
   </outline>
 </glyph>

@@ -19,7 +19,7 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3137</string>
+  <string>3140</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Extra</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
@@ -63,7 +63,7 @@
 /space/qafAfrican-ar/space/qafAfrican-ar.fina/space/qafAfrican-ar.medi/space/qafAfrican-ar.init/space/qafThreedotsaboveAfrican-ar/space/qafThreedotsaboveAfrican-ar.fina/space/qafThreedotsaboveAfrican-ar.medi/space/qafThreedotsaboveAfrican-ar.init/space 
 /qafThreedotsaboveAfrican-ar.ss09/space/qafThreedotsaboveAfrican-ar.fina.ss09/space/qafThreedotsaboveAfrican-ar.medi.ss09/space/qafThreedotsaboveAfrican-ar.init.ss09</string>
     <string>/kaf-ar/space/kaf-ar.fina/space/kaf-ar.medi/space/kaf-ar.init/space/ng-ar/space/ng-ar.fina/space/ng-ar.medi/space/ng-ar.init 
-/space/keheh-ar/space/keheh-ar.fina/space/keheh-ar.medi/space/keheh-ar.init/space/kehehThreedotsabove-ar/space/kehehThreedotsabove-ar.fina/space/kehehThreedotsabove-ar.medi/space/kehehThreedotsabove-ar.init/space/kehehThreedotsabove-ar.ss09/space/kehehThreedotsabove-ar.fina.ss09/space/kehehThreedotsabove-ar.medi.ss09/space/kehehThreedotsabove-ar.init.ss09/space/gaf-ar/space/gaf-ar.fina/space/gaf-ar.medi/space/gaf-ar.init/space/kafswash-ar/space/kafswash-ar.fina/space/kafswash-ar.medi/space/kafswash-ar.init/space 
+/space/keheh-ar/space/keheh-ar.fina/space/keheh-ar.medi/space/keheh-ar.init/space/kehehThreedotsabove-ar/space/kehehThreedotsabove-ar.fina/space/kehehThreedotsabove-ar.medi/space/kehehThreedotsabove-ar.init/space/kehehThreedotsabove-ar.ss09/space/kehehThreedotsabove-ar.fina.ss09/space/kehehThreedotsabove-ar.medi.ss09/space/kehehThreedotsabove-ar.init.ss09/space/gafbar/space/gaf-ar/space/gaf-ar.fina/space/gaf-ar.medi/space/gaf-ar.init/space/kafswash-ar/space/kafswash-ar.fina/space/kafswash-ar.medi/space/kafswash-ar.init/space 
 /lam-ar/space/lam-ar.fina/space/lam-ar.medi/space/lam-ar.init/space/lam-ar.medi.flat/space/lam-ar.init.high 
 /space/lam_alef-ar/space/lam_alef-ar.fina/space/lam_alefMadda-ar/space/lam_alefMadda-ar.fina/space/lam_alefHamzaabove-ar/space/lam_alefHamzaabove-ar.fina/space/lam_alefHamzabelow-ar/space/lam_alefHamzabelow-ar.fina 
 /space/meem-ar/space/meem-ar.fina/space/meem-ar.medi/space/meem-ar.init/space/meem-ar.medi.flat/space/meem-ar.init.flat 
@@ -85,6 +85,14 @@
 /space/e-ar/space/e-ar.fina/space/e-ar.medi/space/e-ar.init/space/e-ar.medi.flat/space/e-ar.fina.low 
 /space/yehThreedotsbelow-ar/space/yehThreedotsbelow-ar.fina/space/yehThreedotsbelow-ar.medi/space/yehThreedotsbelow-ar.init/space/yehThreedotsbelow-ar.medi.flat/space/yehThreedotsbelow-ar.fina.low 
 /space/yehbarree-ar/space/yehbarree-ar.fina/space/yehbarree-ar.fina.alt/space/yehbarreeHamzaabove-ar/space/yehbarreeHamzaabove-ar.fina</string>
+    <string>/allah-ar/alef-ar.allah/alef-ar.fina/space/alef-ar.fina.allah/space/alefMadda-ar.allah/space/alefMadda-ar.fina.allah/space/alefHamzaabove-ar.allah/space/alefHamzaabove-ar.fina.allah/space/alef-ar.allah/lam-ar.init.allah1/lam-ar.medi.allah1/heh-ar.fina.allah/space/alef-ar.allah/lam-ar.init.allah1/lam-ar.medi.allah2/heh-ar.fina.allah/space/bismillah-ar 
+/fathaRing-ar/space/fathaDotabove-ar/space/kasraDotbelow-ar/space/leftarrowheadabove-ar/space/rightarrowheadabove-ar/space/leftarrowheadbelow-ar/space/rightarrowheadbelow-ar/space/space/doublerightarrowheadabove-ar/space/space/doublerightarrowheadDotabove-ar/space/space/rightarrowheadDotabove-ar/space/space/shadda-ar/shadda_alef-ar/space/shadda_fathatan-ar/space/shadda_dammatan-ar/space/shadda_fatha-ar/space/shadda_damma-ar/space</string>
+    <string>/zero-ar/zero-ar.small/behDotless-ar/space/alef-ar/one-ar/one-ar.small/two-ar/two-ar.small/three-ar/three-ar.small/four-ar/four-ar.small/five-ar/five-ar.small/six-ar/seven-ar/seven-ar.small/eight-ar/eight-ar.small 
+/nine-ar/nine-ar.small/mark-ar/question-ar/percent-ar/ain-ar.init/number-ar/number-ar.2/number-ar.3/reh-ar/decimalseparator-ar/asterisk-ar 
+/parenleft-ar/parenleft-ar/parenright-ar 
+/endofayah-ar/endofayah-ar.2/endofayah-ar.3 
+/endofayah-ar.ss02/endofayah-ar.2.ss02/endofayah-ar.3.ss02 
+/endofayah-ar.ss03/endofayah-ar.2.ss03/endofayah-ar.3.ss03</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -2395,7 +2403,7 @@
     <key>fathaRing-ar</key>
     <string>uni08F4</string>
     <key>fatha_alefabove-ar</key>
-    <string>uni064E_uni0670</string>
+    <string>uni064E0670</string>
     <key>fathatan-ar</key>
     <string>uni064B</string>
     <key>feh-ar</key>

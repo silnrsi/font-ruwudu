@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefMadda-ar.fina.allah" format="2">
-  <advance width="195"/>
-  <anchor x="75" y="-50" name="bottom"/>
-  <anchor x="195" y="0" name="entry"/>
-  <anchor x="74" y="731" name="top"/>
+  <advance width="244"/>
+  <anchor x="104" y="-71" name="bottom"/>
+  <anchor x="244" y="0" name="entry"/>
+  <anchor x="98" y="751" name="top"/>
   <outline>
     <component base="alef-ar.fina.allah"/>
-    <component base="madda-ar" xOffset="-99" yOffset="18"/>
+    <component base="madda-ar" xOffset="-75" yOffset="28"/>
   </outline>
   <lib>
     <dict>

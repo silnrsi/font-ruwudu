@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lam-ar.init.allah1" format="2">
-  <advance width="149"/>
+  <advance width="193"/>
   <anchor x="43" y="-30" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="38" y="562" name="top"/>
   <outline>
     <contour>
-      <point x="0" y="90" type="line"/>
-      <point x="0" y="0" type="line"/>
-      <point x="25" y="0" type="line" smooth="yes"/>
-      <point x="137" y="0"/>
-      <point x="118" y="37"/>
-      <point x="117" y="190" type="curve" smooth="yes"/>
-      <point x="116" y="300"/>
-      <point x="109" y="407"/>
-      <point x="103" y="535" type="curve"/>
-      <point x="98" y="542"/>
-      <point x="94" y="546"/>
-      <point x="91" y="546" type="curve" smooth="yes"/>
-      <point x="75" y="546"/>
-      <point x="35" y="527"/>
-      <point x="6" y="509" type="curve"/>
-      <point x="35" y="394"/>
-      <point x="63" y="242"/>
-      <point x="63" y="160" type="curve" smooth="yes"/>
-      <point x="63" y="94"/>
-      <point x="46" y="90"/>
-      <point x="11" y="90" type="curve" smooth="yes"/>
+      <point x="153" y="192" type="curve" smooth="yes"/>
+      <point x="152" y="300"/>
+      <point x="156" y="417"/>
+      <point x="146" y="558" type="curve"/>
+      <point x="141" y="569"/>
+      <point x="137" y="573"/>
+      <point x="131" y="573" type="curve" smooth="yes"/>
+      <point x="112" y="573"/>
+      <point x="36" y="541"/>
+      <point x="15" y="522" type="curve"/>
+      <point x="45" y="418"/>
+      <point x="68" y="272"/>
+      <point x="68" y="180" type="curve" smooth="yes"/>
+      <point x="68" y="144"/>
+      <point x="40" y="140"/>
+      <point x="27" y="140" type="curve" smooth="yes"/>
+      <point x="-20" y="140" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="135" y="0"/>
+      <point x="154" y="84"/>
     </contour>
   </outline>
   <lib>

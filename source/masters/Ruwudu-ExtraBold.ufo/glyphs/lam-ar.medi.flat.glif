@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lam-ar.medi.flat" format="2">
-  <advance width="247"/>
+  <advance width="267"/>
   <anchor x="109" y="-34" name="bottom"/>
   <anchor x="267" y="0" name="entry"/>
   <anchor x="0" y="205" name="exit"/>
