@@ -3,10 +3,10 @@
   <advance width="1262"/>
   <anchor x="958" y="-237" name="bottom"/>
   <anchor x="1262" y="0" name="entry"/>
-  <anchor x="918" y="593" name="top"/>
+  <anchor x="896" y="591" name="top"/>
   <outline>
     <component base="seen-ar.fina" yOffset="-207"/>
-    <component base="threedotsupabove-ar" xOffset="783" yOffset="-102"/>
+    <component base="threedotsupabove-ar" xOffset="771" yOffset="-102"/>
   </outline>
   <lib>
     <dict>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nyeh-ar.fina.alt" format="2">
   <advance width="597"/>
-  <anchor x="341" y="-214" name="bottom"/>
+  <anchor x="375" y="-253" name="bottom"/>
   <anchor x="597" y="207" name="entry"/>
-  <anchor x="332" y="358" name="top"/>
+  <anchor x="362" y="388" name="top"/>
   <outline>
     <component base="hah-ar.fina.alt"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="159" yOffset="-51"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="193" yOffset="-70"/>
   </outline>
 </glyph>

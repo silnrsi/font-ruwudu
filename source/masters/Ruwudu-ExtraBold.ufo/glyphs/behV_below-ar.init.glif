@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behVbelow-ar.init" format="2">
-  <advance width="312"/>
+  <advance width="335"/>
   <anchor x="102" y="-226" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="114" y="360" name="top"/>
   <outline>
     <component base="behDotless-ar.init"/>
-    <component base="vinvertedabove-ar" yScale="-1" xOffset="-12" yOffset="474"/>
+    <component base="vinvertedabove-ar" yScale="-1" xOffset="-12" yOffset="464"/>
   </outline>
 </glyph>

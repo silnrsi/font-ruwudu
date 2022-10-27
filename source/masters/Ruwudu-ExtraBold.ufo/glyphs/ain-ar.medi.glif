@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ain-ar.medi" format="2">
   <advance width="582"/>
-  <anchor x="291" y="-30" name="bottom"/>
+  <anchor x="295" y="-30" name="bottom"/>
   <anchor x="582" y="0" name="entry"/>
   <anchor x="10" y="0" name="exit"/>
   <anchor x="310" y="579" name="top"/>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alef-ar.short" format="2">
-  <advance width="205"/>
-  <anchor x="99" y="-56" name="bottom"/>
-  <anchor x="89" y="585" name="top"/>
+  <advance width="254"/>
+  <anchor x="129" y="-56" name="bottom"/>
+  <anchor x="113" y="585" name="top"/>
   <outline>
     <component base="alef-ar"/>
   </outline>

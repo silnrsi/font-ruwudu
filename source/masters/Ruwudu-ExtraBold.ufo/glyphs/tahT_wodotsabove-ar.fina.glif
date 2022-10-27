@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tahTwodotsabove-ar.fina" format="2">
   <advance width="865"/>
-  <anchor x="438" y="-30" name="bottom"/>
+  <anchor x="488" y="-30" name="bottom"/>
   <anchor x="865" y="0" name="entry"/>
   <anchor x="484" y="670" name="top"/>
   <outline>

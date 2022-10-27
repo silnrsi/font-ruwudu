@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehTwodotsbelowDotabove-ar.medi.flat" format="2">
   <advance width="257"/>
-  <anchor x="112" y="-262" name="bottom"/>
-  <anchor x="207" y="0" name="entry"/>
+  <anchor x="132" y="-282" name="bottom"/>
+  <anchor x="257" y="0" name="entry"/>
   <anchor x="0" y="207" name="exit"/>
-  <anchor x="71" y="777" name="top"/>
+  <anchor x="61" y="797" name="top"/>
   <outline>
     <component base="yeh-ar.medi.flat"/>
     <component base="dotabove-ar" xOffset="-51" yOffset="260"/>

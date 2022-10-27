@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ghainThreedotsabove-ar.fina.low" format="2">
   <advance width="631"/>
-  <anchor x="288" y="-265" name="bottom"/>
+  <anchor x="311" y="-265" name="bottom"/>
   <anchor x="631" y="0" name="entry"/>
-  <anchor x="294" y="963" name="top"/>
+  <anchor x="314" y="963" name="top"/>
   <outline>
     <component base="ain-ar.fina" yOffset="-207"/>
     <component base="dotabove-ar" xOffset="212" yOffset="61"/>
-    <component base="threedotsupabove-ar" xOffset="152" yOffset="286"/>
+    <component base="threedotsupabove-ar" xOffset="162" yOffset="286"/>
   </outline>
   <lib>
     <dict>

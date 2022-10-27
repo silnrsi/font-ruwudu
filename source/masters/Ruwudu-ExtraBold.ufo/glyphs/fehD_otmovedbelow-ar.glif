@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fehDotmovedbelow-ar" format="2">
-  <advance width="564"/>
+  <advance width="544"/>
   <unicode hex="06A2"/>
   <anchor x="308" y="-260" name="bottom"/>
   <anchor x="194" y="550" name="top"/>

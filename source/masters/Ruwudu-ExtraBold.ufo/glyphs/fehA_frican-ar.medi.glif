@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fehAfrican-ar.medi" format="2">
   <advance width="547"/>
-  <anchor x="278" y="-260" name="bottom"/>
+  <anchor x="298" y="-260" name="bottom"/>
   <anchor x="547" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="123" y="500" name="top"/>
+  <anchor x="174" y="560" name="top"/>
   <outline>
     <component base="fehDotless-ar.medi"/>
-    <component base="dotbelow-ar" xOffset="169" yOffset="-50"/>
+    <component base="dotbelow-ar" xOffset="179" yOffset="-50"/>
   </outline>
 </glyph>

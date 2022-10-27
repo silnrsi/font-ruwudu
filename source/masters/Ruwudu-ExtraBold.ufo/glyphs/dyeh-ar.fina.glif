@@ -3,7 +3,7 @@
   <advance width="597"/>
   <anchor x="352" y="-670" name="bottom"/>
   <anchor x="597" y="0" name="entry"/>
-  <anchor x="364" y="124" name="top"/>
+  <anchor x="364" y="174" name="top"/>
   <outline>
     <component base="hah-ar.fina" xOffset="30"/>
     <component base="twodotsverticalbelow-ar" xOffset="268" yOffset="-242"/>

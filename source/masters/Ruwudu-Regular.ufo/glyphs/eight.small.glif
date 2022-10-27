@@ -4,6 +4,7 @@
   <anchor x="0" y="0" name="digit"/>
   <outline>
     <contour>
+      <point x="209" y="249" type="line"/>
       <point x="285" y="268"/>
       <point x="322" y="317"/>
       <point x="322" y="364" type="curve" smooth="yes"/>
@@ -47,7 +48,6 @@
       <point x="254" y="322"/>
       <point x="226" y="280"/>
       <point x="186" y="267" type="curve"/>
-      <point x="209" y="249" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -94,8 +94,6 @@
   <string>hah-ar.medi.stack.glif</string>
   <key>hamza-ar</key>
   <string>hamza-ar.glif</string>
-  <key>hamzaabove-ar</key>
-  <string>hamzaabove-ar.glif</string>
   <key>heh-ar</key>
   <string>heh-ar.glif</string>
   <key>heh-ar.fina</key>
@@ -146,8 +144,6 @@
   <string>notequal.rtl.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
-  <key>partialdiff</key>
-  <string>partialdiff.glif</string>
   <key>partialdiff.rtl</key>
   <string>partialdiff.rtl.glif</string>
   <key>pi</key>
@@ -188,8 +184,6 @@
   <string>six.glif</string>
   <key>six.pnum</key>
   <string>six.pnum.glif</string>
-  <key>sterling</key>
-  <string>sterling.glif</string>
   <key>summation</key>
   <string>summation.glif</string>
   <key>summation.rtl</key>

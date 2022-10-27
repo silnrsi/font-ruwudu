@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alef-ar.high.ss08" format="2">
   <advance width="161"/>
-  <anchor x="76" y="190" name="bottom"/>
-  <anchor x="148" y="445" name="center"/>
-  <anchor x="73" y="671" name="top"/>
+  <anchor x="91" y="187" name="bottom"/>
+  <anchor x="167" y="445" name="center"/>
+  <anchor x="73" y="684" name="top"/>
   <outline>
-    <component base="alef-ar.high" xOffset="30"/>
+    <component base="alef-ar.high"/>
   </outline>
 </glyph>

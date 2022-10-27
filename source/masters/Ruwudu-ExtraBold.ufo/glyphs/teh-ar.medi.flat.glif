@@ -4,9 +4,9 @@
   <anchor x="119" y="-34" name="bottom"/>
   <anchor x="257" y="0" name="entry"/>
   <anchor x="0" y="207" name="exit"/>
-  <anchor x="83" y="726" name="top"/>
+  <anchor x="93" y="746" name="top"/>
   <outline>
     <component base="behDotless-ar.medi.flat"/>
-    <component base="twodotshorizontalabove-ar" xOffset="-72" yOffset="245"/>
+    <component base="twodotshorizontalabove-ar" xOffset="-72" yOffset="265"/>
   </outline>
 </glyph>

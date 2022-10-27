@@ -4,9 +4,9 @@
   <anchor x="430" y="-30" name="bottom"/>
   <anchor x="821" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="437" y="654" name="top"/>
+  <anchor x="437" y="664" name="top"/>
   <outline>
     <component base="sad-ar.medi"/>
-    <component base="dotabove-ar" xOffset="328" yOffset="125"/>
+    <component base="dotabove-ar" xOffset="328" yOffset="135"/>
   </outline>
 </glyph>

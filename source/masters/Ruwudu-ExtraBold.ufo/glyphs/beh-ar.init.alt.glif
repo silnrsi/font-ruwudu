@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="beh-ar.init.alt" format="2">
-  <advance width="317"/>
+  <advance width="313"/>
   <anchor x="132" y="-265" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="155" y="651" name="top"/>
+  <anchor x="135" y="652" name="top"/>
   <outline>
     <component base="dotbelow-ar" xOffset="29" yOffset="-50"/>
     <contour>

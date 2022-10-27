@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="beeh-ar" format="2">
-  <advance width="542"/>
+  <advance width="592"/>
   <unicode hex="067B"/>
-  <anchor x="259" y="-496" name="bottom"/>
-  <anchor x="255" y="350" name="top"/>
+  <anchor x="286" y="-469" name="bottom"/>
+  <anchor x="319" y="330" name="top"/>
   <outline>
     <component base="behDotless-ar"/>
-    <component base="twodotsverticalbelow-ar" xOffset="172" yOffset="-30"/>
+    <component base="twodotsverticalbelow-ar" xOffset="216" yOffset="-30"/>
   </outline>
 </glyph>

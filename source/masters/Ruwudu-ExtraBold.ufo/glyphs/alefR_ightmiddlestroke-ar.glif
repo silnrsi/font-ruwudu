@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefRightmiddlestroke-ar" format="2">
-  <advance width="205"/>
+  <advance width="254"/>
   <unicode hex="0872"/>
-  <anchor x="109" y="-56" name="bottom"/>
-  <anchor x="90" y="615" name="top"/>
+  <anchor x="129" y="-56" name="bottom"/>
+  <anchor x="110" y="605" name="top"/>
   <outline>
     <component base="alef-ar"/>
-    <component base="fatha-ar" xOffset="65" yOffset="-283"/>
+    <component base="fatha-ar" xOffset="95" yOffset="-283"/>
   </outline>
   <lib>
     <dict>

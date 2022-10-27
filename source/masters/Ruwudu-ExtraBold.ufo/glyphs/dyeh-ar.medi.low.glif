@@ -4,10 +4,10 @@
   <anchor x="266" y="-671" name="bottom"/>
   <anchor x="525" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="272" y="131" name="top"/>
+  <anchor x="292" y="181" name="top"/>
   <outline>
     <component base="hah-ar.medi" yOffset="-207"/>
-    <component base="twodotsverticalbelow-ar" xOffset="194" yOffset="-230"/>
+    <component base="twodotsverticalbelow-ar" xOffset="194" yOffset="-240"/>
   </outline>
   <lib>
     <dict>

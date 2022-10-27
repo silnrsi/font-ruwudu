@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="beeh-ar.init" format="2">
-  <advance width="315"/>
-  <anchor x="102" y="-496" name="bottom"/>
+  <advance width="335"/>
+  <anchor x="89" y="-468" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="114" y="360" name="top"/>
   <outline>

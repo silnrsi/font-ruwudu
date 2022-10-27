@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="qafThreedotsaboveAfrican-ar.ss09" format="2">
   <advance width="770"/>
-  <anchor x="504" y="-311" name="bottom"/>
-  <anchor x="353" y="637" name="top"/>
+  <anchor x="514" y="-331" name="bottom"/>
+  <anchor x="353" y="647" name="top"/>
   <outline>
     <component base="qafDotless-ar"/>
     <component base="threedots-ar.small" xOffset="234" yOffset="366"/>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behhamzaabove-ar.fina" format="2">
   <advance width="471"/>
-  <anchor x="244" y="-297" name="bottom"/>
+  <anchor x="265" y="-297" name="bottom"/>
   <anchor x="471" y="0" name="entry"/>
   <anchor x="255" y="610" name="top"/>
   <outline>
     <component base="behDotless-ar.fina"/>
-    <component base="dotbelow-ar" xOffset="145" yOffset="-50"/>
+    <component base="dotbelow-ar" xOffset="166" yOffset="-50"/>
     <component base="hamzaabove-ar" xOffset="185" yOffset="-135"/>
   </outline>
 </glyph>

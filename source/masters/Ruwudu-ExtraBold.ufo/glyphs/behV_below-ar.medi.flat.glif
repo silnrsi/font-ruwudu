@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behVbelow-ar.medi.flat" format="2">
   <advance width="257"/>
-  <anchor x="62" y="-226" name="bottom"/>
+  <anchor x="92" y="-236" name="bottom"/>
   <anchor x="257" y="0" name="entry"/>
   <anchor x="0" y="207" name="exit"/>
   <anchor x="70" y="563" name="top"/>
   <outline>
     <component base="behDotless-ar.medi.flat"/>
-    <component base="vinvertedabove-ar" yScale="-1" xOffset="-12" yOffset="474"/>
+    <component base="vinvertedabove-ar" yScale="-1" xOffset="-12" yOffset="464"/>
   </outline>
 </glyph>

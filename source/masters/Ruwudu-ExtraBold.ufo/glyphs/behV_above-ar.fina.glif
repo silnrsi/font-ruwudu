@@ -3,9 +3,9 @@
   <advance width="471"/>
   <anchor x="277" y="-30" name="bottom"/>
   <anchor x="471" y="0" name="entry"/>
-  <anchor x="260" y="536" name="top"/>
+  <anchor x="250" y="546" name="top"/>
   <outline>
     <component base="behDotless-ar.fina"/>
-    <component base="vabove-ar" xOffset="147" yOffset="-134"/>
+    <component base="vabove-ar" xOffset="137" yOffset="-124"/>
   </outline>
 </glyph>

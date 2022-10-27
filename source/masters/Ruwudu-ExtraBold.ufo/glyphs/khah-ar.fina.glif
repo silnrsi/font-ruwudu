@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="khah-ar.fina" format="2">
-  <advance width="597"/>
-  <anchor x="337" y="-272" name="bottom"/>
-  <anchor x="567" y="0" name="entry"/>
+  <advance width="602"/>
+  <anchor x="367" y="-272" name="bottom"/>
+  <anchor x="602" y="0" name="entry"/>
   <anchor x="369" y="413" name="top"/>
   <outline>
-    <component base="hah-ar.fina" xOffset="30"/>
+    <component base="hah-ar.fina"/>
     <component base="dotabove-ar" xOffset="263" yOffset="-126"/>
   </outline>
 </glyph>

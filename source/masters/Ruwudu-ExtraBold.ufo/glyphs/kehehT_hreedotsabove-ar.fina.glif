@@ -3,9 +3,9 @@
   <advance width="866"/>
   <anchor x="375" y="-40" name="bottom"/>
   <anchor x="866" y="0" name="entry"/>
-  <anchor x="229" y="939" name="top"/>
+  <anchor x="228" y="939" name="top"/>
   <outline>
     <component base="keheh-ar.fina"/>
-    <component base="threedotsupabove-ar" xOffset="60" yOffset="252"/>
+    <component base="threedotsupabove-ar" xOffset="70" yOffset="252"/>
   </outline>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oe" format="2">
-  <advance width="778"/>
+  <advance width="765"/>
   <unicode hex="0153"/>
-  <anchor x="401" y="430" name="top"/>
+  <anchor x="404" y="430" name="top"/>
   <outline>
     <component base="o"/>
-    <component base="e" xOffset="332"/>
+    <component base="e" xOffset="325"/>
   </outline>
 </glyph>

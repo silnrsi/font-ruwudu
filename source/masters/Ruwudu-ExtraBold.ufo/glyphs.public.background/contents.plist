@@ -4,8 +4,6 @@
 <dict>
   <key>Delta</key>
   <string>D_elta.glif</string>
-  <key>ain-ar.fina.low</key>
-  <string>ain-ar.fina.low.glif</string>
   <key>ain-ar.medi.flat</key>
   <string>ain-ar.medi.flat.glif</string>
   <key>alef-ar.fina</key>
@@ -14,8 +12,6 @@
   <string>alef-ar.fina.allah.glif</string>
   <key>alef-ar.fina.low</key>
   <string>alef-ar.fina.low.glif</string>
-  <key>alef-ar.wide</key>
-  <string>alef-ar.wide.glif</string>
   <key>alef-ar.wideshort</key>
   <string>alef-ar.wideshort.glif</string>
   <key>alef-ar.wideshort.fina</key>
@@ -136,8 +132,6 @@
   <string>notequal.rtl.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
-  <key>partialdiff</key>
-  <string>partialdiff.glif</string>
   <key>partialdiff.rtl</key>
   <string>partialdiff.rtl.glif</string>
   <key>pi</key>
@@ -194,8 +188,6 @@
   <string>waw-ar.glif</string>
   <key>waw-ar.fina</key>
   <string>waw-ar.fina.glif</string>
-  <key>yehThreedotsabove-farsi</key>
-  <string>yehT_hreedotsabove-farsi.glif</string>
   <key>yehThreedotsabove-farsi.fina</key>
   <string>yehT_hreedotsabove-farsi.fina.glif</string>
   <key>yehThreedotsabove-farsi.fina.low</key>

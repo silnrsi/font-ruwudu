@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alefFathaattached-ar" format="2">
-  <advance width="205"/>
+  <advance width="254"/>
   <unicode hex="0870"/>
-  <anchor x="109" y="-56" name="bottom"/>
-  <anchor x="97" y="650" name="top"/>
+  <anchor x="129" y="-56" name="bottom"/>
+  <anchor x="117" y="650" name="top"/>
   <outline>
     <component base="alef-ar"/>
-    <component base="fatha-ar" xOffset="-28" yOffset="20"/>
+    <component base="fatha-ar" xOffset="-8" yOffset="20"/>
   </outline>
   <lib>
     <dict>

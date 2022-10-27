@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kehehThreedotsabove-ar.ss09" format="2">
-  <advance width="851"/>
+  <advance width="838"/>
   <anchor x="435" y="-40" name="bottom"/>
-  <anchor x="236" y="790" name="top"/>
+  <anchor x="216" y="790" name="top"/>
   <outline>
     <component base="keheh-ar"/>
-    <component base="threedots-ar.small" xOffset="116" yOffset="519"/>
+    <component base="threedots-ar.small" xOffset="96" yOffset="519"/>
   </outline>
 </glyph>

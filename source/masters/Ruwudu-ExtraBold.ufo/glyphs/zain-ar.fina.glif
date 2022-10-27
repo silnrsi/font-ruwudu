@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zain-ar.fina" format="2">
   <advance width="366"/>
-  <anchor x="216" y="-241" name="bottom"/>
+  <anchor x="156" y="-251" name="bottom"/>
   <anchor x="366" y="0" name="entry"/>
   <anchor x="85" y="588" name="top"/>
   <outline>

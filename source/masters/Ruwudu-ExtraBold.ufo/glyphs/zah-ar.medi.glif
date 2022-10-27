@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zah-ar.medi" format="2">
   <advance width="815"/>
-  <anchor x="401" y="-30" name="bottom"/>
+  <anchor x="451" y="-30" name="bottom"/>
   <anchor x="815" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="438" y="687" name="top"/>
   <outline>
     <component base="tah-ar.medi"/>
-    <component base="dotabove-ar" xOffset="332" yOffset="166"/>
+    <component base="dotabove-ar" xOffset="322" yOffset="166"/>
   </outline>
 </glyph>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nyeh-ar.medi.ss07" format="2">
   <advance width="525"/>
-  <anchor x="246" y="-240" name="bottom"/>
+  <anchor x="282" y="-240" name="bottom"/>
   <anchor x="525" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="302" y="398" name="top"/>
   <outline>
     <component base="hah-ar.medi"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="70" yOffset="-39"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="106" yOffset="-39"/>
   </outline>
 </glyph>

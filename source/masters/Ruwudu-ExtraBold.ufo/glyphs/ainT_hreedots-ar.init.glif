@@ -3,9 +3,9 @@
   <advance width="577"/>
   <anchor x="311" y="-30" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="321" y="829" name="top"/>
+  <anchor x="301" y="829" name="top"/>
   <outline>
     <component base="ain-ar.init"/>
-    <component base="threedotsupabove-ar" xOffset="152" yOffset="133"/>
+    <component base="threedotsupabove-ar" xOffset="142" yOffset="133"/>
   </outline>
 </glyph>

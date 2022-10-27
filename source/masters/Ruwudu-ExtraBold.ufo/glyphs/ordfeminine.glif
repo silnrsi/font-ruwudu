@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordfeminine" format="2">
-  <advance width="349"/>
+  <advance width="372"/>
   <unicode hex="00AA"/>
   <outline>
-    <component base="a" xScale="0.751" yScale="0.751" xOffset="-15" yOffset="352"/>
+    <component base="a" xScale="0.75" yScale="0.75" yOffset="353"/>
     <contour>
-      <point x="23" y="316" type="curve"/>
-      <point x="23" y="284" type="line"/>
-      <point x="100" y="286"/>
-      <point x="225" y="286"/>
-      <point x="302" y="284" type="curve"/>
-      <point x="302" y="316" type="line"/>
-      <point x="225" y="314"/>
-      <point x="100" y="314"/>
+      <point x="25" y="316" type="curve"/>
+      <point x="25" y="274" type="line"/>
+      <point x="119" y="276"/>
+      <point x="244" y="276"/>
+      <point x="338" y="274" type="curve"/>
+      <point x="338" y="316" type="line"/>
+      <point x="244" y="314"/>
+      <point x="119" y="314"/>
     </contour>
   </outline>
 </glyph>

@@ -3,7 +3,7 @@
   <advance width="496"/>
   <anchor x="271" y="-30" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="114" y="500" name="top"/>
+  <anchor x="154" y="578" name="top"/>
   <outline>
     <component base="fehDotless-ar.init"/>
   </outline>

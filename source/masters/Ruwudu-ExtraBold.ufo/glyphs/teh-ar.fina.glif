@@ -3,9 +3,9 @@
   <advance width="471"/>
   <anchor x="307" y="-30" name="bottom"/>
   <anchor x="471" y="0" name="entry"/>
-  <anchor x="243" y="546" name="top"/>
+  <anchor x="275" y="556" name="top"/>
   <outline>
     <component base="behDotless-ar.fina"/>
-    <component base="twodotshorizontalabove-ar" xOffset="88" yOffset="65"/>
+    <component base="twodotshorizontalabove-ar" xOffset="120" yOffset="75"/>
   </outline>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ainThreedots-ar.fina.low" format="2">
   <advance width="631"/>
-  <anchor x="318" y="-265" name="bottom"/>
+  <anchor x="311" y="-265" name="bottom"/>
   <anchor x="631" y="0" name="entry"/>
   <anchor x="313" y="784" name="top"/>
   <outline>

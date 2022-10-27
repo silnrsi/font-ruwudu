@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behThreedotsupabove-ar.fina" format="2">
   <advance width="471"/>
-  <anchor x="274" y="-287" name="bottom"/>
+  <anchor x="264" y="-267" name="bottom"/>
   <anchor x="471" y="0" name="entry"/>
-  <anchor x="248" y="783" name="top"/>
+  <anchor x="215" y="773" name="top"/>
   <outline>
     <component base="behDotless-ar.fina"/>
     <component base="dotbelow-ar" xOffset="160" yOffset="-50"/>

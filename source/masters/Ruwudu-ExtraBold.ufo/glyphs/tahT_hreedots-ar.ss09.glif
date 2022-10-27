@@ -2,9 +2,9 @@
 <glyph name="tahThreedots-ar.ss09" format="2">
   <advance width="820"/>
   <anchor x="482" y="-30" name="bottom"/>
-  <anchor x="448" y="740" name="top"/>
+  <anchor x="448" y="750" name="top"/>
   <outline>
     <component base="tah-ar"/>
-    <component base="threedots-ar.small" xOffset="332" yOffset="457"/>
+    <component base="threedots-ar.small" xOffset="332" yOffset="467"/>
   </outline>
 </glyph>

@@ -4,9 +4,9 @@
   <anchor x="291" y="-30" name="bottom"/>
   <anchor x="547" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="88" y="961" name="top"/>
+  <anchor x="108" y="971" name="top"/>
   <outline>
     <component base="fehDotless-ar.medi"/>
-    <component base="threedotsupabove-ar" xOffset="-61" yOffset="276"/>
+    <component base="threedotsupabove-ar" xOffset="-41" yOffset="286"/>
   </outline>
 </glyph>

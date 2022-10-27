@@ -2,7 +2,7 @@
 <glyph name="yehThreedotsabove-farsi" format="2">
   <advance width="819"/>
   <unicode hex="063F"/>
-  <anchor x="705" y="-154" name="bottom"/>
+  <anchor x="655" y="-154" name="bottom"/>
   <anchor x="439" y="769" name="top"/>
   <outline>
     <component base="alefMaksura-ar"/>

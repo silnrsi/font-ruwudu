@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dyeh-ar.fina.alt" format="2">
   <advance width="597"/>
-  <anchor x="347" y="-471" name="bottom"/>
+  <anchor x="357" y="-471" name="bottom"/>
   <anchor x="597" y="207" name="entry"/>
-  <anchor x="337" y="344" name="top"/>
+  <anchor x="367" y="394" name="top"/>
   <outline>
     <component base="hah-ar.fina.alt"/>
     <component base="twodotsverticalbelow-ar" xOffset="275" yOffset="-30"/>

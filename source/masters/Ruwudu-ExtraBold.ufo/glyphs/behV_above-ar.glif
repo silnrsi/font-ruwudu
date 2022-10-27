@@ -2,10 +2,10 @@
 <glyph name="behVabove-ar" format="2">
   <advance width="592"/>
   <unicode hex="0756"/>
-  <anchor x="311" y="-30" name="bottom"/>
-  <anchor x="304" y="516" name="top"/>
+  <anchor x="291" y="-30" name="bottom"/>
+  <anchor x="293" y="526" name="top"/>
   <outline>
-    <component base="behDotless-ar" xOffset="40"/>
-    <component base="vabove-ar" xOffset="188" yOffset="-164"/>
+    <component base="behDotless-ar"/>
+    <component base="vabove-ar" xOffset="188" yOffset="-154"/>
   </outline>
 </glyph>

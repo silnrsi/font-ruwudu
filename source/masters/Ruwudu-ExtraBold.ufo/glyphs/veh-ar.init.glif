@@ -3,9 +3,9 @@
   <advance width="496"/>
   <anchor x="248" y="-30" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="83" y="961" name="top"/>
+  <anchor x="93" y="981" name="top"/>
   <outline>
     <component base="fehDotless-ar.init"/>
-    <component base="threedotsupabove-ar" xOffset="-66" yOffset="276"/>
+    <component base="threedotsupabove-ar" xOffset="-56" yOffset="296"/>
   </outline>
 </glyph>

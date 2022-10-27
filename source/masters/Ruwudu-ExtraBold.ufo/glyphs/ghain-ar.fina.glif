@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ghain-ar.fina" format="2">
   <advance width="631"/>
-  <anchor x="340" y="-58" name="bottom"/>
+  <anchor x="330" y="-58" name="bottom"/>
   <anchor x="631" y="0" name="entry"/>
-  <anchor x="309" y="808" name="top"/>
+  <anchor x="319" y="818" name="top"/>
   <outline>
     <component base="ain-ar.fina"/>
     <component base="dotabove-ar" xOffset="208" yOffset="283"/>

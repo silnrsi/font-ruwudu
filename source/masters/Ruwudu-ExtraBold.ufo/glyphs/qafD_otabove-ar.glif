@@ -2,10 +2,10 @@
 <glyph name="qafDotabove-ar" format="2">
   <advance width="770"/>
   <unicode hex="06A7"/>
-  <anchor x="504" y="-311" name="bottom"/>
-  <anchor x="376" y="603" name="top"/>
+  <anchor x="504" y="-331" name="bottom"/>
+  <anchor x="346" y="603" name="top"/>
   <outline>
     <component base="qafDotless-ar"/>
-    <component base="dotabove-ar" xOffset="260" yOffset="71"/>
+    <component base="dotabove-ar" xOffset="240" yOffset="71"/>
   </outline>
 </glyph>

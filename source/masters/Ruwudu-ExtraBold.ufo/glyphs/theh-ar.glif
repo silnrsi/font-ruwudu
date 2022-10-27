@@ -2,10 +2,10 @@
 <glyph name="theh-ar" format="2">
   <advance width="592"/>
   <unicode hex="062B"/>
-  <anchor x="305" y="-40" name="bottom"/>
-  <anchor x="278" y="735" name="top"/>
+  <anchor x="285" y="-40" name="bottom"/>
+  <anchor x="268" y="754" name="top"/>
   <outline>
-    <component base="behDotless-ar" xOffset="40"/>
-    <component base="threedotsupabove-ar" xOffset="125" yOffset="54"/>
+    <component base="behDotless-ar"/>
+    <component base="threedotsupabove-ar" xOffset="115" yOffset="64"/>
   </outline>
 </glyph>

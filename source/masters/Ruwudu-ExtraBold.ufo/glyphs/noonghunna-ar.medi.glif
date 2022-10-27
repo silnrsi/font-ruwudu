@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="noonghunna-ar.medi" format="2">
   <advance width="319"/>
-  <anchor x="128" y="-30" name="bottom"/>
+  <anchor x="135" y="-30" name="bottom"/>
   <anchor x="319" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="115" y="355" name="top"/>

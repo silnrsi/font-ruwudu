@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dyeh-ar.medi" format="2">
   <advance width="525"/>
-  <anchor x="276" y="-471" name="bottom"/>
+  <anchor x="286" y="-471" name="bottom"/>
   <anchor x="525" y="207" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="302" y="398" name="top"/>

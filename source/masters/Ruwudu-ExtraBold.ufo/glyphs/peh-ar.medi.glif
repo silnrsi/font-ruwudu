@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="peh-ar.medi" format="2">
   <advance width="319"/>
-  <anchor x="126" y="-467" name="bottom"/>
+  <anchor x="126" y="-447" name="bottom"/>
   <anchor x="319" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="125" y="350" name="top"/>

@@ -3,10 +3,10 @@
   <advance width="276"/>
   <anchor x="132" y="-219" name="bottom"/>
   <anchor x="276" y="0" name="entry"/>
-  <anchor x="120" y="615" name="top"/>
+  <anchor x="100" y="645" name="top"/>
   <outline>
     <component base="alef-ar.fina"/>
-    <component base="fatha-ar" xOffset="12" yOffset="-754"/>
+    <component base="fatha-ar" xOffset="12" yOffset="-739"/>
   </outline>
   <lib>
     <dict>

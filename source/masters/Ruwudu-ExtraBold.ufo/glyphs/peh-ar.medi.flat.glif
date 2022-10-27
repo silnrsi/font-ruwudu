@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="peh-ar.medi.flat" format="2">
   <advance width="257"/>
-  <anchor x="123" y="-467" name="bottom"/>
+  <anchor x="103" y="-447" name="bottom"/>
   <anchor x="257" y="0" name="entry"/>
   <anchor x="0" y="207" name="exit"/>
   <anchor x="70" y="563" name="top"/>
   <outline>
     <component base="behDotless-ar.medi.flat"/>
-    <component base="threedotsdownbelow-ar" xOffset="-37" yOffset="-35"/>
+    <component base="threedotsdownbelow-ar" xOffset="-50" yOffset="-35"/>
   </outline>
 </glyph>

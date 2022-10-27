@@ -2,10 +2,10 @@
 <glyph name="behThreedotsupbelow-ar" format="2">
   <advance width="592"/>
   <unicode hex="0752"/>
-  <anchor x="287" y="-425" name="bottom"/>
-  <anchor x="295" y="320" name="top"/>
+  <anchor x="298" y="-425" name="bottom"/>
+  <anchor x="275" y="310" name="top"/>
   <outline>
-    <component base="behDotless-ar" xOffset="40"/>
-    <component base="threedotsupbelow-ar" xOffset="148" yOffset="-70"/>
+    <component base="behDotless-ar"/>
+    <component base="threedotsupbelow-ar" xOffset="138" yOffset="-70"/>
   </outline>
 </glyph>

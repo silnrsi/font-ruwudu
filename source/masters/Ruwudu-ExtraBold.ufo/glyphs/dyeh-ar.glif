@@ -2,11 +2,11 @@
 <glyph name="dyeh-ar" format="2">
   <advance width="643"/>
   <unicode hex="0684"/>
-  <anchor x="362" y="-443" name="bottom"/>
-  <anchor x="250" y="343" name="top"/>
+  <anchor x="362" y="-463" name="bottom"/>
+  <anchor x="248" y="403" name="top"/>
   <outline>
     <component base="hah-ar"/>
-    <component base="twodotsverticalbelow-ar" xOffset="267" yOffset="-9"/>
+    <component base="twodotsverticalbelow-ar" xOffset="277" yOffset="-19"/>
   </outline>
   <lib>
     <dict>

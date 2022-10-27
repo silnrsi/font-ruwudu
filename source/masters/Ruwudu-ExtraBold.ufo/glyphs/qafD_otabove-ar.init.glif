@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="qafDotabove-ar.init" format="2">
-  <advance width="453"/>
+  <advance width="496"/>
   <anchor x="248" y="-30" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="111" y="773" name="top"/>
