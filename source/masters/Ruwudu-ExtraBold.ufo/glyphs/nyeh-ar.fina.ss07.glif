@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nyeh-ar.fina.ss07" format="2">
   <advance width="602"/>
-  <anchor x="369" y="-470" name="bottom"/>
-  <anchor x="602" y="0" name="entry"/>
-  <anchor x="369" y="174" name="top"/>
+  <anchor x="334" y="-470" name="bottom"/>
+  <anchor x="567" y="0" name="entry"/>
+  <anchor x="334" y="174" name="top"/>
   <outline>
-    <component base="hah-ar.fina" xOffset="35"/>
-    <component base="twodotshorizontalbelow-ar" xOffset="191" yOffset="-281"/>
+    <component base="hah-ar.fina"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="156" yOffset="-281"/>
   </outline>
 </glyph>

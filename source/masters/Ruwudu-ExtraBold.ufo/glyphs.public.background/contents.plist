@@ -130,6 +130,8 @@
   <string>notequal.glif</string>
   <key>notequal.rtl</key>
   <string>notequal.rtl.glif</string>
+  <key>number-ar.2</key>
+  <string>number-ar.2.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
   <key>partialdiff.rtl</key>

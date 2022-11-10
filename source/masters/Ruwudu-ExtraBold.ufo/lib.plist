@@ -19,7 +19,7 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3140</string>
+  <string>3144</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Extra</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
@@ -83,13 +83,11 @@
 /space/yehbarree-ar/space/yehbarree-ar.fina/space/yehbarree-ar.fina.alt/space/yehbarreeHamzaabove-ar/space/yehbarreeHamzaabove-ar.fina</string>
     <string>/allah-ar/alef-ar.allah/alef-ar.fina/space/alef-ar.fina.allah/space/alefMadda-ar.allah/space/alefMadda-ar.fina.allah/space/alefHamzaabove-ar.allah/space/alefHamzaabove-ar.fina.allah/space/alef-ar.allah/lam-ar.init.allah1/lam-ar.medi.allah1/heh-ar.fina.allah/space/alef-ar.allah/lam-ar.init.allah1/lam-ar.medi.allah2/heh-ar.fina.allah/space/bismillah-ar 
 /fathaRing-ar/space/fathaDotabove-ar/space/kasraDotbelow-ar/space/leftarrowheadabove-ar/space/rightarrowheadabove-ar/space/leftarrowheadbelow-ar/space/rightarrowheadbelow-ar/space/space/doublerightarrowheadabove-ar/space/space/doublerightarrowheadDotabove-ar/space/space/rightarrowheadDotabove-ar/space/space/shadda-ar/shadda_alef-ar/space/shadda_fathatan-ar/space/shadda_dammatan-ar/space/shadda_fatha-ar/space/shadda_damma-ar/space</string>
-    <string>/zero-ar/zero-ar.small/behDotless-ar/space/alef-ar/one-ar/one-ar.small/two-ar/two-ar.small/three-ar/three-ar.small/four-ar/four-ar.small/five-ar/five-ar.small/six-ar/seven-ar/seven-ar.small/eight-ar/eight-ar.small 
-/nine-ar/nine-ar.small/mark-ar/question-ar/percent-ar/ain-ar.init/number-ar/number-ar.2/number-ar.3/reh-ar/decimalseparator-ar/asterisk-ar 
-/parenleft-ar/parenleft-ar/parenright-ar 
-/endofayah-ar/endofayah-ar.2/endofayah-ar.3 
-/endofayah-ar.ss02/endofayah-ar.2.ss02/endofayah-ar.3.ss02 
+    <string>/zero-ar/zero-ar.small/behDotless-ar 1234567890
+/alef-ar/one-ar/one-ar.small/two-ar/two-ar.small/three-ar/three-ar.small/four-ar/four-ar.small/five-ar/five-ar.small/six-ar/seven-ar/seven-ar.small/eight-ar/eight-ar.small 
+/nine-ar/nine-ar.small/mark-ar/question-ar/percent-ar/number-ar/two.small/number-ar.2/number-ar.3/reh-ar/decimalseparator-ar/asterisk-ar/parenleft-ar/parenleft-ar/parenright-ar/endofayah-ar/endofayah-ar.2/endofayah-ar.3/endofayah-ar.ss02/endofayah-ar.2.ss02/endofayah-ar.3.ss02 
 /endofayah-ar.ss03/endofayah-ar.2.ss03/endofayah-ar.3.ss03</string>
-    <string>/perthousand</string>
+    <string>/alefHamzaabove-ar.fina/yehThreedotsbelow-ar.fina.low/dyeh-ar/qafThreedotsabove-ar.fina/jeem-ar.fina.ss07/hah-ar.fina/hah-ar.fina.ss07/hamza-ar/hamzaabove-ar</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
