@@ -3,7 +3,7 @@
 <ftml version="1.0">
 	<head>
 		<fontscale>250</fontscale>
-    <fontsrc label="1.3">url(../references/Alkalami-Light-1_300.ttf)</fontsrc>
+    <fontsrc label="2.0">url(../references/Ruwudu-Regular.ttf)</fontsrc>
     <fontsrc label="Reg">url(../results/Ruwudu-Regular.ttf)</fontsrc>
     <fontsrc label="ExBo">url(../results/Ruwudu-ExtraBold.ttf)</fontsrc>
     <styles>

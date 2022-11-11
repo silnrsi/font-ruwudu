@@ -3,14 +3,19 @@
 <ftml version="1.0">
   <head>
     <fontscale>250</fontscale>
-    <fontsrc label="1.3">url(../references/Alkalami-Light-1_300.ttf)</fontsrc>
+    <fontsrc label="2.0">url(../references/Ruwudu-Regular.ttf)</fontsrc>
     <fontsrc label="Reg">url(../results/Ruwudu-Regular.ttf)</fontsrc>
     <fontsrc label="ExBo">url(../results/Ruwudu-ExtraBold.ttf)</fontsrc>
     <styles>
+      <style feats="'pnum' 1" name="pnum_1"/>
+      <style feats="'ss02' 1" name="ss02_1"/>
+      <style feats="'ss02' 1, 'ss03' 1" name="ss02_1_ss03_1"/>
+      <style feats="'ss03' 1" name="ss03_1"/>
+      <style feats="'ss04' 1" name="ss04_1"/>
       <style feats="'ss07' 1" name="ss07_1"/>
       <style feats="'ss09' 1" name="ss09_1"/>
     </styles>
-    <title>AL Sorted (auto)</title>
+    <title>AL Sorted</title>
   </head>
   <testgroup background="#f0f0f0" label="Rendering Check">
     <test label="check">

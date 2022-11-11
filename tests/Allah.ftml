@@ -44,7 +44,7 @@
     </test>
     <test background="#ffc8a0" label="space-l-l-s-da-hf">
       <comment>Rule 2d: shouldn't match (I'm not sure this is true)</comment>
-      <string> \u0644\u0644\u0651\u064E\u0647</string>
+      <string> \u0020\u0644\u0644\u0651\u064E\u0647</string>
     </test>
     <test label="a-l-l-h">
       <comment>Rule 3 should match</comment>
