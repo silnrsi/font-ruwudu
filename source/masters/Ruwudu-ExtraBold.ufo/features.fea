@@ -1663,12 +1663,17 @@ lookup cursive_exit_entry {
 lookup kern_SubtendingMarks {
     # contextually kern the sign with digits so they are enclosed
     # Uniscribe or HarfBuzz 'latn'
-    pos @EndofAyah3 @Digits.small' <-1375 0 -275 0> @Digits.small' <-1100 0 -300 0> @Digits.small' <-800 0 -350 0>;
-    pos @EndofAyah2 @Digits.small' <-1100 0 -300 0> @Digits.small' <-800 0 -350 0>;
-    pos @EndofAyah @Digits.small' <-800 0 -350 0>;
-    pos number-ar.3 @Digits.small' <-1525 190 -275 0> @Digits.small' <-1250 190 -300 0> @Digits.small' <-975 190 -350 0>;
-    pos number-ar.2 @Digits.small' <-1200 190 -300 0> @Digits.small' <-900 190 -350 0>;
-    pos number-ar @Digits.small' <-825 190 -350 0>;
+    
+            pos @EndofAyah3 @Digits.small' <-1475 0 -275 0> @Digits.small' <-1200 0 -300 0> @Digits.small' <-900 0 -350 0>;
+        pos @EndofAyah2 @Digits.small' <-1200 0 -300 0> @Digits.small' <-900 0 -350 0>;
+        pos @EndofAyah @Digits.small' <-900 0 -350 0>;
+
+    # U+0600 - if we add more weights they will need tweaking
+    
+            pos number-ar.3 @Digits.small' <-1650 190 -275 0> @Digits.small' <-1375 190 -300 0> @Digits.small' <-1075 190 -350 0>;
+        pos number-ar.2 @Digits.small' <-1270 190 -300 0> @Digits.small' <-975 190 -350 0>;
+        pos number-ar @Digits.small' <-900 190 -350 0>;
+
     # HarfBuzz 'arab'
     pos @Digits.small' <-800 0 -350 0> @Digits.small' <-1100 0 -300 0> @Digits.small' <-1375 0 -275 0> @EndofAyah3;
     pos @Digits.small' <-800 0 -350 0> @Digits.small' <-1100 0 -300 0> @EndofAyah2;

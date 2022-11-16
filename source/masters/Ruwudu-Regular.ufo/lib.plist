@@ -830,6 +830,7 @@
     <string>hamzaabove-ar</string>
     <string>hamzaabove-ar.nostem</string>
     <string>hamzabelow-ar</string>
+    <string>hamzabelow-ar.nostem</string>
     <string>fathatan-ar</string>
     <string>dammatan-ar</string>
     <string>kasratan-ar</string>
@@ -1038,7 +1039,6 @@
     <string>hamzaaboveFatha-ar</string>
     <string>hamzaaboveDamma-ar</string>
     <string>hamzaaboveSukun-ar</string>
-    <string>hamzabelow-ar.nostem</string>
     <string>hamzabelowKasratan-ar</string>
     <string>hamzabelowKasra-ar</string>
     <string>hamzacenter-ar</string>
@@ -1772,6 +1772,7 @@
     <string>hamzaabove-ar</string>
     <string>hamzaabove-ar.nostem</string>
     <string>hamzabelow-ar</string>
+    <string>hamzabelow-ar.nostem</string>
     <string>fathatan-ar</string>
     <string>dammatan-ar</string>
     <string>kasratan-ar</string>
@@ -1980,7 +1981,6 @@
     <string>hamzaaboveFatha-ar</string>
     <string>hamzaaboveDamma-ar</string>
     <string>hamzaaboveSukun-ar</string>
-    <string>hamzabelow-ar.nostem</string>
     <string>hamzabelowKasratan-ar</string>
     <string>hamzabelowKasra-ar</string>
     <string>hamzacenter-ar</string>
