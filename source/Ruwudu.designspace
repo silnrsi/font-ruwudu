@@ -1,9 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="3">
 <axes>
-        <axis default="400" maximum="400" minimum="300" name="weight" tag="wght">
-            <map input="400" output="400" />
-            <labelname xml:lang="en">Weight</labelname>
+        <axis default="400" maximum="800" minimum="400" name="weight" tag="wght">
+            <map input="400" output="400" /> <!-- Regular -->
+            <map input="500" output="500" /> <!-- Medium -->
+            <map input="600" output="600" /> <!-- SemiBold -->
+            <map input="700" output="700" /> <!-- Bold -->
+            <map input="800" output="800" /> <!-- ExtraBold -->
+        <labelname xml:lang="en">Weight</labelname>
         </axis>
         <axis default="100" maximum="100" minimum="100" name="width" tag="wdth">
             <map input="100" output="100" />
@@ -45,6 +49,54 @@
                 postscriptfontname="Ruwudu-Regular">
             <location>
                 <dimension name="weight" xvalue="400" />
+                <dimension name="width" xvalue="100" />
+                <dimension name="custom" xvalue="0" />
+            </location>
+            <info/>
+            <kerning/>
+        </instance>
+        <!-- Ruwudu Medium -->
+        <instance       familyname="Ruwudu"
+                          filename="instances/Ruwudu-Medium.ufo"
+                              name="Ruwudu Medium"
+                stylemapfamilyname="Ruwudu Medium"
+                 stylemapstylename="regular"
+                         stylename="Medium"
+                postscriptfontname="Ruwudu-Medium">
+            <location>
+                <dimension name="weight" xvalue="500" />
+                <dimension name="width" xvalue="100" />
+                <dimension name="custom" xvalue="0" />
+            </location>
+            <info/>
+            <kerning/>
+        </instance>
+        <!-- Ruwudu SemiBold -->
+        <instance       familyname="Ruwudu"
+                          filename="instances/Ruwudu-SemiBold.ufo"
+                              name="Ruwudu SemiBold"
+                stylemapfamilyname="Ruwudu SemiBold"
+                 stylemapstylename="regular"
+                         stylename="SemiBold"
+                postscriptfontname="Ruwudu-SemiBold">
+            <location>
+                <dimension name="weight" xvalue="601" />
+                <dimension name="width" xvalue="100" />
+                <dimension name="custom" xvalue="0" />
+            </location>
+            <info/>
+            <kerning/>
+        </instance>
+        <!-- Ruwudu Bold -->
+        <instance       familyname="Ruwudu"
+                          filename="instances/Ruwudu-Bold.ufo"
+                              name="Ruwudu Bold"
+                stylemapfamilyname="Ruwudu"
+                 stylemapstylename="bold"
+                         stylename="Bold"
+                postscriptfontname="Ruwudu-Bold">
+            <location>
+                <dimension name="weight" xvalue="700" />
                 <dimension name="width" xvalue="100" />
                 <dimension name="custom" xvalue="0" />
             </location>
