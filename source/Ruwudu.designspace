@@ -80,7 +80,7 @@
                          stylename="SemiBold"
                 postscriptfontname="Ruwudu-SemiBold">
             <location>
-                <dimension name="weight" xvalue="601" />
+                <dimension name="weight" xvalue="600" />
                 <dimension name="width" xvalue="100" />
                 <dimension name="custom" xvalue="0" />
             </location>

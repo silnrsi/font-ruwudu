@@ -39,7 +39,7 @@ designspace('source/Ruwudu.designspace',
         make_params = OMITAPS
     ),
     script = ['arab'],
-    pdf = fret(params='-b -r -oi'),
+    pdf = fret(params='-m 25 -r -oi'),
     woff = woff('web/${DS:FILENAME_BASE}', 
         metadata=f'../source/{FAMILY}-WOFF-metadata.xml',
         ),
