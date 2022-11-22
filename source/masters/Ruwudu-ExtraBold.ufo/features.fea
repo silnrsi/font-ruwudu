@@ -116,8 +116,8 @@
 # baseClass alef-ar.high.ss08 <anchor 73 684> @top;
 # baseClass alef-ar.short <anchor 113 585> @top;
 # baseClass alef-ar.ss08 <anchor 125 566> @top;
-# baseClass alef-ar.wide <anchor 252 385> @top;
-# baseClass alef-ar.wide.fina <anchor 242 415> @top;
+# baseClass alef-ar.wide <anchor 252 375> @top;
+# baseClass alef-ar.wide.fina <anchor 242 395> @top;
 # baseClass alef-ar.wide.fina.low <anchor 232 188> @top;
 # baseClass alef-ar.wideshort <anchor 110 645> @top;
 # baseClass alef-ar.wideshort.fina.low <anchor 105 424> @top;
@@ -545,8 +545,8 @@
 # baseClass alef-ar.wide <anchor 139 -56> @bottom;
 # baseClass alef-ar.wide.fina <anchor 137 -166> @bottom;
 # baseClass alef-ar.wide.fina.low <anchor 140 -378> @bottom;
-# baseClass alef-ar.wideshort <anchor 250 188> @bottom;
-# baseClass alef-ar.wideshort.fina <anchor 238 -39> @bottom;
+# baseClass alef-ar.wideshort <anchor 210 198> @bottom;
+# baseClass alef-ar.wideshort.fina <anchor 218 -19> @bottom;
 # baseClass alef-ar.wideshort.fina.low <anchor 231 -246> @bottom;
 # baseClass [alefFathaattached-ar.fina alefRightmiddlestroke-ar.fina] <anchor 139 -163> @bottom;
 # baseClass alefHamzaabove-ar.allah <anchor 99 -56> @bottom;
@@ -1854,8 +1854,8 @@ lookup attachBaseMark {
     pos base alef-ar.high.ss08 <anchor 73 684> mark @_top;
     pos base alef-ar.short <anchor 113 585> mark @_top;
     pos base alef-ar.ss08 <anchor 125 566> mark @_top;
-    pos base alef-ar.wide <anchor 252 385> mark @_top;
-    pos base alef-ar.wide.fina <anchor 242 415> mark @_top;
+    pos base alef-ar.wide <anchor 252 375> mark @_top;
+    pos base alef-ar.wide.fina <anchor 242 395> mark @_top;
     pos base alef-ar.wide.fina.low <anchor 232 188> mark @_top;
     pos base alef-ar.wideshort <anchor 110 645> mark @_top;
     pos base alef-ar.wideshort.fina.low <anchor 105 424> mark @_top;
@@ -2244,8 +2244,8 @@ lookup attachBaseMark {
     pos base alef-ar.wide <anchor 139 -56> mark @_bottom;
     pos base alef-ar.wide.fina <anchor 137 -166> mark @_bottom;
     pos base alef-ar.wide.fina.low <anchor 140 -378> mark @_bottom;
-    pos base alef-ar.wideshort <anchor 250 188> mark @_bottom;
-    pos base alef-ar.wideshort.fina <anchor 238 -39> mark @_bottom;
+    pos base alef-ar.wideshort <anchor 210 198> mark @_bottom;
+    pos base alef-ar.wideshort.fina <anchor 218 -19> mark @_bottom;
     pos base alef-ar.wideshort.fina.low <anchor 231 -246> mark @_bottom;
     pos base [alefFathaattached-ar.fina alefRightmiddlestroke-ar.fina] <anchor 139 -163> mark @_bottom;
     pos base alefHamzaabove-ar.allah <anchor 99 -56> mark @_bottom;
