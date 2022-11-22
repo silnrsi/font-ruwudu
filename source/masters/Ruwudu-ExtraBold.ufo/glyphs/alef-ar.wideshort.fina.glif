@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alef-ar.wideshort.fina" format="2">
   <advance width="276"/>
-  <anchor x="238" y="-39" name="bottom"/>
+  <anchor x="218" y="-19" name="bottom"/>
   <anchor x="276" y="0" name="entry"/>
   <anchor x="110" y="615" name="top"/>
   <outline>

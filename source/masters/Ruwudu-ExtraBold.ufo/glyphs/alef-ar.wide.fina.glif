@@ -3,7 +3,7 @@
   <advance width="276"/>
   <anchor x="137" y="-166" name="bottom"/>
   <anchor x="276" y="0" name="entry"/>
-  <anchor x="242" y="415" name="top"/>
+  <anchor x="242" y="395" name="top"/>
   <outline>
     <component base="alef-ar.fina"/>
   </outline>
