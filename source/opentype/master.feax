@@ -456,16 +456,10 @@ lookup kern_SubtendingMarks {
 	# contextually kern the sign with digits so they are enclosed
 
 	# Uniscribe or HarfBuzz 'latn'
-ifinfo(styleName, "Regular") {
 	pos @EndofAyah3 @Digits.small' <-1375 0 -275 0> @Digits.small' <-1100 0 -300 0> @Digits.small' <-800 0 -350 0>;
 	pos @EndofAyah2 @Digits.small' <-1100 0 -300 0> @Digits.small' <-800 0 -350 0>;
 	pos @EndofAyah  @Digits.small' <-800 0 -350 0>;
-}
-ifinfo(styleName, "ExtraBold") {
-	pos @EndofAyah3 @Digits.small' <-1495 0 -275 0> @Digits.small' <-1263 0 -300 0> @Digits.small' <-1031 0 -350 0>;
-	pos @EndofAyah2 @Digits.small' <-1144 0 -300 0> @Digits.small' <-909 0 -350 0>;
-	pos @EndofAyah  @Digits.small' <-900 0 -350 0>;
-}
+
 
 # U+0600 - if we add more weights they will need tweaking
 ifinfo(styleName, "Regular") {
