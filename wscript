@@ -17,7 +17,7 @@ getufoinfo('source/masters/' + FAMILY + '-Regular' + '.ufo')
 ftmlTest('tools/ftml-smith.xsl')
 
 # APs to omit:
-OMITAPS = '--omitaps "topright, ogonek, caret_1, caret_2, caret_3, top_1, top_2, top_3, top_4, top_alef, bottom_1, bottom_2"'
+OMITAPS = '--omitaps "topright, ogonek, caret_1, caret_2, caret_3, top_3, top_4, top_alef"'
 
 # location for misc build results
 generated = 'generated/'
