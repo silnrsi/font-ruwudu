@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lam_alefHamzaabove-ar" format="2">
   <advance width="525"/>
-  <anchor x="432" y="-30" name="bottom_1"/>
-  <anchor x="109" y="-30" name="bottom_2"/>
+  <anchor x="412" y="-50" name="bottom_1"/>
+  <anchor x="89" y="-50" name="bottom_2"/>
   <anchor x="279" y="0" name="caret_1"/>
-  <anchor x="407" y="694" name="top_1"/>
-  <anchor x="93" y="835" name="top_2"/>
+  <anchor x="389" y="694" name="top_1"/>
+  <anchor x="113" y="835" name="top_2"/>
   <outline>
-    <component base="hamzaabove-ar" xOffset="12" yOffset="110"/>
     <component base="lam_alef-ar"/>
+    <component base="hamzaabove-ar" xOffset="42" yOffset="112"/>
   </outline>
 </glyph>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero-ar.small" format="2">
-  <advance width="276"/>
+  <advance width="250"/>
   <anchor x="0" y="0" name="digit"/>
   <outline>
     <contour>
-      <point x="136" y="176" type="curve"/>
-      <point x="163" y="193"/>
-      <point x="203" y="230"/>
-      <point x="203" y="254" type="curve"/>
-      <point x="188" y="282"/>
-      <point x="167" y="305"/>
-      <point x="140" y="325" type="curve"/>
-      <point x="108" y="313"/>
-      <point x="73" y="266"/>
-      <point x="73" y="241" type="curve"/>
-      <point x="96" y="221"/>
-      <point x="113" y="202"/>
+      <point x="123" y="176" type="curve"/>
+      <point x="150" y="193"/>
+      <point x="190" y="230"/>
+      <point x="190" y="254" type="curve"/>
+      <point x="175" y="282"/>
+      <point x="154" y="305"/>
+      <point x="127" y="325" type="curve"/>
+      <point x="95" y="313"/>
+      <point x="60" y="266"/>
+      <point x="60" y="241" type="curve"/>
+      <point x="83" y="221"/>
+      <point x="100" y="202"/>
     </contour>
   </outline>
 </glyph>

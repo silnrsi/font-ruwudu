@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two-ar.small" format="2">
-  <advance width="360"/>
+  <advance width="350"/>
   <anchor x="0" y="0" name="digit"/>
   <outline>
     <contour>

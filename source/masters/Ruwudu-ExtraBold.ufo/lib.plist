@@ -19,7 +19,7 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3144</string>
+  <string>3149</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Extra</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
@@ -87,7 +87,9 @@
 /alef-ar/one-ar/one-ar.small/two-ar/two-ar.small/three-ar/three-ar.small/four-ar/four-ar.small/five-ar/five-ar.small/six-ar/seven-ar/seven-ar.small/eight-ar/eight-ar.small 
 /nine-ar/nine-ar.small/mark-ar/question-ar/percent-ar/number-ar/two.small/number-ar.2/number-ar.3/reh-ar/decimalseparator-ar/asterisk-ar/parenleft-ar/parenleft-ar/parenright-ar/endofayah-ar/endofayah-ar.2/endofayah-ar.3/endofayah-ar.ss02/endofayah-ar.2.ss02/endofayah-ar.3.ss02 
 /endofayah-ar.ss03/endofayah-ar.2.ss03/endofayah-ar.3.ss03</string>
-    <string>/alefHamzaabove-ar.fina/yehThreedotsbelow-ar.fina.low/dyeh-ar/qafThreedotsabove-ar.fina/jeem-ar.fina.ss07/hah-ar.fina/hah-ar.fina.ss07/hamza-ar/hamzaabove-ar</string>
+    <string>/lam_alef-ar/lam_alef-ar.fina/lam_alefMadda-ar/lam_alefMadda-ar.fina/lam_alefHamzaabove-ar/lam_alefHamzaabove-ar.fina/lam_alefHamzabelow-ar/lam_alefHamzabelow-ar.fina</string>
+    <string>/one.small/two.small/three.small</string>
+    <string>/zero.small/one.small/two.small/three.small/four.small/five.small/six.small/seven.small/eight.small/nine.small/zero-ar.small/one-ar.small/two-ar.small/three-ar.small/four-ar.small/five-ar.small/six-ar.small/seven-ar.small/eight-ar.small/nine-ar.small</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

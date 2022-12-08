@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lam_alef-ar.fina" format="2">
   <advance width="517"/>
-  <anchor x="477" y="-30" name="bottom_1"/>
-  <anchor x="90" y="-30" name="bottom_2"/>
+  <anchor x="477" y="-50" name="bottom_1"/>
+  <anchor x="90" y="-50" name="bottom_2"/>
   <anchor x="309" y="0" name="caret_1"/>
   <anchor x="517" y="0" name="entry"/>
-  <anchor x="407" y="659" name="top_1"/>
-  <anchor x="98" y="600" name="top_2"/>
+  <anchor x="407" y="684" name="top_1"/>
+  <anchor x="98" y="630" name="top_2"/>
   <outline>
     <contour>
       <point x="289" y="-145" type="curve"/>
@@ -53,7 +53,7 @@
       <point x="118" y="582"/>
       <point x="108" y="577" type="curve"/>
       <point x="94" y="539"/>
-      <point x="89" y="486"/>
+      <point x="91" y="486"/>
       <point x="91" y="435" type="curve"/>
       <point x="150" y="336"/>
       <point x="203" y="269"/>

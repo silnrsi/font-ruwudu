@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lam_alefMadda-ar.fina" format="2">
   <advance width="557"/>
-  <anchor x="477" y="-30" name="bottom_1"/>
-  <anchor x="90" y="-30" name="bottom_2"/>
+  <anchor x="497" y="-50" name="bottom_1"/>
+  <anchor x="110" y="-50" name="bottom_2"/>
   <anchor x="329" y="0" name="caret_1"/>
   <anchor x="557" y="0" name="entry"/>
-  <anchor x="407" y="689" name="top_1"/>
-  <anchor x="88" y="770" name="top_2"/>
+  <anchor x="407" y="719" name="top_1"/>
+  <anchor x="88" y="780" name="top_2"/>
   <outline>
     <component base="lam_alef-ar.fina"/>
     <component base="madda-ar" xOffset="-95" yOffset="50"/>
