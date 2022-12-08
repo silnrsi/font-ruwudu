@@ -487,9 +487,7 @@ ifinfo(styleName, "ExtraBold") {
 
 } kern_SubtendingMarks;
 
-
 # Attachment needs to happen after stacking hah forms.
-
 
 lookup MarkToLig {
   lookupflag 0;
