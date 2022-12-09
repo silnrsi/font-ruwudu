@@ -110,8 +110,6 @@
   <string>kaf-ar.fina.glif</string>
   <key>kaf-ar.medi</key>
   <string>kaf-ar.medi.glif</string>
-  <key>lam-ar</key>
-  <string>lam-ar.glif</string>
   <key>lam-ar.fina</key>
   <string>lam-ar.fina.glif</string>
   <key>lam-ar.init</key>
@@ -136,8 +134,6 @@
   <string>meem-ar.medi.glif</string>
   <key>noonAfrican-ar</key>
   <string>noonA_frican-ar.glif</string>
-  <key>noonghunna-ar</key>
-  <string>noonghunna-ar.glif</string>
   <key>notequal</key>
   <string>notequal.glif</string>
   <key>notequal.rtl</key>

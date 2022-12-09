@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bismillah-ar" format="2">
-  <advance width="5978" height="1892"/>
+  <advance width="5978"/>
   <unicode hex="FDFD"/>
   <outline>
     <component base="seen-ar.medi" xOffset="4912"/>

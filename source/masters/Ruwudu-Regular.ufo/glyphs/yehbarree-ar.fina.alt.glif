@@ -2,7 +2,7 @@
 <glyph name="yehbarree-ar.fina.alt" format="2">
   <advance width="417"/>
   <anchor x="223" y="-227" name="bottom"/>
-  <anchor x="423" y="0" name="entry"/>
+  <anchor x="417" y="0" name="entry"/>
   <anchor x="165" y="254" name="top"/>
   <outline>
     <contour>
@@ -37,8 +37,8 @@
       <point x="120" y="-58"/>
       <point x="149" y="-13" type="curve" smooth="yes"/>
       <point x="156" y="-2"/>
-      <point x="157" y="0"/>
-      <point x="161" y="0" type="curve" smooth="yes"/>
+      <point x="158" y="0"/>
+      <point x="162" y="0" type="curve" smooth="yes"/>
       <point x="437" y="0" type="line"/>
       <point x="437" y="90" type="line"/>
       <point x="201" y="90" type="line" smooth="yes"/>
@@ -49,4 +49,10 @@
       <point x="200" y="142"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
 </glyph>
