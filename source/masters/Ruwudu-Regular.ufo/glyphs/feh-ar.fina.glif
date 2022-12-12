@@ -6,6 +6,6 @@
   <anchor x="153" y="709" name="top"/>
   <outline>
     <component base="fehDotless-ar.fina"/>
-    <component base="dotabove-ar" xOffset="45" yOffset="181"/>
+    <component base="_dot1Above-ar" xOffset="45" yOffset="181"/>
   </outline>
 </glyph>

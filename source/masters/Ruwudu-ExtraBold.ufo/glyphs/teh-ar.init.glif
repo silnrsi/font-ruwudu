@@ -5,7 +5,7 @@
   <anchor x="0" y="0" name="exit"/>
   <anchor x="135" y="555" name="top"/>
   <outline>
-    <component base="twodotshorizontalabove-ar" xOffset="-2" yOffset="75"/>
+    <component base="_dot2hAbove-ar" xOffset="-2" yOffset="75"/>
     <component base="behDotless-ar.init"/>
   </outline>
 </glyph>

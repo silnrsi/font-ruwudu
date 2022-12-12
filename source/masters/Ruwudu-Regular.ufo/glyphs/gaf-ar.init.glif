@@ -6,6 +6,6 @@
   <anchor x="205" y="535" name="top"/>
   <outline>
     <component base="kaf-ar.init"/>
-    <component base="gafbar" xOffset="40" yOffset="-208"/>
+    <component base="_gafBar-ar" xOffset="40" yOffset="-208"/>
   </outline>
 </glyph>

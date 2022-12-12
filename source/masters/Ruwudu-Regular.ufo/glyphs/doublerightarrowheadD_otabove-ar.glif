@@ -6,7 +6,7 @@
   <anchor x="-13" y="777" name="top_alef"/>
   <outline>
     <component base="doublerightarrowheadabove-ar" xOffset="16"/>
-    <component base="dotabove-ar" xScale="0.51334" yScale="0.51334" xOffset="-33" yOffset="520"/>
+    <component base="_dot1Above-ar" xScale="0.51334" yScale="0.51334" xOffset="-33" yOffset="520"/>
   </outline>
   <lib>
     <dict>

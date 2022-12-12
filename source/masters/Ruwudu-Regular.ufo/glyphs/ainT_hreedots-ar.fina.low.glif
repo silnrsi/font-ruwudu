@@ -6,7 +6,7 @@
   <anchor x="298" y="657" name="top"/>
   <outline>
     <component base="ain-ar.fina" yOffset="-207"/>
-    <component base="threedotsupabove-ar" xOffset="133" yOffset="33"/>
+    <component base="_dot3uAbove-ar" xOffset="133" yOffset="33"/>
   </outline>
   <lib>
     <dict>

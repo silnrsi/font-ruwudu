@@ -7,6 +7,6 @@
   <outline>
     <component base="ain-ar.fina"/>
     <component base="threedots-ar.small" xOffset="182" yOffset="686"/>
-    <component base="dotabove-ar" xOffset="188" yOffset="196"/>
+    <component base="_dot1Above-ar" xOffset="188" yOffset="196"/>
   </outline>
 </glyph>

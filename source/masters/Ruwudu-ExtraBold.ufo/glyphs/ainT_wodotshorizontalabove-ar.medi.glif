@@ -7,6 +7,6 @@
   <anchor x="313" y="765" name="top"/>
   <outline>
     <component base="ain-ar.medi"/>
-    <component base="twodotshorizontalabove-ar" xOffset="162" yOffset="290"/>
+    <component base="_dot2hAbove-ar" xOffset="162" yOffset="290"/>
   </outline>
 </glyph>

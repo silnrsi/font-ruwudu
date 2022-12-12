@@ -4,6 +4,8 @@
 <dict>
   <key>Delta</key>
   <string>D_elta.glif</string>
+  <key>_dot2vAbove-ar</key>
+  <string>_dot2vA_bove-ar.glif</string>
   <key>ain-ar.medi.flat</key>
   <string>ain-ar.medi.flat.glif</string>
   <key>alef-ar.fina</key>
@@ -184,8 +186,6 @@
   <string>threesuperior.glif</string>
   <key>two-ar</key>
   <string>two-ar.glif</string>
-  <key>twodotsverticalabove-ar</key>
-  <string>twodotsverticalabove-ar.glif</string>
   <key>waw-ar</key>
   <string>waw-ar.glif</string>
   <key>waw-ar.fina</key>

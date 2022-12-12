@@ -5,7 +5,7 @@
   <anchor x="121" y="-230" name="bottom"/>
   <outline>
     <component base="fatha-ar" yOffset="-674"/>
-    <component base="dotabove-ar" xScale="0.51334" yScale="0.51334" xOffset="68" yOffset="-382"/>
+    <component base="_dot1Above-ar" xScale="0.51334" yScale="0.51334" xOffset="68" yOffset="-382"/>
   </outline>
   <lib>
     <dict>

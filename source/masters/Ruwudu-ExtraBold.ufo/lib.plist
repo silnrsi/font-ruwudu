@@ -768,14 +768,21 @@
     <string>alefbelow-ar</string>
     <string>hamzaabove-ar</string>
     <string>hamzaabove-ar.nostem</string>
+    <string>hamza_fathatan-ar</string>
+    <string>hamza_dammatan-ar</string>
+    <string>hamza_fatha-ar</string>
+    <string>hamza_sukun-ar</string>
     <string>hamzabelow-ar</string>
     <string>hamzabelow-ar.nostem</string>
+    <string>hamzabelow_kasratan-ar</string>
+    <string>hamzabelow_kasra-ar</string>
     <string>fathatan-ar</string>
     <string>dammatan-ar</string>
     <string>kasratan-ar</string>
     <string>fatha-ar</string>
     <string>fatha_alefabove-ar</string>
     <string>damma-ar</string>
+    <string>hamza_damma-ar</string>
     <string>damma-ar.ss08</string>
     <string>kasra-ar</string>
     <string>shadda-ar</string>
@@ -961,26 +968,18 @@
     <string>VS16</string>
     <string>objectReplacementCharacter</string>
     <string>replacementCharacter</string>
-    <string>dotabove-ar</string>
-    <string>dotbelow-ar</string>
-    <string>dotcenter-ar</string>
-    <string>twodotshorizontalabove-ar</string>
-    <string>twodotshorizontalbelow-ar</string>
-    <string>twodotsverticalabove-ar</string>
-    <string>twodotsverticalbelow-ar</string>
-    <string>threedotsdownabove-ar</string>
-    <string>threedotsdownbelow-ar</string>
-    <string>threedotsupabove-ar</string>
-    <string>threedotsupbelow-ar</string>
-    <string>gafbar</string>
-    <string>hamza_fathatan-ar</string>
-    <string>hamza_dammatan-ar</string>
-    <string>hamza_fatha-ar</string>
-    <string>hamza_damma-ar</string>
-    <string>hamza_sukun-ar</string>
-    <string>hamzabelow_kasratan-ar</string>
-    <string>hamzabelow_kasra-ar</string>
-    <string>hamzacenter-ar</string>
+    <string>_dot1Above-ar</string>
+    <string>_dot1Below-ar</string>
+    <string>_dot1Center-ar</string>
+    <string>_dot2hAbove-ar</string>
+    <string>_dot2hBelow-ar</string>
+    <string>_dot2vAbove-ar</string>
+    <string>_dot2vBelow-ar</string>
+    <string>_dot3dAbove-ar</string>
+    <string>_dot3dBelow-ar</string>
+    <string>_dot3uAbove-ar</string>
+    <string>_gafBar</string>
+    <string>_hamzacenter-ar</string>
   </array>
   <key>com.schriftgestaltung.keyboardIncrement</key>
   <integer>1</integer>
@@ -1710,14 +1709,21 @@
     <string>alefbelow-ar</string>
     <string>hamzaabove-ar</string>
     <string>hamzaabove-ar.nostem</string>
+    <string>hamza_fathatan-ar</string>
+    <string>hamza_dammatan-ar</string>
+    <string>hamza_fatha-ar</string>
+    <string>hamza_sukun-ar</string>
     <string>hamzabelow-ar</string>
     <string>hamzabelow-ar.nostem</string>
+    <string>hamzabelow_kasratan-ar</string>
+    <string>hamzabelow_kasra-ar</string>
     <string>fathatan-ar</string>
     <string>dammatan-ar</string>
     <string>kasratan-ar</string>
     <string>fatha-ar</string>
     <string>fatha_alefabove-ar</string>
     <string>damma-ar</string>
+    <string>hamza_damma-ar</string>
     <string>damma-ar.ss08</string>
     <string>kasra-ar</string>
     <string>shadda-ar</string>
@@ -1903,26 +1909,18 @@
     <string>VS16</string>
     <string>objectReplacementCharacter</string>
     <string>replacementCharacter</string>
-    <string>dotabove-ar</string>
-    <string>dotbelow-ar</string>
-    <string>dotcenter-ar</string>
-    <string>twodotshorizontalabove-ar</string>
-    <string>twodotshorizontalbelow-ar</string>
-    <string>twodotsverticalabove-ar</string>
-    <string>twodotsverticalbelow-ar</string>
-    <string>threedotsdownabove-ar</string>
-    <string>threedotsdownbelow-ar</string>
-    <string>threedotsupabove-ar</string>
-    <string>threedotsupbelow-ar</string>
-    <string>gafbar</string>
-    <string>hamza_fathatan-ar</string>
-    <string>hamza_dammatan-ar</string>
-    <string>hamza_fatha-ar</string>
-    <string>hamza_damma-ar</string>
-    <string>hamza_sukun-ar</string>
-    <string>hamzabelow_kasratan-ar</string>
-    <string>hamzabelow_kasra-ar</string>
-    <string>hamzacenter-ar</string>
+    <string>_dot1Above-ar</string>
+    <string>_dot1Below-ar</string>
+    <string>_dot1Center-ar</string>
+    <string>_dot2hAbove-ar</string>
+    <string>_dot2hBelow-ar</string>
+    <string>_dot2vAbove-ar</string>
+    <string>_dot2vBelow-ar</string>
+    <string>_dot3dAbove-ar</string>
+    <string>_dot3dBelow-ar</string>
+    <string>_dot3uAbove-ar</string>
+    <string>_gafBar</string>
+    <string>_hamzacenter-ar</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
@@ -1964,6 +1962,28 @@
     <string>uniFE07</string>
     <key>VS9</key>
     <string>uniFE08</string>
+    <key>_dot1Above-ar</key>
+    <string>_dot1Above</string>
+    <key>_dot1Below-ar</key>
+    <string>_dot1Below</string>
+    <key>_dot1Center-ar</key>
+    <string>_dot1Center</string>
+    <key>_dot2hAbove-ar</key>
+    <string>_dot2hAbove</string>
+    <key>_dot2hBelow-ar</key>
+    <string>_dot2hBelow</string>
+    <key>_dot2vAbove-ar</key>
+    <string>_dot2vAbove</string>
+    <key>_dot2vBelow-ar</key>
+    <string>_dot2vBelow</string>
+    <key>_dot3dAbove-ar</key>
+    <string>_dot3dAbove</string>
+    <key>_dot3dBelow-ar</key>
+    <string>_dot3dBelow</string>
+    <key>_dot3uAbove-ar</key>
+    <string>_dot3uAbove</string>
+    <key>_hamzacenter-ar</key>
+    <string>_hamzacenter</string>
     <key>activateformshaping-ar</key>
     <string>uni206D</string>
     <key>acutebelowcomb</key>
@@ -2248,14 +2268,8 @@
     <string>uni0308</string>
     <key>divisionslash</key>
     <string>uni2215</string>
-    <key>dotabove-ar</key>
-    <string>uniFBB2</string>
     <key>dotaccentcomb</key>
     <string>uni0307</string>
-    <key>dotbelow-ar</key>
-    <string>uniFBB3</string>
-    <key>dotcenter-ar</key>
-    <string>dotcenter</string>
     <key>dottedCircle</key>
     <string>uni25CC</string>
     <key>dotvowelbelow-ar</key>
@@ -2510,8 +2524,6 @@
     <string>uni06550650</string>
     <key>hamzabelow_kasratan-ar</key>
     <string>uni0655064D</string>
-    <key>hamzacenter-ar</key>
-    <string>hamzacenter</string>
     <key>heh-ar</key>
     <string>uni0647</string>
     <key>heh-ar.fina</key>
@@ -2665,21 +2677,21 @@
     <key>lam-ar.medi.flat</key>
     <string>uni0644.medi.flat</string>
     <key>lam_alef-ar</key>
-    <string>uni0644_uni0627</string>
+    <string>uni06440627</string>
     <key>lam_alef-ar.fina</key>
-    <string>uni0644_uni0627.fina</string>
+    <string>uni06440627.fina</string>
     <key>lam_alefHamzaabove-ar</key>
-    <string>uni0644_uni0623</string>
+    <string>uni06440623</string>
     <key>lam_alefHamzaabove-ar.fina</key>
-    <string>uni0644_uni0623.fina</string>
+    <string>uni06440623.fina</string>
     <key>lam_alefHamzabelow-ar</key>
-    <string>uni0644_uni0625</string>
+    <string>uni06440625</string>
     <key>lam_alefHamzabelow-ar.fina</key>
-    <string>uni0644_uni0625.fina</string>
+    <string>uni06440625.fina</string>
     <key>lam_alefMadda-ar</key>
-    <string>uni0644_uni0622</string>
+    <string>uni06440622</string>
     <key>lam_alefMadda-ar.fina</key>
-    <string>uni0644_uni0622.fina</string>
+    <string>uni06440622.fina</string>
     <key>leftarrowheadabove-ar</key>
     <string>uni08F7</string>
     <key>leftarrowheadbelow-ar</key>
@@ -3066,14 +3078,6 @@
     <string>uni061E</string>
     <key>threedots-ar.small</key>
     <string>uni061E.small</string>
-    <key>threedotsdownabove-ar</key>
-    <string>uniFBB8</string>
-    <key>threedotsdownbelow-ar</key>
-    <string>uniFBB9</string>
-    <key>threedotsupabove-ar</key>
-    <string>uniFBB6</string>
-    <key>threedotsupbelow-ar</key>
-    <string>uniFBB7</string>
     <key>threeperemspace</key>
     <string>uni2004</string>
     <key>tildecomb</key>
@@ -3082,14 +3086,6 @@
     <string>uni0662</string>
     <key>two-ar.small</key>
     <string>uni0662.small</string>
-    <key>twodotshorizontalabove-ar</key>
-    <string>uniFBB4</string>
-    <key>twodotshorizontalbelow-ar</key>
-    <string>uniFBB5</string>
-    <key>twodotsverticalabove-ar</key>
-    <string>uniFBBD</string>
-    <key>twodotsverticalbelow-ar</key>
-    <string>uniFBBE</string>
     <key>vabove-ar</key>
     <string>uni065A</string>
     <key>veh-ar</key>
@@ -3250,6 +3246,8 @@
     <string>uni200C</string>
     <key>zerowidthspace</key>
     <string>uni200B</string>
+    <key>_hamzacenter-ar</key>
+    <string>_hamzacenter</string>
   </dict>
 </dict>
 </plist>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hamzacenter-ar" format="2">
+<glyph name="_hamzacenter-ar" format="2">
   <outline>
     <component base="hamzaabove-ar" xOffset="26" yOffset="-321"/>
   </outline>

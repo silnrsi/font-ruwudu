@@ -5,8 +5,8 @@
   <anchor x="0" y="0" name="exit"/>
   <anchor x="101" y="791" name="top"/>
   <outline>
-    <component base="dotbelow-ar" xOffset="63" yOffset="-50"/>
+    <component base="_dot1Below-ar" xOffset="63" yOffset="-50"/>
     <component base="behDotless-ar.init"/>
-    <component base="threedotsupabove-ar" xOffset="-21" yOffset="100"/>
+    <component base="_dot3uAbove-ar" xOffset="-21" yOffset="100"/>
   </outline>
 </glyph>

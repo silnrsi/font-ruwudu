@@ -6,6 +6,6 @@
   <anchor x="474" y="361" name="top"/>
   <outline>
     <component base="alefMaksura-ar"/>
-    <component base="twodotsverticalbelow-ar" xOffset="72" yOffset="-337"/>
+    <component base="_dot2vBelow-ar" xOffset="72" yOffset="-337"/>
   </outline>
 </glyph>

@@ -6,8 +6,8 @@
   <anchor x="262" y="492" name="top"/>
   <outline>
     <component base="hah-ar"/>
-    <component base="twodotshorizontalabove-ar" xOffset="95" yOffset="48"/>
-    <component base="dotabove-ar" xOffset="217" yOffset="-579"/>
+    <component base="_dot2hAbove-ar" xOffset="95" yOffset="48"/>
+    <component base="_dot1Above-ar" xOffset="217" yOffset="-579"/>
   </outline>
   <lib>
     <dict>
