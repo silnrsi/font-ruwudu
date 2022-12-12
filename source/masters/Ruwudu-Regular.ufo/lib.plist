@@ -971,13 +971,13 @@
     <string>threedotsupabove-ar</string>
     <string>threedotsupbelow-ar</string>
     <string>gafbar</string>
-    <string>hamzaaboveFathatan-ar</string>
-    <string>hamzaaboveDammatan-ar</string>
-    <string>hamzaaboveFatha-ar</string>
-    <string>hamzaaboveDamma-ar</string>
-    <string>hamzaaboveSukun-ar</string>
-    <string>hamzabelowKasratan-ar</string>
-    <string>hamzabelowKasra-ar</string>
+    <string>hamza_fathatan-ar</string>
+    <string>hamza_dammatan-ar</string>
+    <string>hamza_fatha-ar</string>
+    <string>hamza_damma-ar</string>
+    <string>hamza_sukun-ar</string>
+    <string>hamzabelow_kasratan-ar</string>
+    <string>hamzabelow_kasra-ar</string>
     <string>hamzacenter-ar</string>
   </array>
   <key>com.schriftgestaltung.keyboardIncrement</key>
@@ -1913,13 +1913,13 @@
     <string>threedotsupabove-ar</string>
     <string>threedotsupbelow-ar</string>
     <string>gafbar</string>
-    <string>hamzaaboveFathatan-ar</string>
-    <string>hamzaaboveDammatan-ar</string>
-    <string>hamzaaboveFatha-ar</string>
-    <string>hamzaaboveDamma-ar</string>
-    <string>hamzaaboveSukun-ar</string>
-    <string>hamzabelowKasratan-ar</string>
-    <string>hamzabelowKasra-ar</string>
+    <string>hamza_fathatan-ar</string>
+    <string>hamza_dammatan-ar</string>
+    <string>hamza_fatha-ar</string>
+    <string>hamza_damma-ar</string>
+    <string>hamza_sukun-ar</string>
+    <string>hamzabelow_kasratan-ar</string>
+    <string>hamzabelow_kasra-ar</string>
     <string>hamzacenter-ar</string>
   </array>
   <key>public.postscriptNames</key>
@@ -2486,27 +2486,27 @@
     <string>uni200A</string>
     <key>hamza-ar</key>
     <string>uni0621</string>
+    <key>hamza_damma-ar</key>
+    <string>uni0654064F</string>
+    <key>hamza_dammatan-ar</key>
+    <string>uni0654064C</string>
+    <key>hamza_fatha-ar</key>
+    <string>uni0654064E</string>
+    <key>hamza_fathatan-ar</key>
+    <string>uni0654064B</string>
+    <key>hamza_sukun-ar</key>
+    <string>uni06540652</string>
     <key>hamzaabove-ar</key>
     <string>uni0654</string>
     <key>hamzaabove-ar.nostem</key>
     <string>uni0654.nostem</string>
-    <key>hamzaaboveDamma-ar</key>
-    <string>uni0654064F</string>
-    <key>hamzaaboveDammatan-ar</key>
-    <string>uni0654064C</string>
-    <key>hamzaaboveFatha-ar</key>
-    <string>uni0654064E</string>
-    <key>hamzaaboveFathatan-ar</key>
-    <string>uni0654064B</string>
-    <key>hamzaaboveSukun-ar</key>
-    <string>uni06540652</string>
     <key>hamzabelow-ar</key>
     <string>uni0655</string>
     <key>hamzabelow-ar.nostem</key>
     <string>uni0655.nostem</string>
-    <key>hamzabelowKasra-ar</key>
+    <key>hamzabelow_kasra-ar</key>
     <string>uni06550650</string>
-    <key>hamzabelowKasratan-ar</key>
+    <key>hamzabelow_kasratan-ar</key>
     <string>uni0655064D</string>
     <key>hamzacenter-ar</key>
     <string>hamzacenter</string>

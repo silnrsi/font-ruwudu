@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hamzaaboveDammatan-ar" format="2">
+<glyph name="hamza_sukun-ar" format="2">
   <anchor x="80" y="514" name="_top"/>
-  <anchor x="17" y="918" name="top"/>
+  <anchor x="76" y="891" name="top"/>
   <outline>
     <component base="hamzaabove-ar"/>
-    <component base="dammatan-ar" xOffset="-60" yOffset="164"/>
+    <component base="sukun-ar" xOffset="-40" yOffset="152"/>
   </outline>
 </glyph>
