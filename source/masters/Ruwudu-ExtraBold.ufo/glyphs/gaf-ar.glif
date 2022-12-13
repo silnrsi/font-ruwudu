@@ -6,6 +6,6 @@
   <anchor x="218" y="625" name="top"/>
   <outline>
     <component base="keheh-ar" xOffset="-7"/>
-    <component base="_gafBar-ar" xOffset="70" yOffset="-142"/>
+    <component base="_gafBar" xOffset="70" yOffset="-142"/>
   </outline>
 </glyph>

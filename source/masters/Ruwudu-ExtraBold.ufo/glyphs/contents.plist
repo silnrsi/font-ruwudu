@@ -166,32 +166,32 @@
   <string>Z_.glif</string>
   <key>Zcaron</key>
   <string>Z_caron.glif</string>
-  <key>_dot1Above-ar</key>
-  <string>_dot1A_bove-ar.glif</string>
-  <key>_dot1Below-ar</key>
-  <string>_dot1B_elow-ar.glif</string>
-  <key>_dot1Center-ar</key>
-  <string>_dot1C_enter-ar.glif</string>
-  <key>_dot2hAbove-ar</key>
-  <string>_dot2hA_bove-ar.glif</string>
-  <key>_dot2hBelow-ar</key>
-  <string>_dot2hB_elow-ar.glif</string>
-  <key>_dot2vAbove-ar</key>
-  <string>_dot2vA_bove-ar.glif</string>
-  <key>_dot2vBelow-ar</key>
-  <string>_dot2vB_elow-ar.glif</string>
-  <key>_dot3dAbove-ar</key>
-  <string>_dot3dA_bove-ar.glif</string>
-  <key>_dot3dBelow-ar</key>
-  <string>_dot3dB_elow-ar.glif</string>
-  <key>_dot3uAbove-ar</key>
-  <string>_dot3uA_bove-ar.glif</string>
-  <key>_dot3uBelow-ar</key>
-  <string>_dot3uB_elow-ar.glif</string>
-  <key>_gafBar-ar</key>
-  <string>_gafB_ar-ar.glif</string>
-  <key>_hamzacenter-ar</key>
-  <string>_hamzacenter-ar.glif</string>
+  <key>_dot1Above</key>
+  <string>_dot1A_bove.glif</string>
+  <key>_dot1Below</key>
+  <string>_dot1B_elow.glif</string>
+  <key>_dot1Center</key>
+  <string>_dot1C_enter.glif</string>
+  <key>_dot2hAbove</key>
+  <string>_dot2hA_bove.glif</string>
+  <key>_dot2hBelow</key>
+  <string>_dot2hB_elow.glif</string>
+  <key>_dot2vAbove</key>
+  <string>_dot2vA_bove.glif</string>
+  <key>_dot2vBelow</key>
+  <string>_dot2vB_elow.glif</string>
+  <key>_dot3dAbove</key>
+  <string>_dot3dA_bove.glif</string>
+  <key>_dot3dBelow</key>
+  <string>_dot3dB_elow.glif</string>
+  <key>_dot3uAbove</key>
+  <string>_dot3uA_bove.glif</string>
+  <key>_dot3uBelow</key>
+  <string>_dot3uB_elow.glif</string>
+  <key>_gafBar</key>
+  <string>_gafB_ar.glif</string>
+  <key>_hamzacenter</key>
+  <string>_hamzacenter.glif</string>
   <key>a</key>
   <string>a.glif</string>
   <key>aacute</key>

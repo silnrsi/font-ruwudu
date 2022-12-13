@@ -6,7 +6,7 @@
   <anchor x="0" y="207" name="exit"/>
   <anchor x="55" y="959" name="top"/>
   <outline>
-    <component base="_dot3uAbove-ar" xOffset="-91" yOffset="281"/>
+    <component base="_dot3uAbove" xOffset="-91" yOffset="281"/>
     <component base="yeh-ar.medi.flat"/>
   </outline>
 </glyph>

@@ -5,7 +5,7 @@
   <anchor x="0" y="0" name="exit"/>
   <anchor x="125" y="631" name="top"/>
   <outline>
-    <component base="_dot1Below-ar" xOffset="25" yOffset="-30"/>
+    <component base="_dot1Below" xOffset="25" yOffset="-30"/>
     <contour>
       <point x="-20" y="0" type="line"/>
       <point x="119" y="0" type="line" smooth="yes"/>

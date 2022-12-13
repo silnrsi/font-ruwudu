@@ -782,7 +782,6 @@
     <string>fatha-ar</string>
     <string>fatha_alefabove-ar</string>
     <string>damma-ar</string>
-    <string>hamza_damma-ar</string>
     <string>damma-ar.ss08</string>
     <string>kasra-ar</string>
     <string>shadda-ar</string>
@@ -861,6 +860,7 @@
     <string>doublerightarrowheadabove-ar</string>
     <string>doublerightarrowheadDotabove-ar</string>
     <string>rightarrowheadDotabove-ar</string>
+    <string>hamza_damma-ar</string>
     <string>shadda_alef-ar</string>
     <string>shadda_fathatan-ar</string>
     <string>shadda_dammatan-ar</string>
@@ -968,18 +968,18 @@
     <string>VS16</string>
     <string>objectReplacementCharacter</string>
     <string>replacementCharacter</string>
-    <string>_dot1Above-ar</string>
-    <string>_dot1Below-ar</string>
-    <string>_dot1Center-ar</string>
-    <string>_dot2hAbove-ar</string>
-    <string>_dot2hBelow-ar</string>
-    <string>_dot2vAbove-ar</string>
-    <string>_dot2vBelow-ar</string>
-    <string>_dot3dAbove-ar</string>
-    <string>_dot3dBelow-ar</string>
-    <string>_dot3uAbove-ar</string>
+    <string>_dot1Above</string>
+    <string>_dot1Below</string>
+    <string>_dot1Center</string>
+    <string>_dot2hAbove</string>
+    <string>_dot2hBelow</string>
+    <string>_dot2vAbove</string>
+    <string>_dot2vBelow</string>
+    <string>_dot3dAbove</string>
+    <string>_dot3dBelow</string>
+    <string>_dot3uAbove</string>
     <string>_gafBar</string>
-    <string>_hamzacenter-ar</string>
+    <string>_hamzacenter</string>
   </array>
   <key>com.schriftgestaltung.keyboardIncrement</key>
   <integer>1</integer>
@@ -1723,7 +1723,6 @@
     <string>fatha-ar</string>
     <string>fatha_alefabove-ar</string>
     <string>damma-ar</string>
-    <string>hamza_damma-ar</string>
     <string>damma-ar.ss08</string>
     <string>kasra-ar</string>
     <string>shadda-ar</string>
@@ -1802,6 +1801,7 @@
     <string>doublerightarrowheadabove-ar</string>
     <string>doublerightarrowheadDotabove-ar</string>
     <string>rightarrowheadDotabove-ar</string>
+    <string>hamza_damma-ar</string>
     <string>shadda_alef-ar</string>
     <string>shadda_fathatan-ar</string>
     <string>shadda_dammatan-ar</string>
@@ -1909,18 +1909,18 @@
     <string>VS16</string>
     <string>objectReplacementCharacter</string>
     <string>replacementCharacter</string>
-    <string>_dot1Above-ar</string>
-    <string>_dot1Below-ar</string>
-    <string>_dot1Center-ar</string>
-    <string>_dot2hAbove-ar</string>
-    <string>_dot2hBelow-ar</string>
-    <string>_dot2vAbove-ar</string>
-    <string>_dot2vBelow-ar</string>
-    <string>_dot3dAbove-ar</string>
-    <string>_dot3dBelow-ar</string>
-    <string>_dot3uAbove-ar</string>
+    <string>_dot1Above</string>
+    <string>_dot1Below</string>
+    <string>_dot1Center</string>
+    <string>_dot2hAbove</string>
+    <string>_dot2hBelow</string>
+    <string>_dot2vAbove</string>
+    <string>_dot2vBelow</string>
+    <string>_dot3dAbove</string>
+    <string>_dot3dBelow</string>
+    <string>_dot3uAbove</string>
     <string>_gafBar</string>
-    <string>_hamzacenter-ar</string>
+    <string>_hamzacenter</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
@@ -1962,28 +1962,6 @@
     <string>uniFE07</string>
     <key>VS9</key>
     <string>uniFE08</string>
-    <key>_dot1Above-ar</key>
-    <string>_dot1Above</string>
-    <key>_dot1Below-ar</key>
-    <string>_dot1Below</string>
-    <key>_dot1Center-ar</key>
-    <string>_dot1Center</string>
-    <key>_dot2hAbove-ar</key>
-    <string>_dot2hAbove</string>
-    <key>_dot2hBelow-ar</key>
-    <string>_dot2hBelow</string>
-    <key>_dot2vAbove-ar</key>
-    <string>_dot2vAbove</string>
-    <key>_dot2vBelow-ar</key>
-    <string>_dot2vBelow</string>
-    <key>_dot3dAbove-ar</key>
-    <string>_dot3dAbove</string>
-    <key>_dot3dBelow-ar</key>
-    <string>_dot3dBelow</string>
-    <key>_dot3uAbove-ar</key>
-    <string>_dot3uAbove</string>
-    <key>_hamzacenter-ar</key>
-    <string>_hamzacenter</string>
     <key>activateformshaping-ar</key>
     <string>uni206D</string>
     <key>acutebelowcomb</key>
@@ -3246,8 +3224,6 @@
     <string>uni200C</string>
     <key>zerowidthspace</key>
     <string>uni200B</string>
-    <key>_hamzacenter-ar</key>
-    <string>_hamzacenter</string>
   </dict>
 </dict>
 </plist>

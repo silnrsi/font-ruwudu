@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="_dot2vAbove-ar" format="2">
-  <anchor x="87" y="318" name="_top"/>
-  <outline>
-    <component base="_dot1Above-ar" xOffset="-20" yOffset="35"/>
-    <component base="_dot1Above-ar" xOffset="-20" yOffset="238"/>
-  </outline>
-</glyph>

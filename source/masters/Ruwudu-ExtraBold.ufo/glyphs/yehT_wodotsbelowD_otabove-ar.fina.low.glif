@@ -5,7 +5,7 @@
   <anchor x="902" y="0" name="entry"/>
   <anchor x="459" y="381" name="top"/>
   <outline>
-    <component base="_dot1Above-ar" xOffset="351" yOffset="-149"/>
+    <component base="_dot1Above" xOffset="351" yOffset="-149"/>
     <component base="yeh-ar.fina.low"/>
   </outline>
   <lib>

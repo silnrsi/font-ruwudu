@@ -6,7 +6,7 @@
   <anchor x="114" y="500" name="top"/>
   <outline>
     <component base="fehDotless-ar.init"/>
-    <component base="_dot3uAbove-ar" xOffset="46" yOffset="-660"/>
+    <component base="_dot3uAbove" xOffset="46" yOffset="-660"/>
   </outline>
   <lib>
     <dict>

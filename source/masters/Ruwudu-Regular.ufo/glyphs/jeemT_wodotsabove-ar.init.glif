@@ -7,8 +7,8 @@
   <anchor x="242" y="512" name="top"/>
   <outline>
     <component base="hah-ar.init"/>
-    <component base="_dot2hAbove-ar" xOffset="87" yOffset="63"/>
-    <component base="_dot1Above-ar" xOffset="172" yOffset="-530"/>
+    <component base="_dot2hAbove" xOffset="87" yOffset="63"/>
+    <component base="_dot1Above" xOffset="172" yOffset="-530"/>
   </outline>
   <lib>
     <dict>

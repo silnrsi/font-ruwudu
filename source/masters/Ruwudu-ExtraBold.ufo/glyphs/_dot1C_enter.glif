@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="_dot1Center-ar" format="2">
+<glyph name="_dot1Center" format="2">
   <anchor x="109" y="406" name="_center"/>
   <outline>
-    <component base="_dot1Above-ar"/>
+    <component base="_dot1Above"/>
   </outline>
   <lib>
     <dict>

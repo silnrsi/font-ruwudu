@@ -6,6 +6,6 @@
   <anchor x="393" y="483" name="top"/>
   <outline>
     <component base="noon-ar.fina"/>
-    <component base="_dot2hBelow-ar" xOffset="149" yOffset="-269"/>
+    <component base="_dot2hBelow" xOffset="149" yOffset="-269"/>
   </outline>
 </glyph>
