@@ -3,7 +3,7 @@
   <advance width="504"/>
   <anchor x="278" y="-210" name="bottom"/>
   <anchor x="504" y="0" name="entry"/>
-  <anchor x="144" y="500" name="top"/>
+  <anchor x="124" y="500" name="top"/>
   <outline>
     <component base="fehDotless-ar.fina"/>
     <component base="_dot2hBelow" xOffset="107" yOffset="-29"/>

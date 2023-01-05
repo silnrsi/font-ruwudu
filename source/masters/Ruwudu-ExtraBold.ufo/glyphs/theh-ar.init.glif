@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="theh-ar.init" format="2">
   <advance width="335"/>
-  <anchor x="171" y="-30" name="bottom"/>
+  <anchor x="102" y="-30" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="90" y="756" name="top"/>
   <outline>

@@ -4,7 +4,7 @@
   <anchor x="156" y="-250" name="bottom"/>
   <anchor x="319" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="135" y="380" name="top"/>
+  <anchor x="109" y="360" name="top"/>
   <outline>
     <component base="behDotless-ar.medi"/>
     <component base="_dot2hBelow" xOffset="-43" yOffset="-49"/>

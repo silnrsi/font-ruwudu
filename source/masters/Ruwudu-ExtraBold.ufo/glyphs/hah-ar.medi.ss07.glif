@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hah-ar.medi.ss07" format="2">
   <advance width="525"/>
-  <anchor x="321" y="-30" name="bottom"/>
+  <anchor x="295" y="-30" name="bottom"/>
   <anchor x="525" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="302" y="398" name="top"/>
+  <anchor x="302" y="400" name="top"/>
   <outline>
     <component base="hah-ar.medi"/>
   </outline>

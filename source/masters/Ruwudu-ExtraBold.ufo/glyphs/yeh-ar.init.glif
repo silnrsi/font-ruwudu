@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yeh-ar.init" format="2">
   <advance width="335"/>
-  <anchor x="114" y="-242" name="bottom"/>
+  <anchor x="154" y="-246" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="155" y="360" name="top"/>
   <outline>
     <component base="behDotless-ar.init"/>
-    <component base="_dot2hBelow" xOffset="-64" yOffset="-49"/>
+    <component base="_dot2hBelow" xOffset="-26" yOffset="-53"/>
   </outline>
 </glyph>

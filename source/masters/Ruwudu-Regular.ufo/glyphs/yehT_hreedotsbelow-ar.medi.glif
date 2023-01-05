@@ -4,7 +4,7 @@
   <anchor x="124" y="-360" name="bottom"/>
   <anchor x="289" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="112" y="304" name="top"/>
+  <anchor x="105" y="310" name="top"/>
   <outline>
     <component base="alefMaksura-ar.medi"/>
     <component base="_dot3dBelow" xOffset="-41" yOffset="-20"/>

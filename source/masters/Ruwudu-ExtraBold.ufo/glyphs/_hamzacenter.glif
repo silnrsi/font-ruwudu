@@ -3,10 +3,4 @@
   <outline>
     <component base="hamzaabove-ar" xOffset="26" yOffset="-321"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>200</integer>
-    </dict>
-  </lib>
 </glyph>

@@ -3,7 +3,7 @@
   <advance width="425"/>
   <anchor x="242" y="-196" name="bottom"/>
   <anchor x="425" y="0" name="entry"/>
-  <anchor x="255" y="310" name="top"/>
+  <anchor x="242" y="310" name="top"/>
   <outline>
     <component base="behDotless-ar.fina"/>
     <component base="vinvertedabove-ar" xOffset="118" yOffset="-686"/>

@@ -3,7 +3,7 @@
   <advance width="253"/>
   <unicode hex="0623"/>
   <anchor x="99" y="-56" name="bottom"/>
-  <anchor x="94" y="600" name="top"/>
+  <anchor x="94" y="610" name="top"/>
   <outline>
     <component base="alef-ar"/>
     <contour>

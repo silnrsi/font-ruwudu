@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="khah-ar.medi" format="2">
   <advance width="525"/>
-  <anchor x="321" y="-30" name="bottom"/>
+  <anchor x="295" y="-30" name="bottom"/>
   <anchor x="525" y="207" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="297" y="616" name="top"/>

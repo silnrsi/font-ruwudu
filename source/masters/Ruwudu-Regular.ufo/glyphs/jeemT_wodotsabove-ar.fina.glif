@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jeemTwodotsabove-ar.fina" format="2">
   <advance width="537"/>
-  <anchor x="338" y="-448" name="bottom"/>
+  <anchor x="338" y="-455" name="bottom"/>
   <anchor x="537" y="0" name="entry"/>
   <anchor x="332" y="282" name="top"/>
   <outline>

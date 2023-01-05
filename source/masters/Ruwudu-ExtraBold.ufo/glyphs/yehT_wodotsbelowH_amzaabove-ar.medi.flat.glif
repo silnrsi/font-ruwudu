@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehTwodotsbelowHamzaabove-ar.medi.flat" format="2">
   <advance width="257"/>
-  <anchor x="112" y="-262" name="bottom"/>
+  <anchor x="132" y="-262" name="bottom"/>
   <anchor x="257" y="0" name="entry"/>
   <anchor x="0" y="207" name="exit"/>
   <anchor x="71" y="767" name="top"/>

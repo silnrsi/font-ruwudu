@@ -38,9 +38,7 @@
       <point x="391" y="367"/>
       <point x="391" y="367"/>
       <point x="387" y="381" type="curve"/>
-      <point x="378" y="382"/>
-      <point x="379" y="367"/>
-      <point x="369" y="367" type="curve"/>
+      <point x="369" y="367" type="line"/>
     </contour>
   </outline>
 </glyph>

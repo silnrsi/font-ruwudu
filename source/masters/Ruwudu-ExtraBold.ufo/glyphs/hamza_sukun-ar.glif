@@ -6,10 +6,4 @@
     <component base="hamzaabove-ar"/>
     <component base="sukun-ar" xOffset="-40" yOffset="182"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>100</integer>
-    </dict>
-  </lib>
 </glyph>

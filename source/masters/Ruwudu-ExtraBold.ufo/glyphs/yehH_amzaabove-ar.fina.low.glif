@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehHamzaabove-ar.fina.low" format="2">
-  <advance width="902"/>
-  <anchor x="702" y="-317" name="bottom"/>
-  <anchor x="902" y="0" name="entry"/>
-  <anchor x="492" y="369" name="top"/>
+  <advance width="842"/>
+  <anchor x="633" y="-317" name="bottom"/>
+  <anchor x="842" y="0" name="entry"/>
+  <anchor x="423" y="369" name="top"/>
   <outline>
-    <component base="alefMaksura-ar.fina" xOffset="69" yOffset="-207"/>
-    <component base="hamzaabove-ar" xOffset="396" yOffset="-363"/>
+    <component base="alefMaksura-ar.fina" yOffset="-207"/>
+    <component base="hamzaabove-ar" xOffset="327" yOffset="-363"/>
   </outline>
   <lib>
     <dict>

@@ -19,7 +19,7 @@
       <point x="66" y="441"/>
       <point x="24" y="381" type="curve"/>
       <point x="56" y="361" type="line"/>
-      <point x="82" y="384"/>
+      <point x="82" y="385"/>
       <point x="132" y="430"/>
       <point x="162" y="441" type="curve"/>
       <point x="260" y="441"/>
@@ -41,7 +41,7 @@
       <point x="66" y="241"/>
       <point x="24" y="181" type="curve"/>
       <point x="56" y="161" type="line"/>
-      <point x="82" y="184"/>
+      <point x="82" y="185"/>
       <point x="132" y="230"/>
       <point x="162" y="241" type="curve"/>
       <point x="260" y="241"/>

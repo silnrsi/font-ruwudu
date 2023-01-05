@@ -7,9 +7,7 @@
     <component base="alef-ar.allah"/>
     <contour>
       <point x="80" y="409" type="line"/>
-      <point x="88" y="409"/>
-      <point x="94" y="396"/>
-      <point x="104" y="379" type="curve"/>
+      <point x="104" y="379" type="line"/>
       <point x="104" y="406"/>
       <point x="105" y="409"/>
       <point x="109" y="409" type="curve" smooth="yes"/>
@@ -37,9 +35,7 @@
       <point x="106" y="553"/>
       <point x="105" y="555"/>
       <point x="105" y="567" type="curve"/>
-      <point x="96" y="567"/>
-      <point x="96" y="553"/>
-      <point x="86" y="553" type="curve"/>
+      <point x="86" y="553" type="line"/>
     </contour>
   </outline>
   <lib>

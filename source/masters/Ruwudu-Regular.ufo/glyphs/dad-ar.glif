@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dad-ar" format="2">
-  <advance width="1226"/>
+  <advance width="1201"/>
   <unicode hex="0636"/>
   <anchor x="858" y="-30" name="bottom"/>
-  <anchor x="867" y="614" name="top"/>
+  <anchor x="867" y="634" name="top"/>
   <outline>
     <component base="sad-ar"/>
     <component base="_dot1Above" xOffset="758" yOffset="105"/>

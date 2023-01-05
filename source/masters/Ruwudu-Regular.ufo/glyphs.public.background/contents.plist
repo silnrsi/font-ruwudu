@@ -50,8 +50,6 @@
   <string>bismillah-ar.glif</string>
   <key>dal-ar</key>
   <string>dal-ar.glif</string>
-  <key>dal-ar.fina</key>
-  <string>dal-ar.fina.glif</string>
   <key>damma-ar</key>
   <string>damma-ar.glif</string>
   <key>dammainverted-ar</key>
@@ -94,8 +92,6 @@
   <string>hah-ar.medi.ss07.glif</string>
   <key>hah-ar.medi.stack</key>
   <string>hah-ar.medi.stack.glif</string>
-  <key>hamza-ar</key>
-  <string>hamza-ar.glif</string>
   <key>heh-ar</key>
   <string>heh-ar.glif</string>
   <key>heh-ar.fina</key>

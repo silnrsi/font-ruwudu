@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehTwodotsbelowDotabove-ar.init" format="2">
   <advance width="335"/>
-  <anchor x="134" y="-242" name="bottom"/>
+  <anchor x="154" y="-246" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="155" y="610" name="top"/>
   <outline>

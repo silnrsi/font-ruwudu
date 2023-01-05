@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yehThreedotsbelow-ar.fina" format="2">
-  <advance width="902"/>
-  <anchor x="196" y="-760" name="bottom"/>
-  <anchor x="902" y="0" name="entry"/>
-  <anchor x="489" y="369" name="top"/>
+  <advance width="842"/>
+  <anchor x="127" y="-760" name="bottom"/>
+  <anchor x="842" y="0" name="entry"/>
+  <anchor x="420" y="369" name="top"/>
   <outline>
-    <component base="alefMaksura-ar.fina" xOffset="69"/>
-    <component base="_dot3dBelow" xOffset="24" yOffset="-338"/>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="_dot3dBelow" xOffset="-45" yOffset="-338"/>
   </outline>
 </glyph>

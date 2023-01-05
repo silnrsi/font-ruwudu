@@ -4,7 +4,7 @@
   <anchor x="99" y="-212" name="bottom"/>
   <anchor x="207" y="0" name="entry"/>
   <anchor x="0" y="207" name="exit"/>
-  <anchor x="35" y="669" name="top"/>
+  <anchor x="35" y="700" name="top"/>
   <outline>
     <component base="noon-ar.medi.flat"/>
     <component base="_dot2hBelow" xOffset="-86" yOffset="-29"/>

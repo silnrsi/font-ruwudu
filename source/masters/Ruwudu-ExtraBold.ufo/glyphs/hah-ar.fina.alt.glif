@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hah-ar.fina.alt" format="2">
-  <advance width="597"/>
-  <anchor x="370" y="-52" name="bottom"/>
-  <anchor x="597" y="207" name="entry"/>
-  <anchor x="367" y="384" name="top"/>
+  <advance width="602"/>
+  <anchor x="375" y="-52" name="bottom"/>
+  <anchor x="602" y="207" name="entry"/>
+  <anchor x="372" y="384" name="top"/>
   <outline>
-    <component base="hah-ar.fina" xOffset="-5" yOffset="207"/>
+    <component base="hah-ar.fina" yOffset="207"/>
   </outline>
 </glyph>

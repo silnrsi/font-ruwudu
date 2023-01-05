@@ -35,9 +35,9 @@
       <point x="95" y="324" type="line"/>
       <point x="159" y="327" type="line"/>
       <point x="168" y="345"/>
-      <point x="193" y="389"/>
+      <point x="190" y="389"/>
       <point x="200" y="418" type="curve"/>
-      <point x="207" y="389"/>
+      <point x="210" y="389"/>
       <point x="232" y="345"/>
       <point x="241" y="327" type="curve"/>
       <point x="305" y="324" type="line"/>

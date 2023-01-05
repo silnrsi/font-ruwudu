@@ -3,7 +3,7 @@
   <advance width="725"/>
   <anchor x="469" y="-311" name="bottom"/>
   <anchor x="725" y="0" name="entry"/>
-  <anchor x="353" y="534" name="top"/>
+  <anchor x="353" y="500" name="top"/>
   <outline>
     <component base="qafDotless-ar.fina"/>
     <component base="_dot1Above" xOffset="244" yOffset="-15"/>

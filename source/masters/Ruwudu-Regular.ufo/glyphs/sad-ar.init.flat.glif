@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sad-ar.init.flat" format="2">
-  <advance width="708"/>
+  <advance width="688"/>
   <anchor x="336" y="-30" name="bottom"/>
   <anchor x="0" y="207" name="exit"/>
   <anchor x="344" y="415" name="top"/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behDotless-ar.init" format="2">
   <advance width="335"/>
-  <anchor x="132" y="-30" name="bottom"/>
+  <anchor x="102" y="-30" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="134" y="360" name="top"/>
+  <anchor x="129" y="360" name="top"/>
   <outline>
     <contour>
       <point x="184" y="0" type="line"/>

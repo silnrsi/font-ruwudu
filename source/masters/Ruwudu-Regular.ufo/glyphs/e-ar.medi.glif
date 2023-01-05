@@ -4,7 +4,7 @@
   <anchor x="121" y="-358" name="bottom"/>
   <anchor x="289" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="112" y="304" name="top"/>
+  <anchor x="105" y="310" name="top"/>
   <outline>
     <component base="beeh-ar.medi"/>
   </outline>

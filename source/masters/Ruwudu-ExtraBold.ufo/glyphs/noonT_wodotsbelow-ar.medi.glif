@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="noonTwodotsbelow-ar.medi" format="2">
   <advance width="319"/>
-  <anchor x="164" y="-233" name="bottom"/>
+  <anchor x="156" y="-250" name="bottom"/>
   <anchor x="319" y="0" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="95" y="610" name="top"/>

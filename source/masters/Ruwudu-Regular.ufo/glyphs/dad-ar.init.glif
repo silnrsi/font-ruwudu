@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dad-ar.init" format="2">
-  <advance width="735"/>
+  <advance width="715"/>
   <anchor x="340" y="-30" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="370" y="605" name="top"/>
+  <anchor x="370" y="634" name="top"/>
   <outline>
     <component base="sad-ar.init"/>
     <component base="_dot1Above" xOffset="264" yOffset="96"/>

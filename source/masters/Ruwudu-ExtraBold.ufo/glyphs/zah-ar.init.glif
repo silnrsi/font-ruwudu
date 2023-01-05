@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zah-ar.init" format="2">
-  <advance width="810"/>
+  <advance width="770"/>
   <anchor x="422" y="-30" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
   <anchor x="431" y="687" name="top"/>

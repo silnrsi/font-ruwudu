@@ -2,7 +2,7 @@
 <glyph name="keheh-ar.init" format="2">
   <advance width="857"/>
   <anchor x="440" y="-30" name="bottom"/>
-  <anchor x="40" y="0" name="exit"/>
+  <anchor x="0" y="0" name="exit"/>
   <anchor x="235" y="537" name="top"/>
   <outline>
     <contour>

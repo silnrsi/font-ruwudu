@@ -4,7 +4,7 @@
   <anchor x="286" y="-471" name="bottom"/>
   <anchor x="525" y="207" name="entry"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="302" y="398" name="top"/>
+  <anchor x="302" y="400" name="top"/>
   <outline>
     <component base="hah-ar.medi"/>
     <component base="_dot2vBelow" xOffset="204" yOffset="-30"/>

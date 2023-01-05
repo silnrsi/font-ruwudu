@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="theh-ar.fina" format="2">
   <advance width="425"/>
-  <anchor x="215" y="-30" name="bottom"/>
+  <anchor x="251" y="-30" name="bottom"/>
   <anchor x="425" y="0" name="entry"/>
   <anchor x="211" y="646" name="top"/>
   <outline>

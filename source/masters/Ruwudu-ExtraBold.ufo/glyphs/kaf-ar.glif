@@ -5,7 +5,7 @@
   <anchor x="366" y="-40" name="bottom"/>
   <anchor x="349" y="524" name="top"/>
   <outline>
-    <component base="hamza-ar" xOffset="251" yOffset="223"/>
+    <component base="hamza-ar" xOffset="221" yOffset="223"/>
     <contour>
       <point x="667" y="153" type="curve" smooth="yes"/>
       <point x="668" y="300"/>

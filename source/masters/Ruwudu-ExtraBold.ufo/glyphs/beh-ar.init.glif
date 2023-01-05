@@ -3,7 +3,7 @@
   <advance width="335"/>
   <anchor x="171" y="-270" name="bottom"/>
   <anchor x="0" y="0" name="exit"/>
-  <anchor x="154" y="360" name="top"/>
+  <anchor x="129" y="360" name="top"/>
   <outline>
     <component base="_dot1Below" xOffset="61" yOffset="-50"/>
     <component base="behDotless-ar.init"/>

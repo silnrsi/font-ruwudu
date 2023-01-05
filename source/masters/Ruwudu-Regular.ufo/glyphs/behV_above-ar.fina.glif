@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="behVabove-ar.fina" format="2">
   <advance width="425"/>
-  <anchor x="261" y="-30" name="bottom"/>
+  <anchor x="251" y="-30" name="bottom"/>
   <anchor x="425" y="0" name="entry"/>
   <anchor x="240" y="496" name="top"/>
   <outline>
