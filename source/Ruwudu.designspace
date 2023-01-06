@@ -57,7 +57,7 @@
         <!-- Ruwudu Medium -->
         <instance       familyname="Ruwudu"
                           filename="instances/Ruwudu-Medium.ufo"
-                              name="Ruwudu Medium"
+                              name="Ruwudu-Medium"
                 stylemapfamilyname="Ruwudu Medium"
                  stylemapstylename="regular"
                          stylename="Medium"
@@ -73,7 +73,7 @@
         <!-- Ruwudu SemiBold -->
         <instance       familyname="Ruwudu"
                           filename="instances/Ruwudu-SemiBold.ufo"
-                              name="Ruwudu SemiBold"
+                              name="Ruwudu-SemiBold"
                 stylemapfamilyname="Ruwudu SemiBold"
                  stylemapstylename="regular"
                          stylename="SemiBold"
@@ -89,7 +89,7 @@
         <!-- Ruwudu Bold -->
         <instance       familyname="Ruwudu"
                           filename="instances/Ruwudu-Bold.ufo"
-                              name="Ruwudu Bold"
+                              name="Ruwudu-Bold"
                 stylemapfamilyname="Ruwudu Bold"
                  stylemapstylename="bold"
                          stylename="Bold"
