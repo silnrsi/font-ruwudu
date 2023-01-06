@@ -470,7 +470,7 @@ ifinfo(styleName, "Regular") {
 	pos number-ar.2 @Digits.small' <-1200 190 -300 0> @Digits.small' <-900 190 -350 0>;
 	pos number-ar   @Digits.small'  <-825 190 -350 0>;
 }
-ifinfo(styleName, "ExtraBold") {
+ifinfo(styleName, "Bold") {
 	pos number-ar.3 @Digits.small' <-1650 200 -275 0> @Digits.small' <-1375 200 -300 0> @Digits.small' <-1075 200 -350 0>;
 	pos number-ar.2 @Digits.small' <-1270 200 -300 0> @Digits.small' <-975 200 -350 0>;
 	pos number-ar   @Digits.small'  <-900 200 -350 0>;

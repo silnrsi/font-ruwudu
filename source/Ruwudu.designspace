@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="3">
 <axes>
-        <axis default="400" maximum="800" minimum="400" name="weight" tag="wght">
+        <axis default="400" maximum="700" minimum="400" name="weight" tag="wght">
             <map input="400" output="400" /> <!-- Regular -->
-            <map input="500" output="525" /> <!-- Medium -->
-            <map input="600" output="650" /> <!-- SemiBold -->
-            <map input="800" output="800" /> <!-- Bold -->
+            <map input="500" output="500" /> <!-- Medium -->
+            <map input="600" output="600" /> <!-- SemiBold -->
+            <map input="700" output="700" /> <!-- Bold -->
         <labelname xml:lang="en">Weight</labelname>
         </axis>
         <axis default="100" maximum="100" minimum="100" name="width" tag="wdth">
@@ -31,7 +31,7 @@
         </source>
         <source familyname="Ruwudu" filename="masters/Ruwudu-Bold.ufo" name="Ruwudu Bold" stylename="Bold">
             <location>
-                <dimension name="weight" xvalue="800" />
+                <dimension name="weight" xvalue="700" />
                 <dimension name="width" xvalue="100" />
                 <dimension name="custom" xvalue="0" />
             </location>
@@ -63,7 +63,7 @@
                          stylename="Medium"
                 postscriptfontname="Ruwudu-Medium">
             <location>
-                <dimension name="weight" xvalue="525" />
+                <dimension name="weight" xvalue="500" />
                 <dimension name="width" xvalue="100" />
                 <dimension name="custom" xvalue="0" />
             </location>
@@ -79,7 +79,7 @@
                          stylename="SemiBold"
                 postscriptfontname="Ruwudu-SemiBold">
             <location>
-                <dimension name="weight" xvalue="650" />
+                <dimension name="weight" xvalue="600" />
                 <dimension name="width" xvalue="100" />
                 <dimension name="custom" xvalue="0" />
             </location>
@@ -95,7 +95,7 @@
                          stylename="Bold"
                 postscriptfontname="Ruwudu-Bold">
             <location>
-                <dimension name="weight" xvalue="800" />
+                <dimension name="weight" xvalue="700" />
                 <dimension name="width" xvalue="100" />
                 <dimension name="custom" xvalue="0" />
             </location>
