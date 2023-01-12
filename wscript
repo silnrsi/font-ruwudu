@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! /usr/bin/python3
 # this is a smith configuration file
 
 # set the default output folders
@@ -25,7 +25,7 @@ generated = 'generated/'
 typetunerfile = 'source/typetuner/feat_all.xml'
 
 designspace('source/Ruwudu.designspace',
-    instanceparams='-l ' + generated + '${DS:FILENAME_BASE}_createintance.log',
+    instanceparams='-l ' + generated + '{$FAMILY}_createinstances.log',
     target = process('${DS:FILENAME_BASE}.ttf',
         cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${source}']),
 #        Note: ttfautohint-generated hints don't maintain stroke thickness at joins (nor hamza), so we're not hinting these fonts
@@ -40,7 +40,7 @@ designspace('source/Ruwudu.designspace',
     ),
     script = ['arab'],
     pdf = fret(params='-m 25 -r -oi'),
-    woff = woff('web/${DS:FILENAME_BASE}', 
+    woff = woff('web/${DS:FILENAME_BASE}',
         metadata=f'../source/{FAMILY}-WOFF-metadata.xml',
         ),
     typetuner = typetuner(typetunerfile),
