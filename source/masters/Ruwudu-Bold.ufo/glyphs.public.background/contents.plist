@@ -14,12 +14,12 @@
   <string>alef-ar.fina.allah.glif</string>
   <key>alef-ar.fina.low</key>
   <string>alef-ar.fina.low.glif</string>
+  <key>alef-ar.fina.wideshort</key>
+  <string>alef-ar.fina.wideshort.glif</string>
+  <key>alef-ar.fina.wideshort.low</key>
+  <string>alef-ar.fina.wideshort.low.glif</string>
   <key>alef-ar.wideshort</key>
   <string>alef-ar.wideshort.glif</string>
-  <key>alef-ar.wideshort.fina</key>
-  <string>alef-ar.wideshort.fina.glif</string>
-  <key>alef-ar.wideshort.fina.low</key>
-  <string>alef-ar.wideshort.fina.low.glif</string>
   <key>alefMaksura-ar</key>
   <string>alefM_aksura-ar.glif</string>
   <key>alefMaksura-ar.fina.low</key>
