@@ -23,8 +23,8 @@ echo "Updating woff metadata files..."
 psfmakewoffmetadata -q -n ruwudu      -i org.sil.fonts -o source/Ruwudu-WOFF-metadata.xml source/masters/*-Regular.ufo  
 
 echo "Building internal fea..."
-psfmakefea -q -o source/masters/Ruwudu-Regular.ufo/features.fea -l Ruwudu-Regular-psfmakefea.log -i source/opentype/master.feax --omitaps "topright, ogonek, caret_1, caret_2, caret_3, top_3, top_4, top_alef" source/masters/*-Regular.ufo &
-psfmakefea -q -o source/masters/Ruwudu-Bold.ufo/features.fea -l Ruwudu-Bold-psfmakefea.log -i source/opentype/master.feax --omitaps "topright, ogonek, caret_1, caret_2, caret_3, top_3, top_4, top_alef" source/masters/*-Bold.ufo &
+psfmakefea -q -o source/masters/Ruwudu-Regular.ufo/features.fea -l Ruwudu-Regular-psfmakefea.log -i source/opentype/main.feax --omitaps "topright, ogonek, caret_1, caret_2, caret_3, top_3, top_4, top_alef" source/masters/*-Regular.ufo &
+psfmakefea -q -o source/masters/Ruwudu-Bold.ufo/features.fea -l Ruwudu-Bold-psfmakefea.log -i source/opentype/main.feax --omitaps "topright, ogonek, caret_1, caret_2, caret_3, top_3, top_4, top_alef" source/masters/*-Bold.ufo &
 
 wait
 

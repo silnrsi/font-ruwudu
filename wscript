@@ -2,7 +2,8 @@
 # this is a smith configuration file
 
 # set the default output folders
-DOCDIR=['documentation', 'web']
+DOCDIR = ['documentation', 'web']
+generated = 'generated/'
 
 # set package name
 APPNAME = "Ruwudu"
@@ -19,9 +20,6 @@ ftmlTest('tools/ftml-smith.xsl')
 # APs to omit:
 OMITAPS = '--omitaps "topright, ogonek, caret_1, caret_2, caret_3, top_3, top_4, top_alef"'
 
-# location for misc build results
-generated = 'generated/'
-
 typetunerfile = 'source/typetuner/feat_all.xml'
 
 designspace('source/Ruwudu.designspace',
@@ -35,7 +33,7 @@ designspace('source/Ruwudu.designspace',
     ap = generated + '${DS:FILENAME_BASE}.xml',
     opentype = fea('generated/${DS:FILENAME_BASE}.fea',
         mapfile = 'generated/${DS:FILENAME_BASE}.map',
-        master = 'source/opentype/master.feax',
+        master = 'source/opentype/main.feax',
         make_params = OMITAPS
     ),
     script = ['arab'],
@@ -47,5 +45,5 @@ designspace('source/Ruwudu.designspace',
 )
 
 
-#def configure(ctx):
-#    ctx.find_program('ttfautohint')
+def configure(ctx):
+    ctx.find_program('ttfautohint')

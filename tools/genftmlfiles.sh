@@ -2,7 +2,7 @@
 
 # This script rebuilds the algorithmically-generated ftml files. See README.md
 
-# Copyright (c) 2020-2022 SIL International  (http://www.sil.org)
+# Copyright (c) 2020-2023 SIL International  (http://www.sil.org)
 # Released under the MIT License (http://opensource.org/licenses/
 
 # Assumes we're in the root folder, i.e., font-Ruwudu
@@ -16,11 +16,10 @@ then
 fi
 
 echo "Rebuilding ftml files..."
-tools/absgenftml.py -q -t 'AllChars (auto)'         source/masters/Ruwudu-Regular.ufo  tests/AllChars.ftml        -l tests/logs/AllChars.log         -s 'local(Alkalami)=Alk (inst)' --ap "_?dia[AB]$" --xsl ../tools/ftml.xsl --scale 250 -i source/glyph_data.csv -s 'url(../references/Alkalami-Light-1_300.ttf)=1.3' -s 'url(../results/Ruwudu-Regular.ttf)=Reg'  &
-tools/absgenftml.py -q -t 'AL Sorted (auto)'        source/masters/Ruwudu-Regular.ufo  tests/ALsorted.ftml        -l tests/logs/ALsorted.log         -s 'local(Alkalami)=Alk (inst)' --ap "_?dia[AB]$" --xsl ../tools/ftml.xsl --scale 250 -i source/glyph_data.csv -s 'url(../references/Alkalami-Light-1_300.ttf)=1.3' -s 'url(../results/Ruwudu-Regular.ttf)=Reg'  &
-tools/absgenftml.py -q -t 'DiacTest1 (auto)'        source/masters/Ruwudu-Regular.ufo  tests/DiacTest1.ftml       -l tests/logs/DiacTest1.log        -s 'local(Alkalami)=Alk (inst)' --ap "_?dia[AB]$" --xsl ../tools/ftml.xsl --scale 250 -i source/glyph_data.csv -s 'url(../references/Alkalami-Light-1_300.ttf)=1.3' -s 'url(../results/Ruwudu-Regular.ttf)=Reg'  & 
-tools/absgenftml.py -q -t 'DiacTest1 Short (auto)'  source/masters/Ruwudu-Regular.ufo  tests/DiacTest1-short.ftml -l tests/logs/DiacTest1-short.log  -s 'local(Alkalami)=Alk (inst)' --ap "_?dia[AB]$" --xsl ../tools/ftml.xsl --scale 250 -i source/glyph_data.csv -s 'url(../references/Alkalami-Light-1_300.ttf)=1.3' -s 'url(../results/Ruwudu-Regular.ttf)=Reg'  &
-tools/absgenftml.py -q -t 'Subtending Marks (auto)' source/masters/Ruwudu-Regular.ufo  tests/SubtendingMarks.ftml -l tests/logs/Subtending.log       -s 'local(Alkalami)=Alk (inst)' --ap "_?dia[AB]$" --xsl ../tools/ftml.xsl --scale 250 -i source/glyph_data.csv -s 'url(../references/Alkalami-Light-1_300.ttf)=1.3' -s 'url(../results/Ruwudu-Regular.ttf)=Reg'  &
+tools/absgenftml.py -q -t 'AllChars (auto)'         source/masters/Ruwudu-Regular.ufo  tests/AllChars-auto.ftml        -l tests/logs/AllChars-auto.log         -s 'local(Alkalami)=Alk (inst)' --ap "_?dia[AB]$" --xsl ../tools/ftml.xsl --scale 250 -i source/glyph_data.csv -s 'url(../results/Ruwudu-Regular.ttf)=Reg' -s 'url(../results/Ruwudu-Medium.ttf)=Med' -s 'url(../results/Ruwudu-SemiBold.ttf)=SBo' -s 'url(../results/Ruwudu-Bold.ttf)=Bo' &
+tools/absgenftml.py -q -t 'AL Sorted (auto)'        source/masters/Ruwudu-Regular.ufo  tests/ALsorted-auto.ftml        -l tests/logs/ALsorted-auto.log         -s 'local(Alkalami)=Alk (inst)' --ap "_?dia[AB]$" --xsl ../tools/ftml.xsl --scale 250 -i source/glyph_data.csv -s 'url(../results/Ruwudu-Regular.ttf)=Reg' -s 'url(../results/Ruwudu-Medium.ttf)=Med' -s 'url(../results/Ruwudu-SemiBold.ttf)=SBo' -s 'url(../results/Ruwudu-Bold.ttf)=Bo' &
+tools/absgenftml.py -q -t 'DiacTest1 (auto)'        source/masters/Ruwudu-Regular.ufo  tests/DiacTest1-auto.ftml       -l tests/logs/DiacTest1-auto.log        -s 'local(Alkalami)=Alk (inst)' --ap "_?dia[AB]$" --xsl ../tools/ftml.xsl --scale 250 -i source/glyph_data.csv -s 'url(../results/Ruwudu-Regular.ttf)=Reg' -s 'url(../results/Ruwudu-Medium.ttf)=Med' -s 'url(../results/Ruwudu-SemiBold.ttf)=SBo' -s 'url(../results/Ruwudu-Bold.ttf)=Bo' & 
+tools/absgenftml.py -q -t 'DiacTest1 Short (auto)'  source/masters/Ruwudu-Regular.ufo  tests/DiacTest1-short-auto.ftml -l tests/logs/DiacTest1-short-auto.log  -s 'local(Alkalami)=Alk (inst)' --ap "_?dia[AB]$" --xsl ../tools/ftml.xsl --scale 250 -i source/glyph_data.csv -s 'url(../results/Ruwudu-Regular.ttf)=Reg' -s 'url(../results/Ruwudu-Medium.ttf)=Med' -s 'url(../results/Ruwudu-SemiBold.ttf)=SBo' -s 'url(../results/Ruwudu-Bold.ttf)=Bo' &
+tools/absgenftml.py -q -t 'Subtending Marks (auto)' source/masters/Ruwudu-Regular.ufo  tests/SubtendingMarks-auto.ftml -l tests/logs/SubtendingMarks-auto.log       -s 'local(Alkalami)=Alk (inst)' --ap "_?dia[AB]$" --xsl ../tools/ftml.xsl --scale 250 -i source/glyph_data.csv -s 'url(../results/Ruwudu-Regular.ttf)=Reg' -s 'url(../results/Ruwudu-Medium.ttf)=Med' -s 'url(../results/Ruwudu-SemiBold.ttf)=SBo' -s 'url(../results/Ruwudu-Bold.ttf)=Bo' &
 wait
 echo done.
-

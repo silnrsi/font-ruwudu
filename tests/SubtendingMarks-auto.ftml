@@ -3,9 +3,11 @@
 <ftml version="1.0">
   <head>
     <fontscale>250</fontscale>
-    <fontsrc label="2.0">url(../references/Ruwudu-Regular.ttf)</fontsrc>
+    <fontsrc label="Alk (inst)">local(Alkalami)</fontsrc>
     <fontsrc label="Reg">url(../results/Ruwudu-Regular.ttf)</fontsrc>
-    <fontsrc label="ExBo">url(../results/Ruwudu-ExtraBold.ttf)</fontsrc>
+    <fontsrc label="Med">url(../results/Ruwudu-Medium.ttf)</fontsrc>
+    <fontsrc label="SBo">url(../results/Ruwudu-SemiBold.ttf)</fontsrc>
+    <fontsrc label="Bo">url(../results/Ruwudu-Bold.ttf)</fontsrc>
     <styles>
       <style feats="'ss02' 1" name="ss02_1"/>
       <style feats="'ss02' 1, 'ss03' 1" name="ss02_1_ss03_1"/>
