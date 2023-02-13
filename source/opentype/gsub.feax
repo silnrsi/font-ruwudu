@@ -261,6 +261,16 @@ ifinfo(styleName, "Regular") {
 	pos number-ar.2 @Digits.small' <-1200 190 -300 0> @Digits.small' <-900 190 -350 0>;
 	pos number-ar   @Digits.small'  <-825 190 -350 0>;
 }
+ifinfo(styleName, "Medium") { # currently the same as Regular
+	pos number-ar.3 @Digits.small' <-1525 190 -275 0> @Digits.small' <-1250 190 -300 0> @Digits.small' <-975 190 -350 0>;
+	pos number-ar.2 @Digits.small' <-1200 190 -300 0> @Digits.small' <-900 190 -350 0>;
+	pos number-ar   @Digits.small'  <-825 190 -350 0>;
+}
+ifinfo(styleName, "SemiBold") { # currently the same as Bold
+	pos number-ar.3 @Digits.small' <-1650 200 -275 0> @Digits.small' <-1375 200 -300 0> @Digits.small' <-1075 200 -350 0>;
+	pos number-ar.2 @Digits.small' <-1270 200 -300 0> @Digits.small' <-975 200 -350 0>;
+	pos number-ar   @Digits.small'  <-900 200 -350 0>;
+}
 ifinfo(styleName, "Bold") {
 	pos number-ar.3 @Digits.small' <-1650 200 -275 0> @Digits.small' <-1375 200 -300 0> @Digits.small' <-1075 200 -350 0>;
 	pos number-ar.2 @Digits.small' <-1270 200 -300 0> @Digits.small' <-975 200 -350 0>;
@@ -655,25 +665,6 @@ feature calt {
 
 		#subs to get a short, high alef-ar.init with lam followed by jeem/hah/khah (rule 40)
 		sub alef-ar' lam-ar.init @hahMedi_any  by  alef-ar.high;
-
-		# replace sequence of digits, up to three places
-		# Uniscribe or Harfbuzz 'latn'
-		sub @EndofAyah' lookup Ayah_3 @Digits' lookup digit_small @Digits' lookup digit_small @Digits' lookup digit_small;
-		sub @EndofAyah' lookup Ayah_2 @Digits' lookup digit_small @Digits' lookup digit_small;
-		sub @EndofAyah @Digits' lookup digit_small;
-
-		sub number-ar' lookup number-ar_3 @Digits' lookup digit_small @Digits' lookup digit_small @Digits' lookup digit_small;
-		sub number-ar' lookup number-ar_2 @Digits' lookup digit_small @Digits' lookup digit_small;
-		sub number-ar @Digits' lookup digit_small;
-
-		# HarfBuzz 'arab'
-		sub @Digits' lookup digit_small @Digits' lookup digit_small @Digits' lookup digit_small @EndofAyah' lookup Ayah_3;
-		sub @Digits' lookup digit_small @Digits' lookup digit_small @EndofAyah' lookup Ayah_2;
-		sub @Digits' lookup digit_small @EndofAyah;
-
-		sub @Digits' lookup digit_small @Digits' lookup digit_small @Digits' lookup digit_small number-ar' lookup number-ar_3;
-		sub @Digits' lookup digit_small @Digits' lookup digit_small number-ar' lookup number-ar_2;
-		sub @Digits' lookup digit_small number-ar;
 	} calt_lkp2;
 
 	# Create stacking jeem/hah behavior
