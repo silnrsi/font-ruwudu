@@ -1,6 +1,6 @@
 ---
 title: Ruwudu - About
-fontversion: 2.000
+fontversion: 3.000
 ---
 
 ## About this project
@@ -11,8 +11,6 @@ For more information on the visual characteristics of the font see [Design](desi
 
 
 ## Future plans
-
-We plan to develop a bold version of Ruwudu in the future.
 
 The highest priorities for future additions and enhancements are mainly driven by:
 
