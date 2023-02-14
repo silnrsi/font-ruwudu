@@ -41,6 +41,15 @@ ChangeLog
 
 #### Improved
 - Updated space characters to match industry standards (emspace, enspace, etc.)
+- Adjust width for some mathematical symols
+  - 003C LESS-THAN SIGN
+  - 003E GREATER-THAN SIGN
+  - 00AC NOT SIGN
+  - 00D7 MULTIPLICATION SIGN
+  - 00F7 DIVISION SIGN
+  - 2248 ALMOST EQUAL TO
+  - 2264 LESS-THAN OR EQUAL TO
+  - 2265 GREATER-THAN OR EQUAL TO
 
 ### 2022-06-09 (WSTech team) Ruwudu Version 2.000 (production release)
 - Split Alkalami Light font v 1.300 into a new typeface called Ruwudu. 
