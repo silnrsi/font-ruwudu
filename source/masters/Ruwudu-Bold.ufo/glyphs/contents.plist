@@ -1606,10 +1606,6 @@
   <string>threedots-ar.glif</string>
   <key>threedots-ar.small</key>
   <string>threedots-ar.small.glif</string>
-  <key>threedotsabovesmall-ar</key>
-  <string>threedotsabovesmall-ar.glif</string>
-  <key>threedotsdownbelow-ar.narrow</key>
-  <string>threedotsdownbelow-ar.narrow.glif</string>
   <key>threeperemspace</key>
   <string>threeperemspace.glif</string>
   <key>threequarters</key>
@@ -1630,8 +1626,6 @@
   <string>two.pnum.glif</string>
   <key>two.small</key>
   <string>two.small.glif</string>
-  <key>twodotsnarrow-ar</key>
-  <string>twodotsnarrow-ar.glif</string>
   <key>twosuperior</key>
   <string>twosuperior.glif</string>
   <key>u</key>
