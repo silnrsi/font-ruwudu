@@ -8,6 +8,6 @@
   <outline>
     <component base="behDotless-ar.medi.flat"/>
     <component base="_dot1Below" xOffset="36" yOffset="-50"/>
-    <component base="threedots-ar.small" xOffset="-60" yOffset="532"/>
+    <component base="_dot3uAbove.small" xOffset="-60" yOffset="532"/>
   </outline>
 </glyph>

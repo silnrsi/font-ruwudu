@@ -740,7 +740,6 @@
     <string>yehbarreeHamzaabove-ar.fina</string>
     <string>kashida-ar</string>
     <string>threedots-ar</string>
-    <string>threedots-ar.small</string>
     <string>alefabove-ar</string>
     <string>alefbelow-ar</string>
     <string>hamzaabove-ar</string>
@@ -955,6 +954,7 @@
     <string>_dot3dAbove</string>
     <string>_dot3dBelow</string>
     <string>_dot3uAbove</string>
+    <string>_dot3uAbove.small</string>
     <string>_gafBar</string>
     <string>_hamzacenter</string>
   </array>
@@ -1662,7 +1662,6 @@
     <string>yehbarreeHamzaabove-ar.fina</string>
     <string>kashida-ar</string>
     <string>threedots-ar</string>
-    <string>threedots-ar.small</string>
     <string>alefabove-ar</string>
     <string>alefbelow-ar</string>
     <string>hamzaabove-ar</string>
@@ -1877,6 +1876,7 @@
     <string>_dot3dAbove</string>
     <string>_dot3dBelow</string>
     <string>_dot3uAbove</string>
+    <string>_dot3uAbove.small</string>
     <string>_gafBar</string>
     <string>_hamzacenter</string>
   </array>
@@ -2976,8 +2976,6 @@
     <string>uni0663.small</string>
     <key>threedots-ar</key>
     <string>uni061E</string>
-    <key>threedots-ar.small</key>
-    <string>uni061E.small</string>
     <key>threeperemspace</key>
     <string>uni2004</string>
     <key>two-ar</key>

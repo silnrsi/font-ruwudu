@@ -6,7 +6,7 @@
   <anchor x="316" y="1036" name="top"/>
   <outline>
     <component base="ain-ar.fina"/>
-    <component base="threedots-ar.small" xOffset="202" yOffset="776"/>
+    <component base="_dot3uAbove.small" xOffset="202" yOffset="776"/>
     <component base="_dot1Above" xOffset="208" yOffset="266"/>
   </outline>
 </glyph>
