@@ -2772,6 +2772,9 @@ feature calt {
         sub @pre_yb_need_alt yehbarree-ar.fina' by yehbarree-ar.fina.alt;
     } calt_lkp1;
 
+    # Can these be moved down with the other jeem/hah lookups?
+    lookup prehah_alt;
+    lookup hahfinal_alt;
     lookup calt_lkp2 {
         lookupflag IgnoreMarks;
         #subs to get a short, high lam-ar.init with jeem/hah/khah (rule 39)
