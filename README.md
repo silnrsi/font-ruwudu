@@ -1,40 +1,18 @@
-# Ruwudu
+# Ruwudu [![Build Status](http://build.palaso.org/app/rest/builds/buildType:Ruwudu/statusIcon)](http://build.palaso.org/viewType.html?buildTypeId=Fonts_Ruwudu&guest=1)
 
-Ruwudu is the Manga word for "writing". This style of writing is used by the Manga people in Niger, West Africa. This font was initially designed as a lighter or companion version of Alkalami Regular. The design is still very much influenced by the Rubutun Kano style, but was based on samples of footnotes from the market edition manuscripts. These were made with a monoline tool, likely a ball point pen or something similar. The extreme swashes and tails of Alkalami are replaced by more classic and reserved shapes. 
+This project is intended to provide a free and open font family for Arabic script languages in West Africa that use the Rubutun Kano style. This font supports the characters known to be used by languages written in this style of Arabic script, but may not have the characters needed for other languages. Smart font routines automatically adjust the position of diacritics to support and optimize arbitrary base+diacritic combinations. This project uses a UFO-based design and production workflow, with all sources in open formats and a completely open-source build toolkit. 
 
-## Project status [![Build Status](http://build.palaso.org/app/rest/builds/buildType:Ruwudu/statusIcon)](http://build.palaso.org/viewType.html?buildTypeId=Fonts_Ruwudu&guest=1)
+To download the fonts visit the [Ruwudu downloads page](https://software.sil.org/ruwudu/download/) or the [Github releases page](https://github.com/silnrsi/font-ruwudu/releases).
 
-Ruwudu v2.000 has been released.
+For more information on using and developing the fonts see the full project documentation. This is available in three forms:
 
-We plan to develop a bold version of Ruwudu in the future.
+- *local HTML* - Download the release or source package and open the file `documentation/index.html` in a browser
+- *local PDF* - Download the release or source package and open the file `documentation/pdf/index.pdf`
+- *Web site* - Visit the [Ruwudu web site](https://software.sil.org/ruwudu) 
 
-Font sources are published in a public repository. The build process requires [smith](https://github.com/silnrsi/smith) and project build parameters are set in the [wscript](wscript).    
+For a complete list of changes in this version see the [FONTLOG.txt](FONTLOG.txt).
 
-## About ftml tests
+For copyright and licensing information - including any Reserved Font Names - see [OFL.txt](OFL.txt).
 
-After a successful build, the results/ folder will contain, along with the built ttf and woff fonts, a number of
-test files in an xml-based format called FTML. Examples are AllChars-ng.xml, Diac-ng.xml. 
-There is an ftml.xsl file that can be used to view these ftml documents directly in Firefox. 
+For practical information about using, modifying and redistributing this font see [OFL-FAQ.txt](OFL-FAQ.txt).
 
-However, in order for Firefox to access the .xsl file, you need to relax its "strict URI" policy by going to about:config and
-setting [security.fileuri.strict_origin_policy](http://kb.mozillazine.org/Security.fileuri.strict_origin_policy) to false.
-
-Once you have this setting in effect, you can load the FTML documents directly into Firefox and see the built font rendered.
-
-## License
-
-Ruwudu is licensed under the SIL Open Font License. See [OFL.txt](OFL.txt) and [OFL-FAQ.txt](OFL-FAQ.txt) for details.
-
-## See also
-
-For more details about this project, including changelog and acknowledgements see [FONTLOG.txt](FONTLOG.txt).
-
-For further information about this font, including Unicode ranges supported and OpenType font features and how to use them, and licensing, please see the documentation on [software.sil.org/ruwudu](http://software.sil.org/ruwudu/) or in the documentation/ subfolder.
-
-# Developer notes
-
-This project uses a UFO-based design and production workflow, with all sources in open formats and a completely open-source build toolkit. For more details see [SIL Font Development Notes](https://silnrsi.github.io/silfontdev/en-US/Introduction.html).
-
-We welcome contributions to this font project, such as new glyphs, enhanced smart font code, or bug fixes. The best way to begin the process is to file an issue in the [Github project](https://github.com/silnrsi/font-ruwudu) or respond to an existing issue and express your interest. Then we can begin to correspond with you regarding what all might be required and discuss how to best submit your contributions.
-
-To enable us to accept contributions in a way that honors your contribution and respects your copyright while preserving long-term flexibility for open source licensing, you would also need to agree to the SIL International Contributor License Agreement for Font Software (v1.0) prior to sending us your contribution. To read more about this requirement and find out how to submit the required form, please visit the [CLA information page](https://software.sil.org/fontcla).
