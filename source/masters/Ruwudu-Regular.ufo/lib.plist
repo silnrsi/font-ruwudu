@@ -629,6 +629,8 @@
     <string>lam_alefMadda-ar.fina</string>
     <string>lam_alefHamzaabove-ar</string>
     <string>lam_alefHamzaabove-ar.fina</string>
+    <string>lam_alefHamzabelow-ar</string>
+    <string>lam_alefHamzabelow-ar.fina</string>
     <string>meem-ar</string>
     <string>meem-ar.fina</string>
     <string>meem-ar.medi</string>
@@ -953,6 +955,7 @@
     <string>_dot3dBelow</string>
     <string>_dot3uAbove</string>
     <string>_dot3uAbove.small</string>
+    <string>_dot3uBelow</string>
     <string>_gafBar</string>
     <string>_hamzacenter</string>
   </array>
@@ -1551,6 +1554,8 @@
     <string>lam_alefMadda-ar.fina</string>
     <string>lam_alefHamzaabove-ar</string>
     <string>lam_alefHamzaabove-ar.fina</string>
+    <string>lam_alefHamzabelow-ar</string>
+    <string>lam_alefHamzabelow-ar.fina</string>
     <string>meem-ar</string>
     <string>meem-ar.fina</string>
     <string>meem-ar.medi</string>
@@ -1875,6 +1880,7 @@
     <string>_dot3dBelow</string>
     <string>_dot3uAbove</string>
     <string>_dot3uAbove.small</string>
+    <string>_dot3uBelow</string>
     <string>_gafBar</string>
     <string>_hamzacenter</string>
   </array>
@@ -2590,6 +2596,10 @@
     <string>uni06440623</string>
     <key>lam_alefHamzaabove-ar.fina</key>
     <string>uni06440623.fina</string>
+    <key>lam_alefHamzabelow-ar</key>
+    <string>uni06440625</string>
+    <key>lam_alefHamzabelow-ar.fina</key>
+    <string>uni06440625.fina</string>
     <key>lam_alefMadda-ar</key>
     <string>uni06440622</string>
     <key>lam_alefMadda-ar.fina</key>

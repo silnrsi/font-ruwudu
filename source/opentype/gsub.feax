@@ -73,40 +73,63 @@ lookup FontCheck {
       n' lookup FontCheck_n;
 } FontCheck;
 
-# Subtending Mark lookups
-# think these are in liga feature (pass 10)
+#---  calt and ss08 feature (pass 9/10) ---
 
-# End of Ayah digits and number-ar - calt
+# Make only ss08 effect only fatha, kasra, and damma.ss08.
+# (No special forms are needed for fatha and kasra.)
+lookup ss08_aux {
+	sub [ alef-ar alef-ar.high damma-ar ] by [ alef-ar.ss08 alef-ar.high.ss08 damma-ar.ss08 ];
+	#sub alef-ar.high by alef-ar.high.ss08;
+	#sub damma-ar by damma-ar.ss08;
+} ss08_aux;
+
+#---  calt feature (pass 9) ---
+lookup HausaCALT {
+  lookupflag 0 ;
+    sub @cno_ss04 by @c_ss04;
+    sub @cno_ss09 by @c_ss09;
+} HausaCALT  ;
+
+lookup HausaCALT2 {
+ lookupflag 0 ;
+	sub [alef-ar alef-ar.high]' lookup ss08_aux [fatha-ar kasra-ar damma-ar]' lookup ss08_aux;
+} HausaCALT2  ;
+
+#---  liga feature (pass 10)
+
+# Subtending Mark lookups
+
+# End of Ayah digits and number-ar
 lookup digit_small {
   sub @Digits by @Digits.small;
 } digit_small;
 
-# replace single digit Ayah with double digit Ayah - calt
+# replace single digit Ayah with double digit Ayah
 lookup Ayah_2 {
 	sub endofayah-ar by endofayah-ar.2;
 } Ayah_2;
 
-#replace single digit Ayah with triple digit Ayah - calt
+#replace single digit Ayah with triple digit Ayah
 lookup Ayah_3 {
 	sub endofayah-ar by endofayah-ar.3;
 } Ayah_3;
 
-# replace single digit number-ar with double digit number-ar - calt
+# replace single digit number-ar with double digit number-ar
 lookup number-ar_2 {
 	sub number-ar by number-ar.2;
 } number-ar_2;
 
-#replace single digit number-ar with triple digit number-ar - calt
+#replace single digit number-ar with triple digit number-ar
 lookup number-ar_3 {
 	sub number-ar by number-ar.3;
 } number-ar_3;
 
 # make the lam-alef ligature have colored hamzas if wanted
 # not used?? - I guess because it is toothbrush style
-lookup splitAlefHamza {
-	sub alefHamzaabove-ar by alef-ar hamzaabove-ar;
-	sub alefHamzabelow-ar by alef-ar hamzabelow-ar;
-} splitAlefHamza;
+# lookup splitAlefHamza {
+#	sub alefHamzaabove-ar by alef-ar hamzaabove-ar;
+#	sub alefHamzabelow-ar by alef-ar hamzabelow-ar;
+# } splitAlefHamza;
 
 # make alef into alef.wide
 lookup alef2wide {
@@ -123,17 +146,7 @@ lookup hamza2nostem {
 	sub [ hamzaabove-ar hamzabelow-ar ] by [hamzaabove-ar.nostem hamzabelow-ar.nostem ];
 } hamza2nostem;
 
-#---  locl and ss08 feature (pass 3/10) ---
-
-# Make only ss08 effect only fatha, kasra, and damma.ss08.
-# (No special forms are needed for fatha and kasra.)
-lookup ss08_aux {
-	sub [ alef-ar alef-ar.high damma-ar ] by [ alef-ar.ss08 alef-ar.high.ss08 damma-ar.ss08 ];
-	#sub alef-ar.high by alef-ar.high.ss08;
-	#sub damma-ar by damma-ar.ss08;
-} ss08_aux;
-
-# CHECK other fonts have reorder madda
+# Consider reordering madda above vowels (dagger alef) in future versions, especially if requested (UTR#53)
 
 #---  calt feature (pass 9) ---
 
@@ -207,17 +220,10 @@ lookup flatten_pre_hah {
 	sub @pre_hah_not_flat'  @hahMedials_stack  by  @pre_hah_flat;  # or should this be hahMedi_any ??????????
 } flatten_pre_hah;
 
-# used to flatten jeems, but it gives a warning 'ambiguous "ignore sub"'
-lookup no_change {  # for chaining lookups
-	ignore sub  @pre_hah_flat;
-	ignore sub  @hahMedi_any;
-} no_change;
-
 lookup flatten_hah_aux {  # for chaining lookups
 	sub @cno_ss07  by  @c_ss07;
 	sub @hahMedials_stack by @hahMedials_flat;
 } flatten_hah_aux;
-
 
 # Flatten long jeem sequences - what these situations are is hard to describe. :-)
 lookup flatten_hah {
@@ -227,8 +233,8 @@ lookup flatten_hah {
 	ignore sub  @c_init  @hahMedi_any';  # short sequence
 	
 	# flat jeem jeem jeem.low - don't flatten first jeem, it will make the prior flat form attach too low.
-	sub @pre_hah_flat' lookup no_change  @hahMedi_any' lookup no_change  @hahMedi_any' lookup flatten_hah_aux;
-	
+	sub @pre_hah_flat' @hahMedi_any' @hahMedi_any' lookup flatten_hah_aux;
+
 	# Case 8: flatten jeems
 	sub  @hahMedi_any' lookup flatten_hah_aux  @hahMedi_any  [ @post_hah_final_low @hahMedials_low @hahFinals ];
 	
@@ -378,10 +384,10 @@ feature frac {
 feature ccmp {
 
   lookup FontCheck;
-
+	script arab;
+	
 	# Always split alefhamza (0623, 0625) so the hamza can be colored:
 	lookup ccmp_arab_1 {
-		script arab;
 			sub alefHamzaabove-ar by alef-ar hamzaabove-ar;
 			sub alefHamzabelow-ar by alef-ar hamzabelow-ar;
 	} ccmp_arab_1;
@@ -416,22 +422,12 @@ feature ccmp {
 		sub alefabove-ar fatha-ar by fatha_alefabove-ar;
 	} ccmp_arab_4;
 
+    language HAU ;
 } ccmp;
 
 # HB PAUSE
 
 #---  locl feature (pass 3) ---
-
-lookup HausaCALT {
-  lookupflag 0 ;
-    sub @cno_ss04 by @c_ss04;
-    sub @cno_ss09 by @c_ss09;
-} HausaCALT  ;
-
-lookup HausaCALT2 {
- lookupflag 0 ;
-	sub [alef-ar alef-ar.high]' lookup ss08_aux [fatha-ar kasra-ar damma-ar]' lookup ss08_aux;
-} HausaCALT2  ;
 
 feature locl {
 	script arab;
@@ -442,7 +438,7 @@ feature locl {
 	} locl_lkp;
     language HAU ;
 } locl;	
-							
+
 # HB PAUSE
 
 #---  fina feature (pass 5) ---
@@ -650,16 +646,21 @@ feature rlig {
 
 feature calt {
   script arab;
+
+# Create stacking jeem/hah behavior
+	lookup prehah_alt;
+	lookup hahfinal_alt;
+	lookup shift_pre_hah;
+	lookup shift_post_hah;
+	lookup flatten_pre_hah;
+	lookup flatten_hah;
+
 	lookup calt_lkp1 {
 		lookupflag IgnoreMarks;
 
 		# Slightly shorter tail for yeh-barree before beh/yeh/noon forms:
 		sub @pre_yb_need_alt  yehbarree-ar.fina'  by  yehbarree-ar.fina.alt;
 	} calt_lkp1;
-	
-		# Can these be moved down with the other jeem/hah lookups?
-	lookup prehah_alt;
-	lookup hahfinal_alt;
 	
 	lookup calt_lkp2 {
 		lookupflag IgnoreMarks;
@@ -669,13 +670,9 @@ feature calt {
 
 		#subs to get a short, high alef-ar.init with lam followed by jeem/hah/khah (rule 40)
 		sub alef-ar' lam-ar.init @hahMedi_any  by  alef-ar.high;
-	} calt_lkp2;
+		sub alef-ar.ss08' lam-ar.init @hahMedi_any  by  alef-ar.high.ss08;
 
-	# Create stacking jeem/hah behavior
-	lookup shift_pre_hah;
-	lookup shift_post_hah;
-	lookup flatten_pre_hah;
-	lookup flatten_hah;
+	} calt_lkp2;
 
   language HAU ; # Hausa
      lookup HausaCALT ;
@@ -774,9 +771,6 @@ feature salt {
 		# shorter tails - handled by calt
 		sub yehbarree-ar.fina by yehbarree-ar.fina.alt;
 
-		# small latin and arabic digits for end of ayah - handled by calt
-		#sub @cno_numAlt by @c_numAlt;
-		#sub @cno_numArAlt by @c_numArAlt;
 	} salt_lkp;
 
 } salt;
@@ -820,7 +814,6 @@ feature ss04 {
 	} ss04_lkp;
 } ss04;
 
-
 #********************
 # No stacking jeem/hah: ss07 (pass 10)
 
@@ -835,11 +828,9 @@ feature ss07 {
 		
 		# flat jeem jeem - don't flatten first jeem, it will make the prior flat form attach too low.
 		
-		sub @pre_hah_flat' lookup no_change  @hahMedials_stack' lookup no_change  @hahMedials_flat;  # already flattened
-		
-		sub @pre_hah_flat' lookup no_change  @hahMedi_any' lookup no_change;
-		
-		sub lam-ar.init.high  @hahMedials_stack'  lookup no_change;
+		ignore sub @pre_hah_flat' @hahMedials_stack' @hahMedials_flat;  # already flattened
+		ignore sub @pre_hah_flat' @hahMedi_any';
+		ignore sub lam-ar.init.high  @hahMedials_stack';
 
 		sub @cno_ss07'    lookup flatten_hah_aux;
     sub @hahMedi_any' lookup flatten_hah_aux;
@@ -851,8 +842,8 @@ feature ss07 {
 		sub @post_hah_final_low'  by  @post_hah_final_toShift;
 		sub @hahMedials_low'      by  @hahMedials_flat;
 	} ss07_lkp2;
-} ss07;
 
+} ss07;
 
 #********************
 # Alef + fatha/kasra/damma alternates: ss08 (pass 10)
@@ -865,6 +856,7 @@ feature ss08 {
 	lookup ss08_lkp {
 		sub [alef-ar alef-ar.high]' lookup ss08_aux [fatha-ar kasra-ar damma-ar]' lookup ss08_aux;
 	} ss08_lkp;
+
 } ss08;
 
 #********************
@@ -878,6 +870,7 @@ feature ss09 {
 	lookup ss09_lkp {
 		sub @cno_ss09 by @c_ss09;
 	} ss09_lkp;
+
 } ss09;
 
 #---  pnum feature (pass 10) ---
@@ -892,8 +885,6 @@ feature pnum {
 feature aalt {
 	feature ccmp;
 	feature locl;
-	feature frac;
-	feature rlig;
 	feature salt;
 	feature ss02;
 	feature ss03;
