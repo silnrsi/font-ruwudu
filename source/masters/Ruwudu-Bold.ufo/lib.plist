@@ -8,9 +8,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3149</string>
-  <key>com.schriftgestaltung.customName</key>
-  <string>Extra</string>
+  <string>3151</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/alef-ar/space/space/behDotless-ar/space/behDotless-ar.fina/space/behDotless-ar.medi/space/behDotless-ar.init/space/behDotless-ar.medi.flat/space/hah-ar/space/hah-ar.fina/space/hah-ar.medi/space/hah-ar.init/space/dal-ar/space/dal-ar.fina/space/reh-ar/space/reh-ar.fina/space/seen-ar/space/seen-ar.fina/space/seen-ar.medi/space/seen-ar/space/seen-ar.medi.flat/space/sad-ar/space/sad-ar.fina/space/sad-ar.medi/space/sad-ar.init/space/sad-ar.medi.flat/space/sad-ar.init.flat/space/tah-ar/space/tah-ar.fina/space/tah-ar.medi/space/tah-ar.init/space/ain-ar/space/ain-ar.fina/space/ain-ar.medi/space/ain-ar.init/space/ain-ar.medi.flat/space/fehDotless-ar/space/fehDotless-ar.fina/space/fehDotless-ar.medi/space/fehDotless-ar.init/space/qafDotless-ar/space/qafDotless-ar.fina/space/kaf-ar/space/kaf-ar.fina/space/keheh-ar/space/keheh-ar.fina/space/keheh-ar.medi/space/keheh-ar.init/space/kafswash-ar/space/kafswash-ar.fina/space/kafswash-ar.medi/space/kafswash-ar.init/space/lam-ar/space/lam-ar.fina/space/lam-ar.medi/space/lam-ar.init/space/lam-ar.medi.flat/space/lam-ar.init.high/space/lam_alef-ar/space/lam_alef-ar.fina/space/meem-ar/space/meem-ar.fina/space/meem-ar.medi/space/meem-ar.init/space/meem-ar.medi.flat/space/meem-ar.init.flat/space/noonghunna-ar/space/noonghunna-ar.fina/space/heh-ar/space/heh-ar.fina/space/heh-ar.medi/space/heh-ar.init/space/waw-ar/space/waw-ar.fina/space/alefMaksura-ar/space/alefMaksura-ar.fina/space/yehbarree-ar/space/yehbarree-ar.fina/space/yehbarree-ar.fina.alt</string>
@@ -20,7 +18,7 @@
 /ain-ar.init/ainThreedots-ar.init/ainTwodotshorizontalabove-ar.init/ghain-ar.init/ghainThreedotsabove-ar.init/ghainThreedotsabove-ar.init.ss09</string>
     <string>/lam-ar.fina/space/lam_alef-ar.fina/space/lam_alefMadda-ar.fina/space/lam_alefHamzaabove-ar.fina/space/lam_alefHamzabelow-ar.fina/space/meem-ar.fina/space/noon-ar.fina/space/noonghunna-ar.fina/space/noonTwodotsbelow-ar.fina/space/noonAfrican-ar.fina/space/heh-ar.fina/space/tehMarbuta-ar.fina/space/waw-ar.fina/space/wawHamzaabove-ar.fina/space/oe-ar.fina/space/yu-ar.fina/space/kirghizyu-ar.fina/space/alefMaksura-ar.fina/space/alefMaksura-ar.fina.low/space/yeh-ar.fina/space/yeh-ar.fina.low/space/yehHamzaabove-ar.fina/space/yehHamzaabove-ar.fina.low/space/yehTwodotsbelowHamzaabove-ar.fina/space/yehTwodotsbelowHamzaabove-ar.fina.low/space/yehTwodotsbelowDotabove-ar.fina/space/yehTwodotsbelowDotabove-ar.fina.low/space/yeh-farsi.fina/space/yeh-farsi.fina.low/space/yehThreedotsabove-farsi.fina/space/yehThreedotsabove-farsi.fina.low/space/yehThreedotsabove-farsi.fina.ss09/space/yehThreedotsabove-farsi.fina.low.ss09/space/e-ar.fina/space/e-ar.fina.low/space/space/yehThreedotsbelow-ar.fina/space/yehThreedotsbelow-ar.fina.low/space/yehbarree-ar.fina/space/yehbarree-ar.fina.alt/space/yehbarreeHamzaabove-ar.fina/space/alef-ar.fina.allah/space/alefMadda-ar.fina.allah/space/alefHamzaabove-ar.fina.allah/space/heh-ar.fina.allah</string>
     <string>/nyeh-ar.fina.alt/nyeh-ar.fina.ss07/dyeh-ar.fina/dyeh-ar.fina.alt/dyeh-ar.fina.ss07/hah-ar.fina/hah-ar.fina.alt/hah-ar.fina.ss07/khah-ar.fina/khah-ar.fina.alt/khah-ar.fina.ss07/jeemTwodotsabove-ar.fina/jeemTwodotsabove-ar.fina.alt/jeemTwodotsabove-ar.fina.ss07</string>
-    <string>/alef-ar.fina/alefFathaattached-ar.fina</string>
+    <string>/approxequal/approxequal.rtl</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -41,7 +39,7 @@
   <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
   <string/>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
-  <integer>800</integer>
+  <integer>700</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
   <integer>100</integer>
   <key>com.schriftgestaltung.fontMasterOrder</key>
@@ -966,7 +964,7 @@
   <key>com.schriftgestaltung.weight</key>
   <string>Bold</string>
   <key>com.schriftgestaltung.weightValue</key>
-  <integer>800</integer>
+  <integer>700</integer>
   <key>com.schriftgestaltung.width</key>
   <string>Regular</string>
   <key>com.schriftgestaltung.widthValue</key>

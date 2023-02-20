@@ -2618,7 +2618,7 @@ feature ss07 {
         # flat jeem jeem - don't flatten first jeem, it will make the prior flat form attach too low.
         ignore sub @pre_hah_flat' @hahMedials_stack' @hahMedials_flat;
         # already flattened
-        ignore sub @pre_hah_flat' @hahMedi_any';
+        ignore sub @pre_hah_flat @hahMedi_any;
         ignore sub lam-ar.init.high @hahMedials_stack';
         sub @cno_ss07' lookup flatten_hah_aux;
         sub @hahMedi_any' lookup flatten_hah_aux;
