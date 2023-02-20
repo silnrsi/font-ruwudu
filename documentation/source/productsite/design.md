@@ -15,7 +15,7 @@ Type samples showing some of the inventory of glyphs can be found here:
 
 An example of some text is shown below. 
 
-![Ruwudu Sample - Genesis 11](assets/images/RuwuduGen11-BoldRegular.png){.fullsize}
+<img class='fullsize' alt='Ruwudu Sample - Genesis 11' src='https://software.sil.org/ruwudu/wp-content/uploads/sites/62/2023/02/RuwuduGen11-BoldRegular.png' />
 [caption]<em>Ruwudu Sample - Genesis 11</em>[/caption]
 
 
