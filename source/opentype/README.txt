@@ -6,8 +6,8 @@ font family. This information should be distributed along with the Ruwudu
 fonts and any derivative works.
 
 These files are part of the Ruwudu font family 
-(http://software.sil.org/ruwudu/) and are 
-Copyright (c) 2015-2023 SIL International (http://www.sil.org/),
+(https://software.sil.org/ruwudu/) and are 
+Copyright (c) 2015-2023 SIL International (https://www.sil.org/),
 with Reserved Font Names "Ruwudu" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License,

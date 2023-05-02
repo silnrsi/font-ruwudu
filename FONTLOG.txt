@@ -37,7 +37,7 @@ ChangeLog
 
 ### 2023-02-22 (WSTech team) Ruwudu Version 3.000
 #### New
-- Added 3 weights — Medium, SemiBold, and Bold
+- Added 3 weights ï¿½ Medium, SemiBold, and Bold
 - Added OpenType language support for Hausa
 - Added characters: 
   - U+0870 ARABIC LETTER ALEF WITH ATTACHED FATHA
@@ -98,7 +98,7 @@ N: Bob Hallissy
 W: Script engineer
 
 N: Becca Hirsbrunner Spalinger
-W: http://software.sil.org/ruwudu/
+W: https://software.sil.org/ruwudu/
 D: Lead designer
 
 N: Nicolas Spalinger
@@ -107,4 +107,4 @@ W: Script engineer
 The Ruwudu font project is maintained by SIL International.
 
 For more information see the Ruwudu website:
-http://software.sil.org/ruwudu/
+https://software.sil.org/ruwudu/

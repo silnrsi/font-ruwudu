@@ -1,4 +1,4 @@
-# Ruwudu [![Build Status](http://build.palaso.org/app/rest/builds/buildType:Ruwudu/statusIcon)](http://build.palaso.org/viewType.html?buildTypeId=Fonts_Ruwudu&guest=1)
+# Ruwudu [![Build Status](https://build.palaso.org/app/rest/builds/buildType:Ruwudu/statusIcon)](https://build.palaso.org/viewType.html?buildTypeId=Fonts_Ruwudu&guest=1)
 
 This project is intended to provide a free and open font family for Arabic script languages in West Africa that use the Rubutun Kano style. This font supports the characters known to be used by languages written in this style of Arabic script, but may not have the characters needed for other languages. Smart font routines automatically adjust the shape and position of characters. This project uses a UFO-based design and production workflow, with all sources in open formats and a completely open-source build toolkit. 
 

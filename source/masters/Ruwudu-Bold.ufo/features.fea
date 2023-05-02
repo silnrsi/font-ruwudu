@@ -1021,25 +1021,25 @@ markClass damma-ar.ss08 <anchor 126 251> @_center;
 # baseClass lam_alefHamzabelow-ar <anchor 114 -236> @bottom_2;
 # baseClass lam_alefHamzabelow-ar.fina <anchor 110 -240> @bottom_2;
 #**********************************
-# This file is part of Ruwudu font family (http://software.sil.org/ruwudu/) 
-# and is Copyright (c) 2015-2023 SIL International (http://www.sil.org/),
+# This file is part of Ruwudu font family (https://software.sil.org/ruwudu/) 
+# and is Copyright (c) 2015-2023 SIL International (https://www.sil.org/),
 # with Reserved Font Names "Ruwudu" and "SIL".
 #
 # This Font Software is licensed under the SIL Open Font License, Version 1.1.
 #
 # You should have received a copy of the license along with this Font Software.
-# If this is not the case, go to (http://scripts.sil.org/OFL) for all the
+# If this is not the case, go to (https://scripts.sil.org/OFL) for all the
 # details including an FAQ.
 #**********************************
 #**********************************
-# This file is part of Ruwudu font family (http://software.sil.org/ruwudu/) 
-# and is Copyright (c) 2015-2023 SIL International (http://www.sil.org/),
+# This file is part of Ruwudu font family (https://software.sil.org/ruwudu/) 
+# and is Copyright (c) 2015-2023 SIL International (https://www.sil.org/),
 # with Reserved Font Names "Ruwudu" and "SIL".
 #
 # This Font Software is licensed under the SIL Open Font License, Version 1.1.
 #
 # You should have received a copy of the license along with this Font Software.
-# If this is not the case, go to (http://scripts.sil.org/OFL) for all the
+# If this is not the case, go to (https://scripts.sil.org/OFL) for all the
 # details including an FAQ.
 #**********************************
 #**********************************
@@ -1122,14 +1122,14 @@ markClass damma-ar.ss08 <anchor 126 251> @_center;
 @EndofAyah2 = [endofayah-ar.2 endofayah-ar.2.ss02 endofayah-ar.2.ss03];
 @EndofAyah3 = [endofayah-ar.3 endofayah-ar.3.ss02 endofayah-ar.3.ss03];
 #**********************************
-# This file is part of Ruwudu font family (http://software.sil.org/ruwudu/) 
-# and is Copyright (c) 2015-2023 SIL International (http://www.sil.org/),
+# This file is part of Ruwudu font family (https://software.sil.org/ruwudu/) 
+# and is Copyright (c) 2015-2023 SIL International (https://www.sil.org/),
 # with Reserved Font Names "Ruwudu" and "SIL".
 #
 # This Font Software is licensed under the SIL Open Font License, Version 1.1.
 #
 # You should have received a copy of the license along with this Font Software.
-# If this is not the case, go to (http://scripts.sil.org/OFL) for all the
+# If this is not the case, go to (https://scripts.sil.org/OFL) for all the
 # details including an FAQ.
 #**********************************
 #**********************************
@@ -2986,14 +2986,14 @@ feature aalt {
 } aalt;
 
 #**********************************
-# This file is part of Ruwudu font family (http://software.sil.org/ruwudu/) 
-# and is Copyright (c) 2015-2023 SIL International (http://www.sil.org/),
+# This file is part of Ruwudu font family (https://software.sil.org/ruwudu/) 
+# and is Copyright (c) 2015-2023 SIL International (https://www.sil.org/),
 # with Reserved Font Names "Ruwudu" and "SIL".
 #
 # This Font Software is licensed under the SIL Open Font License, Version 1.1.
 #
 # You should have received a copy of the license along with this Font Software.
-# If this is not the case, go to (http://scripts.sil.org/OFL) for all the
+# If this is not the case, go to (https://scripts.sil.org/OFL) for all the
 # details including an FAQ.
 #**********************************
 #****************************
