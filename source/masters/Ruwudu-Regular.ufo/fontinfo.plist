@@ -7,13 +7,13 @@
   <key>capHeight</key>
   <integer>660</integer>
   <key>copyright</key>
-  <string>Copyright (c) SIL International, 2015-2023</string>
+  <string>Copyright (c) SIL International, 2015-2024</string>
   <key>descender</key>
   <integer>-741</integer>
   <key>familyName</key>
   <string>Ruwudu</string>
   <key>openTypeHeadCreated</key>
-  <string>2023/02/22 13:37:43</string>
+  <string>2023/12/12 14:16:52</string>
   <key>openTypeHheaAscender</key>
   <integer>867</integer>
   <key>openTypeHheaDescender</key>
@@ -27,13 +27,13 @@
   <key>openTypeNameDesignerURL</key>
   <string>https://software.sil.org/ruwudu</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2015-2023, SIL International (https://www.sil.org/),
+  <string>Copyright (c) 2015-2024, SIL International (https://www.sil.org/),
 with Reserved Font Names "Ruwudu" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
 This license is copied below, and is also available with an FAQ at:
-https://scripts.sil.org/OFL
+https://openfontlicense.org/
 
 ----------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
@@ -123,7 +123,7 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 </string>
   <key>openTypeNameLicenseURL</key>
-  <string>https://scripts.sil.org/OFL</string>
+  <string>https://openfontlicense.org/</string>
   <key>openTypeNameManufacturer</key>
   <string>SIL International</string>
   <key>openTypeNameManufacturerURL</key>
