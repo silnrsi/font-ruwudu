@@ -6,12 +6,12 @@ Open Font License, Version 1.1 (https://openfontlicense.org/).
 */
 @font-face {
     font-family: Ruwudu-R;
-    src: url("../../../web/Ruwudu-Regular.woff2") format("woff2");
+    src: url("../../../results/Ruwudu-Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family: Ruwudu-B;
-    src: url("../../../web/Ruwudu-Bold.woff2") format("woff2");
+    src: url("../../../results/Ruwudu-Bold.ttf") format("truetype");
 }
 
 
