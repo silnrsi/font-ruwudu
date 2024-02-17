@@ -19,11 +19,11 @@ Type samples showing some of the inventory of glyphs can be found here:
 
 Examples of some text is shown below. 
 
-![Ruwudu Sample - Four weights](assets/images/weights.png){.fullsize}
+![Ruwudu Sample - Four weights](../assets/images/weights.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC https://software.sil.org/ruwudu/wp-content/uploads/sites/62/2023/02/weights.png -->
 <figcaption>Ruwudu Sample - Four weights</figcaption>
 
-![Ruwudu Sample - Genesis 11](assets/images/RuwuduGen11-BoldRegular.png){.fullsize}
+![Ruwudu Sample - Genesis 11](../assets/images/RuwuduGen11-BoldRegular.png){.fullsize}
 <!-- PRODUCT SITE IMAGE SRC https://software.sil.org/ruwudu/wp-content/uploads/sites/62/2023/02/RuwuduGen11-BoldRegular.png -->
 <figcaption>Ruwudu Sample - Genesis 11</figcaption>
 
