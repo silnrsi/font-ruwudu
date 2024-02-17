@@ -87,7 +87,7 @@ End of ayah B | <span dir="rtl" class='Ruwudu-ss03-2-R normal'>&#x202D;&#x6DD;&#
 
 ### Other user font features
 
-## Proportional Figures
+#### Proportional Figures
 
 Ruwudu supports the OpenType **Proportional Figures (pnum)** for Latin digits. *This feature is not supported in TypeTuner Web.*
 
