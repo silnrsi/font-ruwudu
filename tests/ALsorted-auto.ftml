@@ -2,6 +2,7 @@
 <?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
 <ftml version="1.0">
   <head>
+    <comment>Background colors: light red: a character is missing from UFO; else light orange: includes a character from Unicode version 16.0 or later; else light green: a character is new in this version of the font</comment>
     <fontscale>250</fontscale>
     <fontsrc label="Alk (inst)">local(Alkalami)</fontsrc>
     <fontsrc label="Reg">url(../results/Ruwudu-Regular.ttf)</fontsrc>
@@ -65,15 +66,15 @@
       <comment>alef-ar</comment>
       <string>\u000627 \u00200D\u000627 </string>
     </test>
-    <test background="#ffc8a0" label="U+0870">
+    <test label="U+0870">
       <comment>alefFathaattached-ar</comment>
       <string>\u000870 \u00200D\u000870 </string>
     </test>
-    <test background="#ffc8a0" label="U+0872">
+    <test label="U+0872">
       <comment>alefRightmiddlestroke-ar</comment>
       <string>\u000872 \u00200D\u000872 </string>
     </test>
-    <test background="#ffc8a0" label="U+0874">
+    <test label="U+0874">
       <comment>alefKasraattached-ar</comment>
       <string>\u000874 \u00200D\u000874 </string>
     </test>
