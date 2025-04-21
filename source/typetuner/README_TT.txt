@@ -15,7 +15,7 @@ A number of glyph variations are accessible through Stylistic
 Sets available via the OpenType technology. 
 
 Ruwudu is released under the SIL Open Font License.
-Ruwudu is a trademark of SIL International.
+Ruwudu is a trademark of SIL Global.
 	
 See the OFL and OFL-FAQ for details of the SIL Open Font License.
 See the FONTLOG for information on this and previous releases.

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
   <uniqueid id="org.sil.fonts.ruwudu.3.001" />
-  <vendor name="SIL International" url="www.sil.org" />
+  <vendor name="SIL Global" url="www.sil.org" />
   <credits>
     <credit
       name="Sharon Correll"
@@ -26,12 +26,12 @@
   </credits>
   <description url="https://software.sil.org/ruwudu/">
     <text lang="en">
-      Ruwudu is the Manga word for "writing". This style of writing is used by the Manga people in Niger, West Africa. This font was initially designed as a lighter or companion version of Alkalami Regular. The design is still very much influenced by the Rubutun Kano style, but was based on samples of footnotes from the market edition manuscripts. These were made with a monoline tool, likely a ball point pen or something similar. The extreme swashes and tails of Alkalami are replaced by more classic and reserved shapes. 
+      Ruwudu is the Manga word for "writing". This style of writing is used by the Manga people in Niger, West Africa. This font was initially designed as a lighter or companion version of Alkalami Regular. The design is still very much influenced by the Rubutun Kano style, but was based on samples of footnotes from the market edition manuscripts. These were made with a monoline tool, likely a ball point pen or something similar. The extreme swashes and tails of Alkalami are replaced by more classic and reserved shapes.
     </text>
   </description>
   <license url="https://openfontlicense.org" id="org.openfontlicense.1.1">
     <text lang="en">
-      Copyright (c) 2015-2024, SIL International (https://www.sil.org/),
+      Copyright (c) 2015-2025, SIL Global (https://www.sil.org/),
       with Reserved Font Names "Ruwudu" and "SIL".
       
       This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -129,10 +129,10 @@
   </license>
   <copyright>
     <text lang="en">
-      Copyright (c) SIL International, 2015-2024
+      Copyright (c) SIL Global, 2015-2025
     </text>
   </copyright>
   <trademark>
-    <text lang="en">Ruwudu is a trademark of SIL International. </text>
+    <text lang="en">Ruwudu is a trademark of SIL Global.</text>
   </trademark>
 </metadata>

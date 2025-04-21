@@ -7,13 +7,13 @@
   <key>capHeight</key>
   <integer>660</integer>
   <key>copyright</key>
-  <string>Copyright (c) SIL International, 2015-2024</string>
+  <string>Copyright (c) SIL Global, 2015-2025</string>
   <key>descender</key>
   <integer>-741</integer>
   <key>familyName</key>
   <string>Ruwudu</string>
   <key>openTypeHeadCreated</key>
-  <string>2024/03/13 06:41:43</string>
+  <string>2025/04/21 15:45:54</string>
   <key>openTypeHheaAscender</key>
   <integer>867</integer>
   <key>openTypeHheaDescender</key>
@@ -27,7 +27,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>https://software.sil.org/ruwudu</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2015-2024, SIL International (https://www.sil.org/),
+  <string>Copyright (c) 2015-2025, SIL Global (https://www.sil.org/),
 with Reserved Font Names "Ruwudu" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -124,7 +124,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNameLicenseURL</key>
   <string>https://openfontlicense.org/</string>
   <key>openTypeNameManufacturer</key>
-  <string>SIL International</string>
+  <string>SIL Global</string>
   <key>openTypeNameManufacturerURL</key>
   <string>www.sil.org</string>
   <key>openTypeNamePreferredFamilyName</key>
@@ -132,7 +132,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Ruwudu Regular: 2024</string>
+  <string>SIL Global: Ruwudu Regular: 2025</string>
   <key>openTypeNameVersion</key>
   <string>Version 3.001</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -220,7 +220,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>styleName</key>
   <string>Regular</string>
   <key>trademark</key>
-  <string>Ruwudu is a trademark of SIL International.</string>
+  <string>Ruwudu is a trademark of SIL Global.</string>
   <key>unitsPerEm</key>
   <integer>1000</integer>
   <key>versionMajor</key>
