@@ -45,7 +45,6 @@
   <key>com.schriftgestaltung.glyphOrder</key>
   <array>
     <string>.notdef</string>
-    <string>.null</string>
     <string>space</string>
     <string>space-ar</string>
     <string>exclam</string>
@@ -968,7 +967,6 @@
   <key>public.glyphOrder</key>
   <array>
     <string>.notdef</string>
-    <string>.null</string>
     <string>space</string>
     <string>space-ar</string>
     <string>exclam</string>
@@ -2320,6 +2318,8 @@
     <string>uni0760.init</string>
     <key>fehTwodotsbelow-ar.medi</key>
     <string>uni0760.medi</string>
+    <key>fi</key>
+    <string>uniFB01</string>
     <key>figurespace</key>
     <string>uni2007</string>
     <key>firststrongisolate</key>
@@ -2330,6 +2330,8 @@
     <string>uni0665</string>
     <key>five-ar.small</key>
     <string>uni0665.small</string>
+    <key>fl</key>
+    <string>uniFB02</string>
     <key>four-ar</key>
     <string>uni0664</string>
     <key>four-ar.small</key>
@@ -2629,7 +2631,7 @@
     <key>meem-ar.medi.flat</key>
     <string>uni0645.medi.flat</string>
     <key>micro</key>
-    <string>uni00B5</string>
+    <string>mu</string>
     <key>naira</key>
     <string>uni20A6</string>
     <key>narrownbspace</key>
@@ -2728,6 +2730,8 @@
     <string>uni0661</string>
     <key>one-ar.small</key>
     <string>uni0661.small</string>
+    <key>onesuperior</key>
+    <string>uni00B9</string>
     <key>paragraphseparator</key>
     <string>uni2029</string>
     <key>parenleft-ar</key>
@@ -2980,10 +2984,14 @@
     <string>uni061E</string>
     <key>threeperemspace</key>
     <string>uni2004</string>
+    <key>threesuperior</key>
+    <string>uni00B3</string>
     <key>two-ar</key>
     <string>uni0662</string>
     <key>two-ar.small</key>
     <string>uni0662.small</string>
+    <key>twosuperior</key>
+    <string>uni00B2</string>
     <key>vabove-ar</key>
     <string>uni065A</string>
     <key>veh-ar</key>
